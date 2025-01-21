@@ -101,7 +101,7 @@
       function sendMessageToUnity() {
         if (unityInstance) {
           const message = "hello this is message from external JS";
-          unityInstance.SendMessage("TestStory", "_FromWeb", message);
+          unityInstance.SendMessage("ArtGallery", "_FromWeb", message);
           console.log("Sent to Unity:", message);
         } else {
           console.warn("Unity instance is not ready yet.");
