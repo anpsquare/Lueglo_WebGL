@@ -6,16 +6,10 @@
     <title>Unity WebGL Player | Lugelo3d</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
-    <style>
-      #control-buttons {
-        display: none; /* Hide buttons until Unity is ready */
-        margin-top: 20px;
-      }
-    </style>
   </head>
   <body>
     <div id="unity-container" class="unity-desktop">
-      <canvas id="unity-canvas" width="960" height="600"></canvas>
+      <canvas id="unity-canvas" width=960 height=600></canvas>
       <div id="unity-loading-bar">
         <div id="unity-logo"></div>
         <div id="unity-progress-bar-empty">
@@ -29,13 +23,6 @@
         <div id="unity-build-title">Lugelo3d</div>
       </div>
     </div>
-
-    <!-- Buttons to interact with Unity -->
-    <div id="control-buttons">
-      <button id="send-json-button">Send JSON to Unity (_LoadStory)</button>
-      <button id="test-json-button">Send JSON to Unity (_TestJson)</button>
-    </div>
-
     <script>
       var container = document.querySelector("#unity-container");
       var canvas = document.querySelector("#unity-canvas");
@@ -44,6 +31,12 @@
       var fullscreenButton = document.querySelector("#unity-fullscreen-button");
       var warningBanner = document.querySelector("#unity-warning");
 
+      // Shows a temporary message banner/ribbon for a few seconds, or
+      // a permanent error message on top of the canvas if type=='error'.
+      // If type=='warning', a yellow highlight color is used.
+      // Modify or remove this function to customize the visually presented
+      // way that non-critical warnings and error messages are presented to the
+      // user.
       function unityShowBanner(msg, type) {
         function updateBannerVisibility() {
           warningBanner.style.display = warningBanner.children.length ? 'block' : 'none';
@@ -75,60 +68,54 @@
         showBanner: unityShowBanner,
       };
 
-      let unityInstance;
+      // By default Unity keeps WebGL canvas render target size matched with
+      // the DOM size of the canvas element (scaled by window.devicePixelRatio)
+      // Set this to false if you want to decouple this synchronization from
+      // happening inside the engine, and you would instead like to size up
+      // the canvas DOM size and WebGL render target sizes yourself.
+      // config.matchWebGLToCanvasSize = false;
 
-      // Load Unity instance
+      if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+        // Mobile device style: fill the whole browser client area with the game canvas:
+
+        var meta = document.createElement('meta');
+        meta.name = 'viewport';
+        meta.content = 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes';
+        document.getElementsByTagName('head')[0].appendChild(meta);
+        container.className = "unity-mobile";
+
+        // To lower canvas resolution on mobile devices to gain some
+        // performance, uncomment the following line:
+        // config.devicePixelRatio = 1;
+
+        canvas.style.width = window.innerWidth + 'px';
+        canvas.style.height = window.innerHeight + 'px';
+
+        unityShowBanner('WebGL builds are not supported on mobile devices.');
+      } else {
+        // Desktop style: Render the game canvas in a window that can be maximized to fullscreen:
+
+        canvas.style.width = "960px";
+        canvas.style.height = "600px";
+      }
+
+      loadingBar.style.display = "block";
+
       var script = document.createElement("script");
       script.src = loaderUrl;
       script.onload = () => {
         createUnityInstance(canvas, config, (progress) => {
           progressBarFull.style.width = 100 * progress + "%";
-        }).then((instance) => {
-          unityInstance = instance;
+        }).then((unityInstance) => {
           loadingBar.style.display = "none";
           fullscreenButton.onclick = () => {
             unityInstance.SetFullscreen(1);
           };
-
-          // Show the control buttons once Unity is ready
-          document.getElementById("control-buttons").style.display = "block";
         }).catch((message) => {
           alert(message);
         });
       };
       document.body.appendChild(script);
-
-      // Function to send JSON data to Unity (_LoadStory)
-      document.getElementById("send-json-button").addEventListener("click", function() {
-        const storyData = {
-          storyID: "123",
-          title: "A Great Story",
-          description: "This is a sample description of the story.",
-        };
-
-        const jsonString = JSON.stringify(storyData);
-
-        if (unityInstance) {
-          unityInstance.SendMessage('TestStoryObject', '_LoadStory', jsonString);
-        } else {
-          console.error("Unity instance is not initialized yet.");
-        }
-      });
-
-      // Function to send JSON data to Unity (_TestJson)
-      document.getElementById("test-json-button").addEventListener("click", function() {
-        const testMessage = {
-          message: "Hello from JavaScript!",
-        };
-
-        const jsonString = JSON.stringify(testMessage);
-
-        if (unityInstance) {
-          unityInstance.SendMessage('TestStoryObject', '_TestJson', jsonString);
-        } else {
-          console.error("Unity instance is not initialized yet.");
-        }
-      });
     </script>
   </body>
 </html>
