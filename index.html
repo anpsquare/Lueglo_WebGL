@@ -113,7 +113,7 @@
                     console.log("Sending JSON:", jsonString);
 
                     if (unityInstance) {
-                        unityInstance.SendMessage("ArtGallery", "_LoadStory", jsonString);
+                        unityInstance.SendMessage("Lugelo", "_SetJSON", jsonString);
                     } else {
                         console.error("Unity instance not ready yet!");
                     }
