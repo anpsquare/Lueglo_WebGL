@@ -1,494 +1,285 @@
 {
-  "storyTitle": "test",
-  "storyAuther": "Kin Caid",
-  "storyCoverImage": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/medium/V2_c67438aa-9642-4d5e-bb5a-76d788c554ea.jpg?Expires=1735213202&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=yz0YHxcq98oE-RCScVS8LtSmrCLliTbQVPSDvUIlva9geTmahRYi10BWFFCtGN9oD~lKfdj94y4IOUko-pIQarRyEhpbskKaf1fPebuWjbT09YPBMW-qkZHbApISfumbWww7jSYJ2dFo1i9~sum~BZxBuFpqY1Ev3gXfNWzTMzbAeuhXYauIrhDJ2zlqUgu3O6Kss1XNgE1f3xYz-TOo-J4B6G3kkHOAUTEJAFplPcMw2MGoL0Y4nKGEgutYqbAsrA94PrQs0RBPj6StgDq1b~BUhP8LowGEIRRRfMYd5cxDzUsXMLOK4eIPXor11KvB7zOq8iN6ZSVt5biYT5j3aQ__",
+  "storyTitle": "My Race",
+  "storyAuther": "Sophia Williams",
+  "storyCoverImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/large/46346319-dea1-4f29-9c13-fbf2e1379aa9.png?Expires=1743066378&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=ZvexRJc7cBmwxLEsK5M~KkXfU9gd-9mLDk7YC6R~GUz2lsMFU7dE28C1olqtTTukUAuMNSPXDZWBjKk~rHCrv5LepLvztAspaJDWSsKDv8q9LFwsmHhQq4B5kFuj2Jm4edahjQEcpYRRBlJPjoZtQDq~~00cZx2cG1pVpT1UeNjzBomXYCDVxUGDEi38DeYM7LBc7KTFbqZW1q-G1ijR2Oz413hL1jGXYd7Q8QKVFo1Q9VLipbkk48EK3tLqLajK2aF~lN7ppl2Q0jg6tdzWDXj3M4et1HZhNCz2jeoFzB4X6~sJ~IRtfY5L98AZAFyf4h4eVWXlGO2IPlwGsI2Kmg__",
   "momentsOfStory": {
     "items": [
       {
-        "id": "ed577ce8-3f09-495f-bc67-7678fd77147a",
-        "title": "Fashion trend you tried for the first time",
-        "description": "Share a moment where you tried out a new fashion trend and how it made you feel.",
+        "id": "4552b68d-e4f7-487d-98ab-441ca15f4fe7",
+        "title": "My biggest challenge in sports",
+        "description": "Describe a time when you faced a major obstacle or setback in your athletic journey. How did you overcome it?",
         "location": "",
         "extraParams": null,
-        "date": "2024-12-11T12:48:15.475Z",
-        "created": "2024-12-11T12:48:15.475Z",
-        "modified": "2024-12-11T12:48:15.475Z",
-        "published": true,
-        "userId": "3428d4e8-d061-70ae-217b-99634be51e91",
-        "storybookId": "730fc5ca-5654-4ce4-8da9-d5e6284425cc",
-        "colorTheme": null,
-        "position": 2,
-        "lugeloUser": {
-          "id": "3428d4e8-d061-70ae-217b-99634be51e91",
-          "fullName": "Kin Caid",
-          "profilePic": null,
-          "avatarColor": "#54B67F",
-          "username": "3428d4e8-d061-70ae-217b-99634be51e91",
-          "_deleted": null,
-          "aboutMe": null
-        },
-        "media": {
-          "items": []
-        },
-        "likes": {
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "_version": 1,
-        "_deleted": null,
-        "_lastChangedAt": 1733921295475,
-        "createdAt": "2024-12-11T12:48:15.475Z",
-        "updatedAt": "2024-12-11T12:48:15.475Z"
-      },
-      {
-        "id": "b4dd89a1-db01-4b63-b26e-6374a8c1b3aa",
-        "title": "What is your go-to outfit for a casual day out?",
-        "description": "Capture moments of yourself in your favorite casual outfit, whether it's a comfy pair of jeans and a t-shirt or a flowy sundress.",
-        "location": "",
-        "extraParams": null,
-        "date": "2024-12-11T12:55:17.187Z",
-        "created": "2024-12-11T12:55:17.187Z",
-        "modified": "2024-12-11T12:55:17.187Z",
-        "published": true,
-        "userId": "3428d4e8-d061-70ae-217b-99634be51e91",
-        "storybookId": "730fc5ca-5654-4ce4-8da9-d5e6284425cc",
-        "colorTheme": null,
-        "position": 6,
-        "lugeloUser": {
-          "id": "3428d4e8-d061-70ae-217b-99634be51e91",
-          "fullName": "Kin Caid",
-          "profilePic": null,
-          "avatarColor": "#54B67F",
-          "username": "3428d4e8-d061-70ae-217b-99634be51e91",
-          "_deleted": null,
-          "aboutMe": null
-        },
-        "media": {
-          "items": []
-        },
-        "likes": {
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "_version": 1,
-        "_deleted": null,
-        "_lastChangedAt": 1733921718120,
-        "createdAt": "2024-12-11T12:55:18.096Z",
-        "updatedAt": "2024-12-11T12:55:18.096Z"
-      },
-      {
-        "id": "ba5070be-09f9-4e8d-9605-0c41fa56a824",
-        "title": "Fashion item you can't live without",
-        "description": "Discuss a fashion item that you consider essential to your wardrobe and why it holds significance for you.",
-        "location": "",
-        "extraParams": null,
-        "date": "2024-12-11T12:48:15.532Z",
-        "created": "2024-12-11T12:48:15.532Z",
-        "modified": "2024-12-11T12:48:15.532Z",
-        "published": true,
-        "userId": "3428d4e8-d061-70ae-217b-99634be51e91",
-        "storybookId": "730fc5ca-5654-4ce4-8da9-d5e6284425cc",
-        "colorTheme": null,
-        "position": 5,
-        "lugeloUser": {
-          "id": "3428d4e8-d061-70ae-217b-99634be51e91",
-          "fullName": "Kin Caid",
-          "profilePic": null,
-          "avatarColor": "#54B67F",
-          "username": "3428d4e8-d061-70ae-217b-99634be51e91",
-          "_deleted": null,
-          "aboutMe": null
-        },
-        "media": {
-          "items": []
-        },
-        "likes": {
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "_version": 1,
-        "_deleted": null,
-        "_lastChangedAt": 1733921295532,
-        "createdAt": "2024-12-11T12:48:15.532Z",
-        "updatedAt": "2024-12-11T12:48:15.532Z"
-      },
-      {
-        "id": "75994322-86c9-428b-b650-442f6be6de7b",
-        "title": "Fashion inspiration from a celebrity or influencer",
-        "description": "Reflect on a time when you were inspired by a celebrity or influencer's style and incorporated it into your own wardrobe.",
-        "location": "",
-        "extraParams": null,
-        "date": "2024-12-11T12:48:15.475Z",
-        "created": "2024-12-11T12:48:15.475Z",
-        "modified": "2024-12-11T12:48:15.475Z",
-        "published": true,
-        "userId": "3428d4e8-d061-70ae-217b-99634be51e91",
-        "storybookId": "730fc5ca-5654-4ce4-8da9-d5e6284425cc",
-        "colorTheme": null,
-        "position": 3,
-        "lugeloUser": {
-          "id": "3428d4e8-d061-70ae-217b-99634be51e91",
-          "fullName": "Kin Caid",
-          "profilePic": null,
-          "avatarColor": "#54B67F",
-          "username": "3428d4e8-d061-70ae-217b-99634be51e91",
-          "_deleted": null,
-          "aboutMe": null
-        },
-        "media": {
-          "items": []
-        },
-        "likes": {
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "_version": 1,
-        "_deleted": null,
-        "_lastChangedAt": 1733921295475,
-        "createdAt": "2024-12-11T12:48:15.475Z",
-        "updatedAt": "2024-12-11T12:48:15.475Z"
-      },
-      {
-        "id": "32ded963-6e41-498d-b88c-8052c14a5180",
-        "title": "What outfit made you feel your most stylish?",
-        "description": "Recall a specific moment where your outfit made you feel confident and stylish.",
-        "location": "",
-        "extraParams": null,
-        "date": "2024-12-11T12:48:15.475Z",
-        "created": "2024-12-11T12:48:15.475Z",
-        "modified": "2024-12-11T12:48:15.475Z",
-        "published": true,
-        "userId": "3428d4e8-d061-70ae-217b-99634be51e91",
-        "storybookId": "730fc5ca-5654-4ce4-8da9-d5e6284425cc",
-        "colorTheme": null,
-        "position": 1,
-        "lugeloUser": {
-          "id": "3428d4e8-d061-70ae-217b-99634be51e91",
-          "fullName": "Kin Caid",
-          "profilePic": null,
-          "avatarColor": "#54B67F",
-          "username": "3428d4e8-d061-70ae-217b-99634be51e91",
-          "_deleted": null,
-          "aboutMe": null
-        },
-        "media": {
-          "items": []
-        },
-        "likes": {
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "_version": 1,
-        "_deleted": null,
-        "_lastChangedAt": 1733921295475,
-        "createdAt": "2024-12-11T12:48:15.475Z",
-        "updatedAt": "2024-12-11T12:48:15.475Z"
-      },
-      {
-        "__typename": "LugeloMoment",
-        "id": "f60a5948-13fc-47b1-8111-20dd7a02a0bc",
-        "title": "Sophia Williams",
-        "description": "",
-        "location": "",
-        "date": "2024-10-14T07:29:34.330Z",
-        "created": "2024-10-14T07:29:34.330Z",
-        "modified": "2024-10-14T07:29:34.330Z",
+        "date": "2025-03-20T08:27:14.693Z",
+        "created": "2025-03-20T08:27:14.693Z",
+        "modified": "2025-03-20T08:28:56.062Z",
         "published": true,
         "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "39ab59a9-68aa-40fb-b85b-94eac57793bc",
-        "colorTheme": "colorTwelve",
-        "position": 10,
-        "media": {
-          "__typename": "ModelMomentMediaConnection",
-          "items": [
-            {
-              "__typename": "MomentMedia",
-              "id": "a11c0e1d-ca82-41f3-8c5f-8e57f8b52633",
-              "momentId": "f60a5948-13fc-47b1-8111-20dd7a02a0bc",
-              "dbmomentId": 0,
-              "aurl": "https://d1543yqhrt5eqo.cloudfront.net/public/video/3a141b09-9f38-4f00-b71c-623fbfd7f189.mp4?Expires=1729775530&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=gh5HiJHdTdzx1xGOBQVXph5BbGknB-r5xqN05GbXITfLLL3WoSqTmcy8jKJdeddAo6qXnk4pSFXnBT00iX3zT21NL95i3F3KPG0j2TLawCH0jFTgbx-9ymdKvqNupf3r35sgOdzxCabd76CqAU8cas6WdIIUN8~mkKpGXXv6jUDSGkSbDBd66SymZ5HYrwt4MOvmwMRvYbQeoj4SzH4GfHE5hw78E77lzssYkqSAasfQhcqdEcDF1jiUfUkIbTqpXdt6MpTtgjvR-bSlVmilBY8docRgWCUmLRczGPDTefIhbqxBGlVHgY~-x09vQC5xTsSCnKIERbyT6-XDUhpRbg__",
-              "filename": "3a141b09-9f38-4f00-b71c-623fbfd7f189.mp4",
-              "signedMedia": {
-                "__typename": "LugeloSignedMedia",
-                "largeImage": null,
-                "audioFile": null,
-                "videoFile": "https://drive.google.com/uc?export=download&id=16ZL7IBbxNcCwWwle_PQ6luAxVuXdS3wJ"
-              },
-              "mediatype": "video",
-              "created": "2024-10-14T07:29:37.589Z",
-              "localMediaPath": null,
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1728890979726,
-              "createdAt": "2024-10-14T07:29:39.706Z",
-              "updatedAt": "2024-10-14T07:29:39.706Z"
-            }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [
-            {
-              "__typename": "LugeloLike",
-              "id": "f71582fd-4c19-45f9-b1b1-271e1794448f",
-              "created": "2024-10-15T13:18:25.772Z",
-              "modified": "2024-10-15T13:18:25.772Z",
-              "likeType": "moment",
-              "deleteTime": null,
-              "reaction": "like",
-              "momentId": "f60a5948-13fc-47b1-8111-20dd7a02a0bc",
-              "storybookId": "-",
-              "astate": 1,
-              "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1728998306610,
-              "lugeloStorybook": null,
-              "lugeloUser": {
-                "__typename": "LugeloUser",
-                "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-                "fullName": "Sophia Williams",
-                "profilePic": "40bff776-eb4c-402b-940e-4d487e4e532e.jpg",
-                "avatarColor": "#875AE7",
-                "aboutMe": null,
-                "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-              }
-            }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams",
-          "profilePic": "40bff776-eb4c-402b-940e-4d487e4e532e.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 1,
-        "_deleted": null,
-        "_lastChangedAt": 1728890977735,
-        "createdAt": "2024-10-14T07:29:37.705Z",
-        "updatedAt": "2024-10-14T07:29:37.705Z"
-      },
-      {
-        "__typename": "LugeloMoment",
-        "id": "6fdcda7c-36a7-4cc3-8323-ad5d86c5bd32",
-        "title": "Sophia Williams",
-        "description": "",
-        "location": "",
-        "date": "2024-10-14T07:17:34.000Z",
-        "created": "2024-10-14T07:30:55.827Z",
-        "modified": "2024-10-14T07:30:55.827Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "39ab59a9-68aa-40fb-b85b-94eac57793bc",
-        "colorTheme": "colorTwelve",
-        "position": 11,
-        "media": {
-          "__typename": "ModelMomentMediaConnection",
-          "items": [
-            {
-              "__typename": "MomentMedia",
-              "id": "7882152c-d7a7-40df-8ef1-eeb25adb9ee4",
-              "momentId": "6fdcda7c-36a7-4cc3-8323-ad5d86c5bd32",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/ee4a3063-4909-4ddc-8f5a-97e68e7d5ecf.jpg",
-              "filename": "ee4a3063-4909-4ddc-8f5a-97e68e7d5ecf.jpg",
-              "signedMedia": {
-                "__typename": "LugeloSignedMedia",
-                "largeImage": "https://drive.google.com/uc?export=download&id=1yxVzE07U8H93Wsflq4QjLobI286ukQvy",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "mediatype": "image",
-              "created": "2024-10-14T07:30:59.639Z",
-              "localMediaPath": null,
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1728891061645,
-              "createdAt": "2024-10-14T07:31:01.644Z",
-              "updatedAt": "2024-10-14T07:31:01.644Z"
-            }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams",
-          "profilePic": "40bff776-eb4c-402b-940e-4d487e4e532e.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 1,
-        "_deleted": null,
-        "_lastChangedAt": 1728891059725,
-        "createdAt": "2024-10-14T07:30:59.702Z",
-        "updatedAt": "2024-10-14T07:30:59.702Z"
-      },
-      {
-        "__typename": "LugeloMoment",
-        "id": "6fdcda7c-36a7-4cc3-8323-ad5d86c5bd32",
-        "title": "Sophia Williams",
-        "description": "",
-        "location": "",
-        "date": "2024-10-14T07:17:34.000Z",
-        "created": "2024-10-14T07:30:55.827Z",
-        "modified": "2024-10-14T07:30:55.827Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "39ab59a9-68aa-40fb-b85b-94eac57793bc",
-        "colorTheme": "colorTwelve",
-        "position": 11,
-        "media": {
-          "__typename": "ModelMomentMediaConnection",
-          "items": [
-            {
-              "__typename": "MomentMedia",
-              "id": "7882152c-d7a7-40df-8ef1-eeb25adb9ee4",
-              "momentId": "6fdcda7c-36a7-4cc3-8323-ad5d86c5bd32",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/ee4a3063-4909-4ddc-8f5a-97e68e7d5ecf.jpg",
-              "filename": "ee4a3063-4909-4ddc-8f5a-97e68e7d5ecf.jpg",
-              "signedMedia": {
-                "__typename": "LugeloSignedMedia",
-                "largeImage": "https://drive.google.com/uc?export=download&id=1wr-etTkQiYofuTlJcaSAzdFrZ-PfBQZe",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "mediatype": "image",
-              "created": "2024-10-14T07:30:59.639Z",
-              "localMediaPath": null,
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1728891061645,
-              "createdAt": "2024-10-14T07:31:01.644Z",
-              "updatedAt": "2024-10-14T07:31:01.644Z"
-            }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams",
-          "profilePic": "40bff776-eb4c-402b-940e-4d487e4e532e.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 1,
-        "_deleted": null,
-        "_lastChangedAt": 1728891059725,
-        "createdAt": "2024-10-14T07:30:59.702Z",
-        "updatedAt": "2024-10-14T07:30:59.702Z"
-      },
-      {
-        "id": "69551c6e-c707-418a-8222-d183e457dc9d",
-        "title": "Favorite fashion-related memory",
-        "description": "Share a special memory related to fashion, such as shopping with a friend, attending a fashion show, or receiving a stylish gift.",
-        "location": "",
-        "extraParams": null,
-        "date": "2024-12-11T12:48:15.476Z",
-        "created": "2024-12-11T12:48:15.476Z",
-        "modified": "2024-12-11T12:48:15.476Z",
-        "published": true,
-        "userId": "3428d4e8-d061-70ae-217b-99634be51e91",
-        "storybookId": "730fc5ca-5654-4ce4-8da9-d5e6284425cc",
+        "storybookId": "21407680-1d96-48f4-bdb3-82d9dcd7f883",
         "colorTheme": null,
         "position": 4,
         "lugeloUser": {
-          "id": "3428d4e8-d061-70ae-217b-99634be51e91",
-          "fullName": "Kin Caid",
-          "profilePic": null,
-          "avatarColor": "#54B67F",
-          "username": "3428d4e8-d061-70ae-217b-99634be51e91",
+          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
+          "fullName": "Sophia Williams",
+          "profilePic": "77CF45FF-A633-4CD9-BA66-8627CB897276.jpg",
+          "avatarColor": "#875AE7",
+          "username": "67122eb7-677f-4665-98af-bd46dc844d53",
+          "_deleted": null,
+          "aboutMe": null
+        },
+        "media": { "items": [] },
+        "likes": { "items": [], "nextToken": null, "startedAt": null },
+        "comments": { "items": [], "nextToken": null, "startedAt": null },
+        "_version": 2,
+        "_deleted": null,
+        "_lastChangedAt": 1742459336777,
+        "createdAt": "2025-03-20T08:27:14.693Z",
+        "updatedAt": "2025-03-20T08:28:56.750Z"
+      },
+      {
+        "id": "5fa62ae4-eb2a-416d-a853-39e38138c386",
+        "title": "Game/match/race day rituals",
+        "description": "<p>Outline your pre-game routine. What do you do to mentally and physically prepare yourself for competition?</p>",
+        "location": "",
+        "extraParams": "{\"updatedBy\":\"67122eb7-677f-4665-98af-bd46dc844d53\",\"updatedByName\":\"Sophia Williams\"}",
+        "date": "2025-03-20T08:27:31.217Z",
+        "created": "2025-03-20T08:27:14.692Z",
+        "modified": "2025-03-20T08:28:56.060Z",
+        "published": true,
+        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
+        "storybookId": "21407680-1d96-48f4-bdb3-82d9dcd7f883",
+        "colorTheme": null,
+        "position": 1,
+        "lugeloUser": {
+          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
+          "fullName": "Sophia Williams",
+          "profilePic": "77CF45FF-A633-4CD9-BA66-8627CB897276.jpg",
+          "avatarColor": "#875AE7",
+          "username": "67122eb7-677f-4665-98af-bd46dc844d53",
           "_deleted": null,
           "aboutMe": null
         },
         "media": {
-          "items": []
+          "items": [
+            {
+              "id": "a9dd54d1-fbf6-48e9-8c42-d4d8f0637ca1",
+              "momentId": "5fa62ae4-eb2a-416d-a853-39e38138c386",
+              "aurl": "",
+              "filename": "V2_5844eb77-9ac1-4bca-beed-2464ea6299ab.jpg",
+              "signedMedia": {
+                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/large/V2_5844eb77-9ac1-4bca-beed-2464ea6299ab.jpg?Expires=1743066379&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=ssjIkSqEAfweZpZE-LvVN8-4l7pltlokmhjPOd74lSGE8NrMwqIDuFtMSeRv1lKUw68S4llpIguWFVfgdZ8X6HlqHbXE20e0YKXqryRhVhBFhjZe-BwLs6CFa-7eS~EsfKP6Dcg4hKQoIHfgRZof4ykBfLpcLjOqf~~OZ0J3GcsUN5mrRuh9jrtoXWnHoR31OdoujSEQKXP0nG3x~VdWnedeiosgzeyhTtc1UWxIo0lwCW2EAOuyhi9C9inhGp1p-owG5fDImLtXWOifAuPP55z5otAbAScMBbl2M-xr97Cjy~1vAJT7TMysAYq--v9kcV28xKWiHzL2~6dCpttJAg__",
+                "audioFile": null,
+                "videoFile": null
+              },
+              "mediatype": "image",
+              "created": "2025-03-20T08:27:33.691Z",
+              "_version": 1,
+              "_deleted": null,
+              "_lastChangedAt": 1742459254351,
+              "createdAt": "2025-03-20T08:27:34.327Z",
+              "updatedAt": "2025-03-20T08:27:34.327Z",
+              "url": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/large/V2_5844eb77-9ac1-4bca-beed-2464ea6299ab.jpg?Expires=1743066379&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=ssjIkSqEAfweZpZE-LvVN8-4l7pltlokmhjPOd74lSGE8NrMwqIDuFtMSeRv1lKUw68S4llpIguWFVfgdZ8X6HlqHbXE20e0YKXqryRhVhBFhjZe-BwLs6CFa-7eS~EsfKP6Dcg4hKQoIHfgRZof4ykBfLpcLjOqf~~OZ0J3GcsUN5mrRuh9jrtoXWnHoR31OdoujSEQKXP0nG3x~VdWnedeiosgzeyhTtc1UWxIo0lwCW2EAOuyhi9C9inhGp1p-owG5fDImLtXWOifAuPP55z5otAbAScMBbl2M-xr97Cjy~1vAJT7TMysAYq--v9kcV28xKWiHzL2~6dCpttJAg__"
+            }
+          ]
         },
-        "likes": {
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "_version": 1,
+        "likes": { "items": [], "nextToken": null, "startedAt": null },
+        "comments": { "items": [], "nextToken": null, "startedAt": null },
+        "_version": 3,
         "_deleted": null,
-        "_lastChangedAt": 1733921295476,
-        "createdAt": "2024-12-11T12:48:15.476Z",
-        "updatedAt": "2024-12-11T12:48:15.476Z"
+        "_lastChangedAt": 1742459336787,
+        "createdAt": "2025-03-20T08:27:14.692Z",
+        "updatedAt": "2025-03-20T08:28:56.756Z"
+      },
+      {
+        "id": "324b2933-45c5-4fc0-a9e1-9ad41dac8106",
+        "title": "Meeting my sports hero",
+        "description": "Share your experience of meeting a professional athlete you admire. What did you talk about? How did it feel?",
+        "location": "",
+        "extraParams": null,
+        "date": "2025-03-20T08:27:14.693Z",
+        "created": "2025-03-20T08:27:14.693Z",
+        "modified": "2025-03-20T08:28:56.060Z",
+        "published": true,
+        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
+        "storybookId": "21407680-1d96-48f4-bdb3-82d9dcd7f883",
+        "colorTheme": null,
+        "position": 2,
+        "lugeloUser": {
+          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
+          "fullName": "Sophia Williams",
+          "profilePic": "77CF45FF-A633-4CD9-BA66-8627CB897276.jpg",
+          "avatarColor": "#875AE7",
+          "username": "67122eb7-677f-4665-98af-bd46dc844d53",
+          "_deleted": null,
+          "aboutMe": null
+        },
+        "media": { "items": [] },
+        "likes": { "items": [], "nextToken": null, "startedAt": null },
+        "comments": { "items": [], "nextToken": null, "startedAt": null },
+        "_version": 2,
+        "_deleted": null,
+        "_lastChangedAt": 1742459336779,
+        "createdAt": "2025-03-20T08:27:14.693Z",
+        "updatedAt": "2025-03-20T08:28:56.755Z"
+      },
+      {
+        "id": "d2df118e-1151-4c89-b2b5-5458d227bf02",
+        "title": "My first sports victory",
+        "description": "<p>Describe the emotions you felt the first time you won a game/match/race in your sport of choice.</p>",
+        "location": "",
+        "extraParams": "{\"updatedBy\":\"67122eb7-677f-4665-98af-bd46dc844d53\",\"updatedByName\":\"Sophia Williams\"}",
+        "date": "2025-03-20T08:27:47.150Z",
+        "created": "2025-03-20T08:27:14.692Z",
+        "modified": "2025-03-20T08:28:56.061Z",
+        "published": true,
+        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
+        "storybookId": "21407680-1d96-48f4-bdb3-82d9dcd7f883",
+        "colorTheme": null,
+        "position": 3,
+        "lugeloUser": {
+          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
+          "fullName": "Sophia Williams",
+          "profilePic": "77CF45FF-A633-4CD9-BA66-8627CB897276.jpg",
+          "avatarColor": "#875AE7",
+          "username": "67122eb7-677f-4665-98af-bd46dc844d53",
+          "_deleted": null,
+          "aboutMe": null
+        },
+        "media": {
+          "items": [
+            {
+              "id": "df348288-f854-4da3-9030-b3af00dd41c2",
+              "momentId": "d2df118e-1151-4c89-b2b5-5458d227bf02",
+              "aurl": "",
+              "filename": "V2_9d45e7e6-3201-4c35-bdf0-126981546623.jpg",
+              "signedMedia": {
+                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/large/V2_9d45e7e6-3201-4c35-bdf0-126981546623.jpg?Expires=1743066379&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=F6jyHb2hhGM5CtQ7Kn1CKNe31PjW8zQTyJTg8tyEe87hwLAF0F8i9wdyEWixHaizuKyIn65vFG9Ek9w0Cz4hxThx9QdCyzp8lpUksxi1VFJor-Gw6iOMV3GnQ5QkTMZFP5MtuT4jW5KM-RT7dt4RCbpwS7~93HAFwNpYFG51I~GCVWpwLledxdPSIRk8V62OwPu1bTujirEwxt1kDHJEasCLDCF0fACQur5H6Oq5d20VLYJS0BBIAmCcox~4vz-XGcJf7lmQWe2xCFGI~ufqRNxC44ias8qwdDVPelb0QlYBF9V7iDDh-sAbwhZOCEi6vmyJAkR4eUGby3EsVjlW9g__",
+                "audioFile": null,
+                "videoFile": null
+              },
+              "mediatype": "image",
+              "created": "2025-03-20T08:27:52.058Z",
+              "_version": 1,
+              "_deleted": null,
+              "_lastChangedAt": 1742459272730,
+              "createdAt": "2025-03-20T08:27:52.708Z",
+              "updatedAt": "2025-03-20T08:27:52.708Z"
+            }
+          ]
+        },
+        "likes": { "items": [], "nextToken": null, "startedAt": null },
+        "comments": { "items": [], "nextToken": null, "startedAt": null },
+        "_version": 3,
+        "_deleted": null,
+        "_lastChangedAt": 1742459336760,
+        "createdAt": "2025-03-20T08:27:14.692Z",
+        "updatedAt": "2025-03-20T08:28:56.736Z"
+      },
+      {
+        "id": "38064ca9-e362-4580-a6d3-f03dce63acfe",
+        "title": "Inspiring athlete story",
+        "description": "<p>Tell the story of an athlete who overcame great adversity to achieve their goals. What can we learn from their experience?</p>",
+        "location": "",
+        "extraParams": "{\"updatedBy\":\"67122eb7-677f-4665-98af-bd46dc844d53\",\"updatedByName\":\"Sophia Williams\"}",
+        "date": "2025-03-20T08:28:12.486Z",
+        "created": "2025-03-20T08:27:14.692Z",
+        "modified": "2025-03-20T08:28:56.062Z",
+        "published": true,
+        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
+        "storybookId": "21407680-1d96-48f4-bdb3-82d9dcd7f883",
+        "colorTheme": null,
+        "position": 5,
+        "lugeloUser": {
+          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
+          "fullName": "Sophia Williams",
+          "profilePic": "77CF45FF-A633-4CD9-BA66-8627CB897276.jpg",
+          "avatarColor": "#875AE7",
+          "username": "67122eb7-677f-4665-98af-bd46dc844d53",
+          "_deleted": null,
+          "aboutMe": null
+        },
+        "media": {
+          "items": [
+            {
+              "id": "224be705-dfe7-4b51-8894-912eb92a26dc",
+              "momentId": "38064ca9-e362-4580-a6d3-f03dce63acfe",
+              "aurl": "",
+              "filename": "d6fa5ea5-ccd8-4b97-aa9d-f04709b94f88.mp4",
+              "signedMedia": {
+                "largeImage": null,
+                "audioFile": null,
+                "videoFile": "https://d1543yqhrt5eqo.cloudfront.net/public/video/d6fa5ea5-ccd8-4b97-aa9d-f04709b94f88.mp4?Expires=1743066379&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=WlwlO6GD3moAjvTi-AkiKYbfe1vg0N0uy8tAtXCOJtffdBG2XMMt7M6snnJtae8uD0U4WJQDYYr4dy3w1mimIPzKTh2U5nYCiPGDMUWSRFPFpflS-awa3IO7sojY5yvI4Ua~TTxgUoFxj0ERT6~d40Xaj~IreBBmWJBDZ2KTmHcPD0JDegz9dTCOBsMFsgFz0ZEATpOJN4iamyuAv0R28eJTI3KmvxQrJlJ-3WVszxaDC5S9I-JH-Y5AeLjM36h5ITfFu-SPsRbrHSLvpIrbZtWdonOKIKLgu2sk5pP6uk~MZqa2L069P26MGO2QsD4k~VeYUDwIe5CxwkejJSc6vg__"
+              },
+              "mediatype": "video",
+              "created": "2025-03-20T08:28:17.932Z",
+              "_version": 1,
+              "_deleted": null,
+              "_lastChangedAt": 1742459298729,
+              "createdAt": "2025-03-20T08:28:18.703Z",
+              "updatedAt": "2025-03-20T08:28:18.703Z"
+            }
+          ]
+        },
+        "likes": { "items": [], "nextToken": null, "startedAt": null },
+        "comments": { "items": [], "nextToken": null, "startedAt": null },
+        "_version": 3,
+        "_deleted": null,
+        "_lastChangedAt": 1742459336778,
+        "createdAt": "2025-03-20T08:27:14.692Z",
+        "updatedAt": "2025-03-20T08:28:56.751Z"
+      },
+      {
+        "id": "946207d9-930e-4045-9e5c-89cd02407d7e",
+        "title": "My favorite training routine",
+        "description": "<p>Detail your preferred training regimen. What specific exercises or drills do you do? Why do you enjoy them?</p>",
+        "location": "",
+        "extraParams": "{\"updatedBy\":\"67122eb7-677f-4665-98af-bd46dc844d53\",\"updatedByName\":\"Sophia Williams\"}",
+        "date": "2025-03-20T08:28:32.340Z",
+        "created": "2025-03-20T08:27:14.693Z",
+        "modified": "2025-03-20T08:28:56.063Z",
+        "published": true,
+        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
+        "storybookId": "21407680-1d96-48f4-bdb3-82d9dcd7f883",
+        "colorTheme": null,
+        "position": 6,
+        "lugeloUser": {
+          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
+          "fullName": "Sophia Williams",
+          "profilePic": "77CF45FF-A633-4CD9-BA66-8627CB897276.jpg",
+          "avatarColor": "#875AE7",
+          "username": "67122eb7-677f-4665-98af-bd46dc844d53",
+          "_deleted": null,
+          "aboutMe": null
+        },
+        "media": {
+          "items": [
+            {
+              "id": "c9a8dec8-f9fc-422d-8360-f82ec03e4426",
+              "momentId": "946207d9-930e-4045-9e5c-89cd02407d7e",
+              "aurl": "",
+              "filename": "af08df5d-c1bf-4336-b658-e58dc0c7d8fe.mp3",
+              "signedMedia": {
+                "largeImage": null,
+                "audioFile": "https://d1543yqhrt5eqo.cloudfront.net/public/sound/af08df5d-c1bf-4336-b658-e58dc0c7d8fe.mp3?Expires=1743066379&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=ADsPOmoHMkUrhd0OKBrZGT8oeiSA0Cy4no0BD8eZlCYPhzlqvnlX9hmJFzibac~yhx8CD1nuggJDwt8MZ~cQ83ZzFCHL-b3PdNNGQcUdWRtwaAGsmjRxrGmGkIeY58sGK2oCTmeBBiP0O80ImgmoPKFWPapdO0Suks4oJkNDU-VEliUzwPnKgm6~YlUlcYtEHj0EFaOBcmp9lK05FDLYXmp2Fm-EpKq5gqPOOOCD9g5~Ef724OJ6jeFCSqiyQh0PL6P2DvsyoB-x6QvN4TCfkTfnrb04FBpySd38~jEsFyhwmN76OIL4Vx9A0spL00l-Cc~0wRNQVWxtQJIf3p92dw__",
+                "videoFile": null
+              },
+              "mediatype": "sound",
+              "created": "2025-03-20T08:28:35.524Z",
+              "_version": 1,
+              "_deleted": null,
+              "_lastChangedAt": 1742459316230,
+              "createdAt": "2025-03-20T08:28:36.206Z",
+              "updatedAt": "2025-03-20T08:28:36.206Z"
+            }
+          ]
+        },
+        "likes": { "items": [], "nextToken": null, "startedAt": null },
+        "comments": { "items": [], "nextToken": null, "startedAt": null },
+        "_version": 3,
+        "_deleted": null,
+        "_lastChangedAt": 1742459336765,
+        "createdAt": "2025-03-20T08:27:14.693Z",
+        "updatedAt": "2025-03-20T08:28:56.735Z"
       }
     ],
     "isPrimeUser": false,
@@ -504,14 +295,14 @@
       "#AFECDD",
       "#F3C9B0"
     ],
-  "arS3Url": "https://raw.githubusercontent.com/anpsquare/unity-assetbundles/main/Assets/AssetBundles/buildingparent_2",
-  "CRC": "3554618930",
-  "hash128": "0faf7d5d6266123b3fd23fd476d82294",
-  "movementCustom":{
-      "CameraSpeed":10.0,
-      "CameraSmoothness":7.0,
-      "PlayerMoveSpeed":6.0,
-      "PlayerMoveSmoothness":0.025
+    "arS3Url": "https://raw.githubusercontent.com/anpsquare/unity-assetbundles/main/Assets/AssetBundles/buildingparent_2",
+    "CRC": "3554618930",
+    "hash128": "0faf7d5d6266123b3fd23fd476d82294",
+    "movementCustom": {
+      "CameraSpeed": 10,
+      "CameraSmoothness": 7,
+      "PlayerMoveSpeed": 6,
+      "PlayerMoveSmoothness": 0.025
     }
   }
 }
