@@ -895,6 +895,6 @@
       "CameraMinFOV" : 10,
       "FrameSize": 1,
       "TextDistanceFromFrame":0.3
-    },
+    }
   }
 }
