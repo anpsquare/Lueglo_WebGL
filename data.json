@@ -1,2057 +1,861 @@
 {
-  "storyTitle": "Heritage and History: Tracing Cultural Roots",
-  "storyAuther": "Sophia Williams Kane",
-  "storyCoverImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_86b79927-cf2e-4c44-8128-bc2b7ecc8014.jpg?Expires=1747033327&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pvoOvbb~Em705Jc4Mz5PfN0QvRJvnmI3NkrqYsJPp2yuj-F-1qpdhO~nhz2qF9Lpnjk7rz7eXeoTHf7f5iNaodkiErNTIFzi9qXSR2TGCw-8ygS0J0llWd9cftiBYh-L4D1hPLBYYGiZwpo~K83Jtun9Mxaj~vkV19j6caTQMBCa2h-Br3I~94TpNm2teQP1TpHbPrPPVmxyuwyYsIPJLsMVgXH2dfhf4VNcYVA0oN4WG-6Nno7wmlbGdpKFcV-FJfPrpz-4xkI~dXt2pJMrJHKiaOs9oRRdNfrbcptr5mqvQWe7TrUhM~Vi7ubX24x0cB8IeY8xO2ZeOMIrylqnSA__",
+  "storyTitle": "DOG CARE JOURNAL Edited1",
+  "storyAuther": "JOS PHILIPS",
+  "storyCoverImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_91a897fc-28b2-4506-88cd-a0a7f3ce131b.png?Expires=1753260518&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=s~~MJhfqUL71gW2R9iq~xYC6ALrpFH9ldCIYmOBlR6AbqC2di-VjRCSD8vIbBQsIWv1ztlxyxEPZ13ENzNB1OCxP2Kq9J1cxoWjMU8h2NSkgvaY53~QHmFUmpxNG0EqfjlDRlpmZnMQuatCG~8Z2h65M~NjOn~7NAMGkUjGyhtYWC-bech-BCaW0hDDWzq3UrNaYRaYs6Hi9g-By-Ai1owma0B4tq3hRiaEkI~Ow~kMz31yaVS5G-XnyYwR2JMru5ClmBAA1vP7hDUqY0gUknSxOWq9Cjj8bRD3YUH-MIifZaEfw8Wj1oyf-ZX8pFmXrVOH6nOlBNYs1m91zwoGI-w__",
   "momentsOfStory": {
     "items": [
       {
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "A meaningful proverb or saying from your cultural background.",
-        "description": "Identify a proverb or saying from your 😊 cultural background that has been important to you or your family. Share its meaning and how it has influenced your life.",
+        "title": "Wav1",
+        "description": "Provide helpful tips and insights based on your experiences in caring for dogs that could benefit others. Provide helpful tips and insights based on your experiences in caring for dogs that could benefit others. Provide helpful tips and insights based on your experiences in caring for dogs that could benefit others.",
+        "date": "2025-07-14T05:41:12.290Z",
         "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
         "media": {
-          "__typename": "ModelMomentMediaConnection",
           "items": [
             {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
               "signedMedia": {
                 "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
+                "mediumImage": null,
+                "thumbnailImage": null,
+                "largeImage": null,
+                "audioFile": "https://d1543yqhrt5eqo.cloudfront.net/public/sound/c7428b44-e248-4961-970f-16df105ff7fb.wav?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=NmHPWXVAdy18K0hWCT3LfYfjELoXOUFALPNKJRLkrg5DpJ6lgXR6sinr4ajcSquMfkfxgYfKdpMDmRZmbfETCqP1VXmADmXcijyaWrfdoW7dVbP1Rydeflg9-82IU-QkgEKaMRmSC6Wj5pVYhPHhKxqM8f8AS17n9FKe-H64PgR27ec2exzUgRSK2JPGPRs9lpYxXzzoBUobFWmuSylpiChrYMGbQD1I9mZzePrtF4gBsDCdDVJMvc0HgTQv9dL0l5EL~EFWzCmWyyiQKxntqnObP6YvGYBCx~TeJ3FtZlxV9sHr3jWQxxQ1sRMJIWntaoyskV50dtFjwaY0btlYmQ__",
+                "videoFile": null
+              },
+              "metaData": {},
+              "mediatype": "sound"
+            }
+          ]
+        }
+      },
+      {
+        "title": "audio",
+        "description": "",
+        "date": "2025-07-14T05:34:07.927Z",
+        "location": "",
+        "media": {
+          "items": [
+            {
+              "signedMedia": {
+                "__typename": "LugeloSignedMedia",
+                "mediumImage": null,
+                "thumbnailImage": null,
+                "largeImage": null,
+                "audioFile": "https://d1543yqhrt5eqo.cloudfront.net/public/sound/b1b9f111-824c-4cbd-980b-67dcb524442d.mp3?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=zTOZlmChHYvs~V0wsGWNHhQ6B47VrmR9B8iOZQJ0KLxthg7ZJo2cu2xgayL58BxwxIy7egi~MvGTPDN6HTDUTRIjKKadyJfTWOQAw~mwSe9GTgvNDpNHobjqb-Jrw3fj88qzx8ZfRr9~znzj8nO8we6SfLQ3q3SqcHGS2RgxnqDC7brzXpPxkHXEfrSmPKC86CJH~Yzy2VTDJFmawPQ9-Bx~ltD7kQOYl66oZE1sEyHdiuQeCkn6YeQejpSWHEhJyEFm8XsRaOsUu9AYZ4hnUrGNJ~WjLQPZ9T2VA17r6exqpxX4SwY4F1Z~TYQV3g-a4CC8sltIQRuSWrIKEhZRiw__",
+                "videoFile": null
+              },
+              "metaData": {},
+              "mediatype": "sound"
+            }
+          ]
+        }
+      },
+      {
+        "title": "What advice would you give to new dog owners?",
+        "description": "Provide helpful tips and insights based on your experiences in caring for dogs that could benefit others.",
+        "date": "2025-07-10T11:51:05.961Z",
+        "location": "Ahmedabad",
+        "media": {
+          "items": []
+        }
+      },
+      {
+        "title": "What challenges have you faced in dog care?",
+        "description": "Share experiences about obstacles you've encountered, such as behavioral issues or health problems, and how you overcame them.",
+        "date": "2025-07-10T11:51:05.955Z",
+        "location": "",
+        "media": {
+          "items": []
+        }
+      },
+      {
+        "title": "How do you manage your dog's health and wellness?",
+        "description": "Document any veterinary visits, vaccinations, and health tips that contribute to your dog's well-being.Document any veterinary visits, vaccinations, and health tips that contribute to your dog's well-being. Document any veterinary visits, vaccinations, and health tips that contribute to your dog's well-being.",
+        "date": "2025-07-10T11:51:05.949Z",
+        "location": "",
+        "media": {
+          "items": []
+        }
+      },
+      {
+        "title": "What memorable moments have you shared with your dog?",
+        "description": "Reflect on special moments such as training achievements, funny behaviors, or adventures you’ve had together.",
+        "date": "2025-07-10T11:51:05.943Z",
+        "location": "",
+        "media": {
+          "items": []
+        }
+      },
+      {
+        "title": "What are the daily routines for your dog's care?",
+        "description": "Describe the daily activities involved in taking care of your dog, including feeding, grooming, exercise, and playtime.",
+        "date": "2025-07-10T11:51:05.937Z",
+        "location": "",
+        "media": {
+          "items": []
+        }
+      },
+      {
+        "title": "How has your dog's presence impacted your life?",
+        "description": "Explore how caring for your dog has affected your daily routines, emotional well-being, and overall lifestyle.",
+        "date": "2025-07-10T11:26:19.917Z",
+        "location": "",
+        "media": {
+          "items": []
+        }
+      },
+      {
+        "title": "What milestones have you celebrated with your dog?",
+        "description": "Recall significant events such as birthdays, training achievements, or rescue anniversaries that are milestones in your dog’s life.",
+        "date": "2025-07-10T11:26:19.911Z",
+        "location": "",
+        "media": {
+          "items": []
+        }
+      },
+      {
+        "title": "What are your dog's favorite activities?",
+        "description": "List and describe the activities or games that your dog enjoys, capturing the joy they bring to your lives.",
+        "date": "2025-07-10T11:26:19.904Z",
+        "location": "",
+        "media": {
+          "items": []
+        }
+      },
+      {
+        "title": "What challenges have you faced in caring for your dog?",
+        "description": "Document the difficulties you've encountered and how you overcame them, including any lessons learned.",
+        "date": "2025-07-10T11:26:19.898Z",
+        "location": "",
+        "media": {
+          "items": []
+        }
+      },
+      {
+        "title": "What memorable moments have you shared with your dog?",
+        "description": "Reflect on specific events or activities that brought you joy or a deeper bond with your dog.",
+        "date": "2025-07-10T11:26:19.889Z",
+        "location": "",
+        "media": {
+          "items": []
+        }
+      },
+      {
+        "title": "Kushal Patel",
+        "description": "",
+        "date": "2025-02-18T14:37:51.863Z",
+        "location": "",
+        "media": {
+          "items": [
+            {
+              "signedMedia": {
+                "__typename": "LugeloSignedMedia",
+                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/47b2d7e8-c887-456f-ba9d-69dbaeb9f3bc.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=ewBKt4SMogP05mar3eIhy5rpdTabJGGa1O9ONefTCuE4AUbG6BlAcJe9B6EAVhuTILoucBOI~5PauYWaDI9U1wpk6mY5hgjkGZA3F4~dcq2HxZHL8xe62OpFedWNFD56T0SWLJIRTVsEsONFWAYThFtGNXoHNlkd0pka5q4u5eBsBtyZlei7OppYsRs1m1-D~4gj3dwKihorXrP1iNQeO-j74NqIG70POPBRmp0waKGBMDK8Asg11JiqS8ZmN4FNB90TEY4cv7rU4AG2f7UAJvWzw37nGe7u02SNmUStDNMDVUT3BKuqOOhlItVB~DHmd-Po4R17OVLJkhVovG3nPw__",
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/47b2d7e8-c887-456f-ba9d-69dbaeb9f3bc.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=IR8BC5kCtUS7a7A0-r0Q3OnR1ZbTgdDZj~gcKHyORKSQyaf8i-CQcfKm~VR-7CHQzYaeLow8ueZlXuJkrlheUYIkgZeKsMcJZjuM9-JUp~upiSYQF7JYL-wELckUWAAY6WiPwaEm5dRgjPlzkLpULfGwwnbM83V1YmUjLTJB7rMITqsO4kbZwybyuKhktlUBxb7~IuDh7UHPAYmuv5m29DfqhyjUeO1HM4K76i37Cmt6oMg52lIveg4I7jI3shx0~QZ9-uKNcGdSCvX~B-FJZ6mBOeVDCfSmdh3rBOyU7V~tn6j50lc2RVQb-2wp-EogQlxzG3feRjS3FEd1v1GoLA__",
+                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/47b2d7e8-c887-456f-ba9d-69dbaeb9f3bc.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=ewBKt4SMogP05mar3eIhy5rpdTabJGGa1O9ONefTCuE4AUbG6BlAcJe9B6EAVhuTILoucBOI~5PauYWaDI9U1wpk6mY5hgjkGZA3F4~dcq2HxZHL8xe62OpFedWNFD56T0SWLJIRTVsEsONFWAYThFtGNXoHNlkd0pka5q4u5eBsBtyZlei7OppYsRs1m1-D~4gj3dwKihorXrP1iNQeO-j74NqIG70POPBRmp0waKGBMDK8Asg11JiqS8ZmN4FNB90TEY4cv7rU4AG2f7UAJvWzw37nGe7u02SNmUStDNMDVUT3BKuqOOhlItVB~DHmd-Po4R17OVLJkhVovG3nPw__",
                 "audioFile": null,
                 "videoFile": null
               },
               "metaData": {
-                "height": 427,
-                "width": 640
+                "width": 3024,
+                "height": 4032,
+                "orientation": "portrait"
               },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
-            }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "'n Betekenisvolle spreekwoord of gesegde uit jou kulturele agtergrond.",
-        "description": "Identifiseer 'n spreekwoord of gesegde uit jou kulturele agtergrond wat vir jou of jou gesin belangrik was. Deel die betekenis daarvan en hoe dit jou lewe beïnvloed het.",
-        "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
-        "media": {
-          "__typename": "ModelMomentMediaConnection",
-          "items": [
+              "mediatype": "image"
+            },
             {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
               "signedMedia": {
                 "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
+                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/bae326f6-00cd-48bf-8b71-9317658c1194.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pGks9bYI~cS~4sYArH8I~wpdfFvWzJeQiHfe5pqZyy~YQTcxrN4hsVT1BKdlT1CDWjYsz8gZydmGAZc93L0x9mhe73WgEiVWv6up-ZEQeQ-PjC7~7kW-FhdRCi8dASrR6yZuwsk9D8vP6O7pwNaWsyvJX4CvA-fV6U2pJ2n2aqfhF5o74quWP6OpBc1fhlRYHWr3xkCtFIJERkWlTZ~Zly~U9r3Cf7Z49wyP1pVd38GKK6IWjYengERcJnkk2MnTwSYtP4omFc~-azgKHKtlWmUCwqbJDg2l0UMvGEyKts8KyyCWRgzSfrhCI6k8oyDRqmmfGyX3CHZdPIkc5nH3VQ__",
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/bae326f6-00cd-48bf-8b71-9317658c1194.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=LHWMvak~f3yxW6SKUE5kx2yO4I65aHZABk2QnQmoECW5JYr4-zaEcizTj0uJVhgEesD8XYFZNK-LaG64cgoNlBH7mfspAyQDWSkxAoRzMHqhuoxatxzeni~YAjIk6KZSqCQVYZAi7vds1yPoAJdL~q04nF9hS-3DuxB3GqdVOy5BY-4DEQa38eyZwiUphkBi-mjIv2z~Al1vI1R~ZEF-bw8LeQ4KmGijqhCx-iuDz0HAsbL8sx2H-ELR~sOZBGM8uS3Ydvh9nDLJ6hr4wkALG0Ob2huXfRGibB15MJ9FGOV2wg4PGcAoYYK-gBslj9z2SSbRHFVieFXKTLggDC6FwA__",
+                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/bae326f6-00cd-48bf-8b71-9317658c1194.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pGks9bYI~cS~4sYArH8I~wpdfFvWzJeQiHfe5pqZyy~YQTcxrN4hsVT1BKdlT1CDWjYsz8gZydmGAZc93L0x9mhe73WgEiVWv6up-ZEQeQ-PjC7~7kW-FhdRCi8dASrR6yZuwsk9D8vP6O7pwNaWsyvJX4CvA-fV6U2pJ2n2aqfhF5o74quWP6OpBc1fhlRYHWr3xkCtFIJERkWlTZ~Zly~U9r3Cf7Z49wyP1pVd38GKK6IWjYengERcJnkk2MnTwSYtP4omFc~-azgKHKtlWmUCwqbJDg2l0UMvGEyKts8KyyCWRgzSfrhCI6k8oyDRqmmfGyX3CHZdPIkc5nH3VQ__",
                 "audioFile": null,
                 "videoFile": null
               },
               "metaData": {
-                "height": 427,
-                "width": 640
+                "width": 3024,
+                "height": 4032,
+                "orientation": "portrait"
               },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
-            }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "مثل أو قول ذو معنى من خلفيتك الثقافية",
-        "description": "عدة الشهور عند الله اثنا عشر شهرا في كتاب الله يوم خلق السماوات والارض منها اربعة حرم ذلك الدين القيم فلا تظلموا فيهن انفسكم وقاتلوا المشركين كافة كما يقاتلونكم كافة واعلموا ان الله مع المتقين,",
-        "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
-        "media": {
-          "__typename": "ModelMomentMediaConnection",
-          "items": [
+              "mediatype": "image"
+            },
             {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
               "signedMedia": {
                 "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
+                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/a6e1d769-7bea-40b8-8d9b-7e1dfe2f1110.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=SMtao1Ur8w4u7qkwXyNeiKhIbDZyhISlVU9zC9QiDLID1v0D7Ehpx0NwAcQB5~fpk~SBoGoIu4h~br9Dgz8g~38hW7bLZ16XAY0Hvr7Mjo7ZbIVupe31bB7558sAphHwkBNs8JCGRWwipBiU3Z-OD-kEJhCOZ0caNrhCsMEHevtA~ALgSVhw18PxnKXb6qtkxk43TWx~2~viaY67Lf2xaeH~pxbp4mI5PufpWhHPyy3PSv8liFq68TH36T-iKAtHYOt2J-nkdNj-j7TsU7nWgAgvlSRH1w9opRQCSyT0YUjIVdZcxHqNTKhK1YHpzCVAlkxf-EK-DaCEv80HieHs4g__",
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/a6e1d769-7bea-40b8-8d9b-7e1dfe2f1110.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=HbnZ8cajmuaglJNcp~N0Uotnj0u4XmN5CF8SCmKGI6Ndpi3R-zwLq-~PyIDXLAZHjUrbe49J4kq2uLFwkqkAGkKuMMvcflORPBKLW2j-ZrLueCN38uMlkNPIhfD4h1Y8dNN5P-HobVsRSojIrxsywxEcccbUqpvYmMnsM~yS3DcZAz5SFn3NNC14~yaKMuPAE34XiFcTO4HbWc6v60jOXQIxvP10C-glMX~ByBrOz~pw8NFf9pSY9wbu9RxgDxvVUJ8inOTGjfpYDHV1k3PezSB8eWAEi4fwwrlPKy3erSzewTwS2ElGBxSV6BWvKIoBzbMxPIlFoAklcjyXpgA05A__",
+                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/a6e1d769-7bea-40b8-8d9b-7e1dfe2f1110.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=SMtao1Ur8w4u7qkwXyNeiKhIbDZyhISlVU9zC9QiDLID1v0D7Ehpx0NwAcQB5~fpk~SBoGoIu4h~br9Dgz8g~38hW7bLZ16XAY0Hvr7Mjo7ZbIVupe31bB7558sAphHwkBNs8JCGRWwipBiU3Z-OD-kEJhCOZ0caNrhCsMEHevtA~ALgSVhw18PxnKXb6qtkxk43TWx~2~viaY67Lf2xaeH~pxbp4mI5PufpWhHPyy3PSv8liFq68TH36T-iKAtHYOt2J-nkdNj-j7TsU7nWgAgvlSRH1w9opRQCSyT0YUjIVdZcxHqNTKhK1YHpzCVAlkxf-EK-DaCEv80HieHs4g__",
                 "audioFile": null,
                 "videoFile": null
               },
               "metaData": {
-                "height": 427,
-                "width": 640
+                "width": 3024,
+                "height": 4032,
+                "orientation": "portrait"
               },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
-            }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": " আপনার সাংস্কৃতিক পটভূমি থেকে একটি অর্থবহ প্রবাদ বা উক্তি।",
-        "description": "আপনার সাংস্কৃতিক পটভূমি থেকে এমন একটি প্রবাদ বা উক্তি চিহ্নিত করুন যা আপনার বা আপনার পরিবারের জন্য গুরুত্বপূর্ণ ছিল। এর অর্থ এবং এটি আপনার জীবনে কীভাবে প্রভাব ফেলেছে তা শেয়ার করুন।",
-        "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
-        "media": {
-          "__typename": "ModelMomentMediaConnection",
-          "items": [
+              "mediatype": "image"
+            },
             {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
               "signedMedia": {
                 "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
+                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/eaf5459c-b467-488b-8a25-e4b248e3b179.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=z6uZevzbkRK~0OGdHzMWg~0UKaKgJWwpBP9xNf8ZHzkUD7fOD7C0XbA-DqdF5xRit1ZuqI4jtHDwCBd2mYRiTWfX4Zy0tIko2xMmLm2W7Op3YCUaz1qn3kKL5YUso8lNAf4fBMooe6OfFSWhz9rk-rZMpk2F8IASbXnTjTDMcz3r2FhNVvDb5cYZCnALsxdsJ~GD7ZUuf953wz7UhiF3nzLyyk5RDNwni~CC8URr--129O5P9hWM28O-23Ksua~CMU~1oPK3rgM~RedoteJqbHnFDZoYVnr72bX8xXNLCASsFTJ3pe6f6cVT3b2JFqI1RomEh~TpULmGReXZ0wGGyw__",
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/eaf5459c-b467-488b-8a25-e4b248e3b179.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=FN9T57f-ZKXi9z4nsVPFEhpb8PhgIyN8Bmyw2-nTrfG3I92sOsrLmPCAHbEXlV1ybZY9-~djXnJdQhGkcCOFW9Gk8iGIzyqiX5ijfI~s4b4po0zQGeer7ohQyc6GyRGWk50LIb6kwL8E7iB94nFOdhGSidGxJUJHfA2EzuxpcACuO5NRuslWP6VGI5nZwURjgo1FEdeUSOypc7YQddEAw12IMrb5M~W1QPqyINQsVSxQZkNWlF7mnbsEJ6qhwegZZHOHDMaJiFQ~uNdCP~C~9FSDj0JeT-6V3F96Ad1Mpaw9KO0jRiru9rXdI7EpbMFbNHF-IbLHzY-F0v5aMPj4Cw__",
+                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/eaf5459c-b467-488b-8a25-e4b248e3b179.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=z6uZevzbkRK~0OGdHzMWg~0UKaKgJWwpBP9xNf8ZHzkUD7fOD7C0XbA-DqdF5xRit1ZuqI4jtHDwCBd2mYRiTWfX4Zy0tIko2xMmLm2W7Op3YCUaz1qn3kKL5YUso8lNAf4fBMooe6OfFSWhz9rk-rZMpk2F8IASbXnTjTDMcz3r2FhNVvDb5cYZCnALsxdsJ~GD7ZUuf953wz7UhiF3nzLyyk5RDNwni~CC8URr--129O5P9hWM28O-23Ksua~CMU~1oPK3rgM~RedoteJqbHnFDZoYVnr72bX8xXNLCASsFTJ3pe6f6cVT3b2JFqI1RomEh~TpULmGReXZ0wGGyw__",
                 "audioFile": null,
                 "videoFile": null
               },
               "metaData": {
-                "height": 427,
-                "width": 640
+                "width": 3024,
+                "height": 4032,
+                "orientation": "portrait"
               },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
+              "mediatype": "image"
             }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "Značajna poslovica ili izreka iz vašeg kulturnog okruženja.",
-        "description": " Identificirajte poslovicu ili izreku iz vašeg kulturnog okruženja koja vam je bila važna ili vašoj obitelji. Podijelite njezino značenje i kako je utjecala na vaš život.",
+          ]
+        }
+      },
+      {
+        "title": "Kushal Patel",
+        "description": "",
+        "date": "2025-02-18T14:37:51.126Z",
         "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
         "media": {
-          "__typename": "ModelMomentMediaConnection",
           "items": [
             {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
               "signedMedia": {
                 "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
+                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/a8b7cb73-6bac-446d-a080-63ac66f04ce5.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=RYMk8b74BxP0dYoU0d2tyULJ5Vj6rI3j9lmyhnH-mV6E4w5B~LGXnQVrnlkq6uhglPR04~xnSJ2frfcADrBM-nZftkaXyfbc8u3~T~okFqfllSazGsO04k8nIwzq8kHsqyXLsyX7N2I7B~H9gANFZy54j-GlmS7LZ9s--lN8M2pjrrzL8N5UEflRooaUcP0oCG~eZYNnlZinJnRQwdaA9hvJAybDnIBgyF0AyOacgZcanT3M7pNdZBvloLbYFeRGmwL5D9LRJZQ-ujWbU7QCkCkoqUwq1AzkJ3LUHV~6wFfXZxTpKL6-rbt5tCcmIg9FZYd1a7wETrlouqPbF07i5Q__",
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/a8b7cb73-6bac-446d-a080-63ac66f04ce5.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=TWKLiYra8ksNNwt3TV84CX-U6qXzyLfEEXdYZpDbA9yCa9xxqjYnR9-PgafCp-WKQI9s9Yb5BzMnFI~8CE8hwtI-XUbl4-1RuvyO-dl1D-vuaJjCCWLzJh8THA7VSg-RQj6g84WZRn4~Qdbn~vBDddyrop4BeeALG-y1v9sY-OH6JujOm3pfXBIfSeltkq9u0BhaS5Z4RE2ISiQ00StqQZ4urd5fONyUMKsdKe0WvOjSa0GLcV-8heKyJVhaLr5sFnga1x8AWXAw6kLtroiWywxXH5BFavyjuVgpAr15jDZ6r~S-bFaZySKV29Ih~KjjwAtGAtJNix~EidVzTJX76Q__",
+                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/a8b7cb73-6bac-446d-a080-63ac66f04ce5.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=RYMk8b74BxP0dYoU0d2tyULJ5Vj6rI3j9lmyhnH-mV6E4w5B~LGXnQVrnlkq6uhglPR04~xnSJ2frfcADrBM-nZftkaXyfbc8u3~T~okFqfllSazGsO04k8nIwzq8kHsqyXLsyX7N2I7B~H9gANFZy54j-GlmS7LZ9s--lN8M2pjrrzL8N5UEflRooaUcP0oCG~eZYNnlZinJnRQwdaA9hvJAybDnIBgyF0AyOacgZcanT3M7pNdZBvloLbYFeRGmwL5D9LRJZQ-ujWbU7QCkCkoqUwq1AzkJ3LUHV~6wFfXZxTpKL6-rbt5tCcmIg9FZYd1a7wETrlouqPbF07i5Q__",
                 "audioFile": null,
                 "videoFile": null
               },
               "metaData": {
-                "height": 427,
-                "width": 640
+                "width": 3024,
+                "height": 4032,
+                "orientation": "portrait"
               },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
-            }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "Významné přísloví nebo rčení z vašeho kulturního prostředí.",
-        "description": "Identifikujte přísloví nebo rčení z vašeho kulturního prostředí, které bylo pro vás nebo vaši rodinu důležité. Sdílejte jeho význam a jak ovlivnilo váš život.",
-        "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
-        "media": {
-          "__typename": "ModelMomentMediaConnection",
-          "items": [
+              "mediatype": "image"
+            },
             {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
               "signedMedia": {
                 "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
+                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/f380a88b-08ef-4e7f-9144-47b952f8926b.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=ysTHYQD0oaG3pTy~GckEe5ShxojFv1~tbbXYk0I5EZehT75HO0ksFE5P6DwylTM9Lmty8vvuO55yVtmvn37LLnkUhw7Lq~cLUPgvrb6atiNckeZ3~XtZNvk4PxsjzDXtAwxEBRFRtjxrIAkdUK05Hl~Y-v3atGgmJYQ72QTOl9YdJMg3sfJhAVQ4hRR9m4MTRhbgO2VT4HyR6BpjMgDtwCyGahTJJc~Z5nDJV7sG6Llqh1TT~kR19QJgf~iZUCvscEKFam-JIx4M7TtCehmHFBDY75JxxxL~M9DBAHVyj~224nxmYZXsNiOmqgt6QbQzuee6BPivLihjjPkvjoqt1Q__",
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/f380a88b-08ef-4e7f-9144-47b952f8926b.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=VvH3n2X3eoYnTE-p~Vdt31RLkaoM1I3l5lvieg9hHHFggX4temwwPbmOGO2zmzqbmrZ1B5iFei~GRM65GRtB76BVM6ToJEUOXevdifuixNYgyM3FeBUCR5qXzh5uKcOxB7XVeADK26dBMWZTi~St1rCbXDsXf5FkoEykZzEJ4cX5T9PHXiRXMeDHBDW2dp~CRy77Xkl4E8tUlq-jRjoMQA0I7XiRMGDAkRbQ6PXsm1WOr1U6K~llEV5tBA5JtkcG~RoAmXC4FNBL6-94n57i0lYsAxImd0jyxi6bXm-yFYMwbbljM5z5eL8BZ4lkQdxtcFHfNe8Fr-jAwCouRYjchA__",
+                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/f380a88b-08ef-4e7f-9144-47b952f8926b.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=ysTHYQD0oaG3pTy~GckEe5ShxojFv1~tbbXYk0I5EZehT75HO0ksFE5P6DwylTM9Lmty8vvuO55yVtmvn37LLnkUhw7Lq~cLUPgvrb6atiNckeZ3~XtZNvk4PxsjzDXtAwxEBRFRtjxrIAkdUK05Hl~Y-v3atGgmJYQ72QTOl9YdJMg3sfJhAVQ4hRR9m4MTRhbgO2VT4HyR6BpjMgDtwCyGahTJJc~Z5nDJV7sG6Llqh1TT~kR19QJgf~iZUCvscEKFam-JIx4M7TtCehmHFBDY75JxxxL~M9DBAHVyj~224nxmYZXsNiOmqgt6QbQzuee6BPivLihjjPkvjoqt1Q__",
                 "audioFile": null,
                 "videoFile": null
               },
               "metaData": {
-                "height": 427,
-                "width": 640
+                "width": 3024,
+                "height": 4032,
+                "orientation": "portrait"
               },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
+              "mediatype": "image"
             }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "Et meningsfuldt ordsprog eller udtryk fra din kulturelle baggrund.",
-        "description": " Identificer et ordsprog eller udtryk fra din kulturelle baggrund, der har været vigtigt for dig eller din familie. Del dets betydning og hvordan det har påvirket dit liv.",
+          ]
+        }
+      },
+      {
+        "title": "Kushal Patel",
+        "description": "",
+        "date": "2025-02-18T14:37:50.834Z",
         "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
         "media": {
-          "__typename": "ModelMomentMediaConnection",
           "items": [
             {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
               "signedMedia": {
                 "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
+                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/3584d1a2-1860-4bf8-9ccc-34c713f09cc1.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=af5vD3g~WX9AGujKq~aErz97lXFl8f4eXND0rbKgEFYxROve6JdXfwkLhZhAUCttO07gamJyiV98xHJddYaTZ4rjRiR~xOxE7yONGtW3rq37DVC-gKJKuhcAyjVcHQPTmXqCLCrMIWOltx2gUPNS11x9fpSfRN8WMpw1zoBAe3nKrXVUZeaVVv19mapkXHNOUarY8uAnQtbqprGpARAD3-4q--EmB3zMjG~3i3KTYlK~12G-cbjBv-VvJArwxSwzzZIEf1lVhRxWdER2nu2vIgFAOAxF5a-KRUUw5sz~gTLtHsL9~lYgqtZg~q9SUS8vfUA2OaRDlMM9TVX1wtZk5Q__",
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/3584d1a2-1860-4bf8-9ccc-34c713f09cc1.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=aoXRN~-ivmpqJ19fzgw9yLbTLsywqPrjNeCXtKON~7Z9Sa7MSRo73Pe~GpRQLCuzlpth~ciQ~Ze6ErMHCFzBzKBQnbebIl55Lr3z-YAjjnxs8k~40gG-yTkSkqVU04~yh9V04SqGGxeo1Q1FaPVNzrlhnRfdVuznZEQNOui0-zvpEy3KDWg68qN7Sh~w~vhYjjvhjbVValSUNeN8L7-bvvim7EZ5i~MnYH9oCF3aD6dhOC~3MR-BDBE9EApUZynFm4pqb71aBkkobBkgVUlXXj7eyPqJ0xZr8pc7rCtPrJyWDdEukvijLViKW4q8U88LxxO0BOet3CSITIn~sA-jwQ__",
+                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/3584d1a2-1860-4bf8-9ccc-34c713f09cc1.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=af5vD3g~WX9AGujKq~aErz97lXFl8f4eXND0rbKgEFYxROve6JdXfwkLhZhAUCttO07gamJyiV98xHJddYaTZ4rjRiR~xOxE7yONGtW3rq37DVC-gKJKuhcAyjVcHQPTmXqCLCrMIWOltx2gUPNS11x9fpSfRN8WMpw1zoBAe3nKrXVUZeaVVv19mapkXHNOUarY8uAnQtbqprGpARAD3-4q--EmB3zMjG~3i3KTYlK~12G-cbjBv-VvJArwxSwzzZIEf1lVhRxWdER2nu2vIgFAOAxF5a-KRUUw5sz~gTLtHsL9~lYgqtZg~q9SUS8vfUA2OaRDlMM9TVX1wtZk5Q__",
                 "audioFile": null,
                 "videoFile": null
               },
               "metaData": {
-                "height": 427,
-                "width": 640
+                "width": 3024,
+                "height": 4032,
+                "orientation": "portrait"
               },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
+              "mediatype": "image"
             }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "Een betekenisvol spreekwoord of gezegde uit je culturele achtergrond.",
-        "description": " Identificeer een spreekwoord of gezegde uit je culturele achtergrond dat belangrijk voor jou of je familie is geweest. Deel de betekenis ervan en hoe het je leven heeft beïnvloed.",
+          ]
+        }
+      },
+      {
+        "title": "Hello che wwwwww che sei https e ",
+        "description": "",
+        "date": "2025-02-18T14:34:28.646Z",
         "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
         "media": {
-          "__typename": "ModelMomentMediaConnection",
+          "items": []
+        }
+      },
+      {
+        "title": "Jav Anderson",
+        "description": "",
+        "date": "2025-02-18T14:32:27.239Z",
+        "location": "",
+        "media": {
           "items": [
             {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
               "signedMedia": {
                 "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
+                "mediumImage": null,
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/public/video-thumbs/5ca9a01d-a196-4b15-9de0-1781d7c81724_1.jpeg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=zp1j-HmreBcjbErEERSnyDq4zIXjkN0V3nHRcxod1dn8JPan8EHeTvHH4GeKuTyZuc24gXLDDl9J-7BrKzh9YhMWT5QmRZWlNxys0htxqSVLCkstlzvpjhbSKLZo7Lh~HplgTlmL4K3iXKXMeNk8-stTHK1Hq4Iro5fA9ZhvtrMlTkuqIVg2bYzhVAwOMdnK3349gwdEpav0nA2s2ivwLrRVipakW8PYShkLAldJzCmHs96HzMxwbxkrbxl0VXIpVpymaUZ3jqmqtHX8LKYtm5jdBM3u9xLnPyR2oVZs0X5CNPp5hbSlHcwJceBDazk~5br2X~Sh-FoJyrN4EUPrBg__",
+                "largeImage": null,
+                "audioFile": null,
+                "videoFile": "https://d1543yqhrt5eqo.cloudfront.net/public/video/5ca9a01d-a196-4b15-9de0-1781d7c81724.mp4?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=echO4TYlRkg1DkuciCIb1KXzjQdFmeZHUIAK6olqe8jmZeNCw-VE77t6fCWYr3kiViDJR89vX4zcop2CqlKBlYG3SpZquRySsOXBBhg402sxstbYyZlvoCm6di6dbUSrYR5O0Sc0zqrg5uB6g0nvKkPBeGNgPC2tkPVMki8IcHmHGme1U9oRjcN5OQVqHbgjegPtC4P63pxsAVaEaW1n382dYmjF-ulxCddU3AQQiQ22tyfItJtcOh1TM7sdfZOZsTV7sGFdlHEzg9~mx0604iNVC5GhBSQIEeW0ok--OGjfgL-GGZl~Ck7Rm9~kLx2Mmf1ZNQbdUlE1OH9qO2Qcww__"
+              },
+              "metaData": {
+                "width": 4032,
+                "height": 3024,
+                "orientation": "landscape"
+              },
+              "mediatype": "video"
+            },
+            {
+              "signedMedia": {
+                "__typename": "LugeloSignedMedia",
+                "mediumImage": null,
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/public/video-thumbs/de8d4f6c-7987-41c8-8386-28f806ae0425_1.jpeg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=sFbOo9pW~na79DMF~3orKHVipqvzPTuiboRt1OHWD7QoMun6Wd3J85Le-FberMT85UDLWVK8x61XeNmp6fxs1LFR6x3Bdq8JSdEY6OE0jWImY9wvcyZBD~CoRmiSlZv9bkko9RD5rU2hTLBBrLmldU9BAk1CSX2Q6LW1buGG4gKWZfKEClKKKgvkTXIazhYweg9731YVE3jdBDO6yKwJiVHw~85YL5ZzOFHZv~i0Ze2lh7fWRUwMi1AFSzSCyB2F5DwBMJ~LSZt2CqXzEvbcyPFmQaQm2cPa4wI0eAslsDF-q3uUL5knmJCPafhb-Kf4rrWC3IL3yR47FsoI0ZvmXw__",
+                "largeImage": null,
+                "audioFile": null,
+                "videoFile": "https://d1543yqhrt5eqo.cloudfront.net/public/video/de8d4f6c-7987-41c8-8386-28f806ae0425.mp4?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=P8nVv41GVW6ysZBDapxm5xH0hlf9V8JTVOdAUR82z6PDfZO8TkaPxml75sWxS1XxZnxQN~uQRgqgJpeV9aSy6brjQx-4bfeFSwo2DVU8oEu1xplLYv0OhF-2CgDTxPgOQEZ5wPZI0T9G29VsHsJn~oWAZXitMYMXIpxpjwAkHe6ZBmgKH2~Ral~fu~qa0-GZX9W8r8XXczPWw7Rj4KCCEIgVEz1U05LTTR1sWQeORBReMCOGtFbUuFwalHckfM5H0PhW~NgLQoWDLjkJclOzZvnJyVSrOpDDPgPUvd0TvKt56tsyRTD8gjRAmk9hx9V6M7yURZBkXMWoVQWHB0begQ__"
+              },
+              "metaData": {},
+              "mediatype": "video"
+            },
+            {
+              "signedMedia": {
+                "__typename": "LugeloSignedMedia",
+                "mediumImage": null,
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/public/video-thumbs/646f0753-cd6a-4e61-9214-e1e3c29a6455_1.jpeg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=NVOGi8zzQ~HmwjETRAPYym4ktRe~vK30rQfIsHurvOj-hSS9zYQqaSbvi2cQcZ1rDlCR9N2steH1MkV9hKvY2zgEPFPhp6HLlxR0DsAlutjNAbvH2a3RqFw5qX7WdOaIjosacZDkQ52nEs1U2xlSahaI2rjCXGv5CV~lpCZqf4lmmLrHmbMII3Ikb6s-ZIozuEY2uaEcUeF7rl71qA5J2zn8dxT6L--drgS2EaPh74qDRXCI3uwQxb47g287PLClVEXNLGLxnP8zsTVy6IHrmfnhe3IGjeYNkH0osf6Ra~pKvI9xqM4ZzflzL5sQcCJOAWVryAfwZLI-Aktszwnn0A__",
+                "largeImage": null,
+                "audioFile": null,
+                "videoFile": "https://d1543yqhrt5eqo.cloudfront.net/public/video/646f0753-cd6a-4e61-9214-e1e3c29a6455.mp4?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=CK3QnuVilVktr--ntYtFfXPiTBul2laz3Hg0sDE8vNY9vXE2wOennAs7k05gFeBoJzeo9SnPxCgmY2HWQBvXv6jPFf4aV1FfvTa29P2jaU7qMYcdkh-LaRd5ddEGYaOOmZMIjcwXGYQ9z8B~Cv80122m0dZ0T4mucuelvzJ7mUmaNBR20Gx-M0AjFuSgL57SXJTGVDiNFpOq-iWwdn3kymQiuzbBBjZg53xtLnst5B513MUtZpfNWMP4pnz7MnpxmbEkEqvb3F8D3Ds9s0NbU14f1hJzWPCkarh7fZxO5X1RYlGFN7bOpFkGQOFVH~CR6QBCZzjsIHduyCdnAe4Igw__"
+              },
+              "metaData": {},
+              "mediatype": "video"
+            },
+            {
+              "signedMedia": {
+                "__typename": "LugeloSignedMedia",
+                "mediumImage": null,
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/public/video-thumbs/ffd848c2-e834-4d8d-81db-43b253274825_1.jpeg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=HiSmDK0nesKxOWb~XcXI8UsVd3siVwNgWBXzEFr06DzhjKNqo85r3uq43vV0tMhMF61lE1IgkJtRMDWN-jH7fD0nP56~Mr55wuZ-82PAhb5KjN7AQ7VhSGcgfIkfU25bSUXz0OiUgishHAEYodrSOev-SS~bMGszbYNRMfe4IWCM1c3HBdErNz8DFFSY6LzZnTRVbEbuNKZQU~YSe3c~JEr1kOZ4pl4Z0gBNI6WCbkWdXi1qqzKOC09KaCoCrRj9d1amqld8tdMrZYMQbRQici4NdQOjiQYBKdDAuHJbVk7HmzPO3xOY5G9a2Q91G9BWKxdexB7hFzAK6Cjh1PbeSg__",
+                "largeImage": null,
+                "audioFile": null,
+                "videoFile": "https://d1543yqhrt5eqo.cloudfront.net/public/video/ffd848c2-e834-4d8d-81db-43b253274825.mp4?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=KYpKEa1wRhn6wu2XgBeK05-hus6vxAQ8LBGW3Zag1REIhzQL9UW6FoI-H~a5-jd06jTPTpjnDEMCKoHTWpBt35u8r48O8d5QIWXxxh9f5tPK6XQHsaMaUMrhdj1F8Uj~CwxtyQ~gQxjR1aDOG0scHLQn9AviSXlu~d5JyKRsK2Y1Vq9rBR-oHc9tYc5Ru96w1ejchDEonJjtd8faa8-zQ~~RMrPC3sXhwQnPnYlRvJZFCe9sP0DFdw925MTRsgxkevaDv5FF7jznLLYXt6Y9ouhokz5pToTHTe36lVHEHXFEIqI48a6HWCIgziI3-Gbe~bXzKQdJ6T1oAQvxA~U6IQ__"
+              },
+              "metaData": {},
+              "mediatype": "video"
+            },
+            {
+              "signedMedia": {
+                "__typename": "LugeloSignedMedia",
+                "mediumImage": null,
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/public/video-thumbs/ef8e16eb-0fdf-4ae6-9b9b-2b2e7315980f_1.jpeg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=oPKCoYle-Ef1ZxXATntR5n4DJqSpB96Ld5vQY1A9L7T2n1wRFqBIrQqopNvIl1lakinzpnhByj0pyNoswRfU4sHINcDHBmFmWDoiZMQx7FqqDWjxCh8rGzetLUtF6eg82G4dJYAs2c2hMYPsgvvtMOCTv3xsvxp1-0lMaKlAwUdOJourVd7h35SOsmhYFqETuMyOG2Enq-fj8WMWtrlE6fg0lNuDHweE3ilTx6~MyLQ~8HSAiXjKGZCuZxgZFSo6IH~hnzZVHDu~BLXd8KEyR0Nk2Wohq5scU0TmViHXzE5Tesuc8VOaqwv9Rcwaz2XHg1uZ3mR8VXW0E6rAAUS2mQ__",
+                "largeImage": null,
+                "audioFile": null,
+                "videoFile": "https://d1543yqhrt5eqo.cloudfront.net/public/video/ef8e16eb-0fdf-4ae6-9b9b-2b2e7315980f.mp4?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=ZSlNmUb0ZPODgzQVOW~9FOHXio2z6Uhie2ZtX37h4UOsUOSiNPb0wyQJ72Adkaytfjb6g4tjSaUvq7ibaycwVtsYUh06GSSHjUgvZYwjz9fhgYSPNRC4oiYgtsNz3wyByBVU9EiWXQnUnWbBjDLHMkPcD-c~Zoy-0S8XKVV9dKwa9sWZwStUNkVhNRnZzp5SxIRcwocopRT7RgUZTT18lHpNCwQ2t92reTw-MHfrrTuuLm-iJON7GPKjfR3nmnaJZcmPQDdEajxOb0XpD6neLInz5hjZIN-VbnoSlsGKEtAS0JGxYWGZ8n7B3DVqgJj1G01UO8~4zj5Rm1YGg~qZQQ__"
+              },
+              "metaData": {},
+              "mediatype": "video"
+            },
+            {
+              "signedMedia": {
+                "__typename": "LugeloSignedMedia",
+                "mediumImage": null,
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/public/video-thumbs/2de6bbb6-b29b-4c8c-a087-d7746063a5db_1.jpeg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=PU7TtjBWPdadPW1~rlRX45cluks8p1ugE~bqo-BM0Q4COvFqei0UB6Q3TEI-ltpJD-XpbEN99UNeK7ofwrtKbqSD6bhu7rncugJfEJE9omIfgtySHmIzt2tLqmtNHlsZMNTSZfq~LfeswtA~gzsWzWig9CHEBUCWAsnGCTPWrZjPh1cHibFd5gh9AV7aDoFu43B0OE655gwrWPyZLcXVUrKEXMmBBPIETdmeyffzTPJafckMWYY4cKS9GTRik914wi7KsJxcwGn95EBxxQ1d6M70LsyzVvb4gOUR60zlSYkbHxVXp3T-0RgzAsfHBnMwtR6PgxsY0GMycIWLqmO7Fg__",
+                "largeImage": null,
+                "audioFile": null,
+                "videoFile": "https://d1543yqhrt5eqo.cloudfront.net/public/video/2de6bbb6-b29b-4c8c-a087-d7746063a5db.mp4?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=Npo88u0xtt4sr-kpYzd-c-5o82~UusIA0qLhBwPTM6Qz~7-hqpvt2MPp6pV8uVDyR0UpJnOnC1YeK79Wd~9qiTGecdiIl7TSFJYTqt1QRqdI6mWWEmxFobfolXpsG4sbBLIFrx82GhBZdBrJgsjPmGVFS75O6gpLEatdH~MNxKsWQ3wS6zeF48UV8nMtf84ePPPNIiohX5f5qYkhTgOiJDqxV5xIuQmj42I4bwtu~M42B6ix3vWhKPI3jcFElwXXaV4R0lKqBWpnuv45TSunccQjfLYJ3F96kcME3~psQo2ik8lhI~XNGotm3RDaKWDOO7YME2e7PiFPl58TeRD8XA__"
+              },
+              "metaData": {},
+              "mediatype": "video"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Jav Anderson",
+        "description": "",
+        "date": "2025-02-18T14:32:26.669Z",
+        "location": "",
+        "media": {
+          "items": [
+            {
+              "signedMedia": {
+                "__typename": "LugeloSignedMedia",
+                "mediumImage": null,
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/public/video-thumbs/b1ec13c1-44fe-4363-948d-23110ae90691_1.jpeg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=YW5wjLUVgw37z3biP4zJ8QdIBt-korB1GhMDKr5R1DHTsFhN0Y4IXVdKDFXFPwbeiep9jDaK9VVKiJyyqEIcNwKOyQOpwC-3hLpHIVP~2~oQqJEsTBI2lZF4ykLO80byXh5WuufxPYAJRHJgxbaXSi6zDntpIbXLt~L5i~ruz0s2y9eUn1b5dCdpRpFvSKZvqUYJ7NmTj~x60HvgGQPw3hU2LAxUWWilVkC02rp7GTz0UM87cQBAGeWvw2AvIRfXLMVvU4YAqyyAcxtNFlrOWzhmpvKrZjuKyNYa6Vc1YqfcITtvm~tEujACaUgoHd9VwdBXESlBy-zhcwP~HTg4VA__",
+                "largeImage": null,
+                "audioFile": null,
+                "videoFile": "https://d1543yqhrt5eqo.cloudfront.net/public/video/b1ec13c1-44fe-4363-948d-23110ae90691.mp4?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=d8dTL2nZ3ZRbWZjbPumhPLOHL6dXQctzyt0rUkzlnSA4geNKEGS-HI2YUhT4Yqs6J5vnrqpKESIPRD5VeEp7B99unNIA8A3yHFtTwXlyyUZzzld8UZCWXiPsjRf27hpli2~zlGlWe5BoKS17OJfnafDacp0HYPUAsEplYRlujmENka1XdOKMMBdPOU19exd8pfOPRE1XiVwOo7v41f7mjt6NXtBdEBSufjlWlf4XuK9kDSwGOyieRHKI4L4EKpCAspFmRK4-aCEkK1qrtvEl3msQETrctIEJQfGxqLXuXhInrSWKoshJ7IICq0UaKASeqxXYQiFVCg0~BY7huXZFlA__"
+              },
+              "metaData": {},
+              "mediatype": "video"
+            },
+            {
+              "signedMedia": {
+                "__typename": "LugeloSignedMedia",
+                "mediumImage": null,
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/public/video-thumbs/0c96e350-147f-4cd2-87e4-8c8a19fc1f8c_1.jpeg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=LJcBa30HC4t33-G4EELSz9SKBL1TRYUoBW2D1OQvK4-UzWLOvDClQTIDRepSL5euusEHmTiXKrptJMrl7lMBVoekpUDfpmnc7d0tDuI6VgrDSISX~5mFlvq6aE69XBHZf-WeFjDV-QoRIELjoXl3on0oOeVkHkQj3ZIpp-foFEifJ99LB2VLLAI8FH1vJSYi7F8A~Ct2Gm~XGwkfhXnxW8lDxg59WJ2JmRnV4T4h-VX~Dr-~k5E1woVh-qq6OI5Uw21H70jE5Lr-6j3piA~iASsFlNmNSrwGpnWquB82Ec~h8gpWNHqE9ZiNfmfrdfdvOnUR734zBoldlU0wTKvbwQ__",
+                "largeImage": null,
+                "audioFile": null,
+                "videoFile": "https://d1543yqhrt5eqo.cloudfront.net/public/video/0c96e350-147f-4cd2-87e4-8c8a19fc1f8c.mp4?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=ulgj~KyUXhY1~sIdLlAPs1oyWQPSeKagrr1xZ1eVpFSasjLULLiPF6~DNv3bL8m2WudLHQd25TX69qW3W~3fM0e~bP8Clx3mONg9QqwJa5zSO8uYpHHSzbS0MHKX2LRCkc5qCRfNp8rWoTyApWaFujASk~1ciBDj4E2pbkzwRt8wLILHEl3b~O2Y3y6fHLlNPJQmIaH0Jv5XluZE~qKn5dKy2vID3ycw2LNY2Ce7k9MLuqsG44KvgL~6CuFsZsLMw1QRczSgkxX-rfvNeVUYHYUHMH6O9j-KNSqwvhU5sc4x9B77zmqL97kh6LiXsoMHwdC6P0T4c1l0uQselPOseQ__"
+              },
+              "metaData": {},
+              "mediatype": "video"
+            },
+            {
+              "signedMedia": {
+                "__typename": "LugeloSignedMedia",
+                "mediumImage": null,
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/public/video-thumbs/fbf6ef47-8638-43f2-b397-66e9ca65381d_1.jpeg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=IhYFfjqcfKjOVc4~511mdTilMfZHDzAHx0VPX1vEVA6xwT3PLCA~pAnJB1tM1N0fuX2y2XMMLl81O8IyUcUgUTG2dOOe7u~J4Isz2k~uvbtTzA1xyRA9EFW4TRl2YTLS7Ga2-lVxVjDtPjHoJ0EfL81euhJgNuMM0eBILI-u2YtyXN8Hc2a3LTAL7d3KjPbljUhbJsVfDGiwjSik93lUQOqfT2WOjLgnftuiwTmP9SVhoiB2d4DbwWfeM30U2yvKsz~lFC~IUZFIlWgW6HSlv4xqEcUVtFtA1Hum75YW0Rqt-0S-MoXOCsnng1vwkbTm2yFqJ9pDOj3gw2hYXw7Gsg__",
+                "largeImage": null,
+                "audioFile": null,
+                "videoFile": "https://d1543yqhrt5eqo.cloudfront.net/public/video/fbf6ef47-8638-43f2-b397-66e9ca65381d.mp4?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=My~sY~H2Hq4e85JJkwYQ8G2F3Wkw1WO5PuA5aU1G9v7Vy4yWu1R23TryRtAdM5kc49pZ~h3SLUgnLRndogmzk6Ms6Lr4t~UWnKEgh6eGYpViJJP9Vxk8o0FbiHS9BorCQa587WM49qfLvWKDZjIH2j6Dc9i5I2o5RpjuW9CvhQz0-26hFuPXvV3ohFHjACddzMEhAbnb3NoNTuf45quxHo9hFGwexhf68C-lfHQJWsurnzbve2EHCrnhFcACsZQ63artY2k~4BDvOA1bSthaeARXrVh-k8kizQ8f-KOHvNzkJU1xNoqcDUhv5Ak4PLO4xGQ7Yy6VGxOD35kn97Fa3A__"
+              },
+              "metaData": {},
+              "mediatype": "video"
+            },
+            {
+              "signedMedia": {
+                "__typename": "LugeloSignedMedia",
+                "mediumImage": null,
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/public/video-thumbs/48b9ae0b-d0ac-4777-a9bb-000d10f34dbf_1.jpeg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=phlD~ASb~sB9dSxdN4gp~riKLzwmf0f9XYVHHjXmukx6TtxGfKjirluF2id7cI2k7oPixUehLC7PQzQlnwDR31P6ZXbFbUaFZAYzFF83GTvQvpS~XECzJromQn1hdR86ikU5a0mWGqYKOQxTCsnG1SnU6z1IIIhnJIrC9ylgA1qKbioYzIxUqKpkAzdp8VDEvihAfMjWD4wmwRnJSqp6pZmMTnI-qNNXG6sXfPqFLHNnnWvqd7aM~lSNMUuxz5setCToNMEOJdi7QDxEOdulwA6jYxQbNBeom-SbHGMzSjXq5bpsOF8XfES3fVM1bJkBiIaNyM86CVaWMeNUnQeWZQ__",
+                "largeImage": null,
+                "audioFile": null,
+                "videoFile": "https://d1543yqhrt5eqo.cloudfront.net/public/video/48b9ae0b-d0ac-4777-a9bb-000d10f34dbf.mp4?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=aCtrc2qsIoo-FbScWNcKBbhVfkKrCpc-kMHgqOII43inw6~PnfCJLQmisg~~85srCcR6BgnKZIxp93ti93oxwjQKcQxNuBMp93mHs8QFD8D1~ewpeXgAweK0cw6Q6cDHs1Ex6L-ucsHfaXVunezujWDgpl-UgFW5QVGhdIAgVumbykVetQKRGKPSsFlw9-r-VPAzC8IEWv--PhPGggLbfKUyQLyvzqAM1W1OkoqbTefQlB~Wng1GLWTObihbcFIArx7zn6wxj-DuA46aMOQVPPykPyo3VPdA8aDRuaIn44taiWSkIQaNZ1oT1DtdJOBz8iFM-fQIuAjK9hz883O5Og__"
+              },
+              "metaData": {},
+              "mediatype": "video"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Jav Anderson",
+        "description": "",
+        "date": "2025-02-18T14:32:25.593Z",
+        "location": "",
+        "media": {
+          "items": [
+            {
+              "signedMedia": {
+                "__typename": "LugeloSignedMedia",
+                "mediumImage": null,
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/public/video-thumbs/60a3e00c-ee31-4002-b54a-3b605b9e42b9_1.jpeg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=fQQc8fOGNs4kZPsRLc7DA60f3A1eWYy0l9Z5TmiHLf39OcyGERugkD2r8TOfQM27W2bWhDJYLEgNEcz2qqwoGWXXXBvk1rRBpq4MN72ZTfD-R-3lvjSWIfavMnP6qcU21RMPcuQGP0rEKSEQMjegfevFo-l5qtkiu5Hv4bKmE037~e3-MQJ3C~VBJ0hUflGJxxz0cOUpOROdJekK~Ad9GUdzTvv5MuHonbxVcMZqPTUI9NkcnUgVaQfxFHDA2TT-tS18SkUu7SR0NUlp6j8AszIrW5lCDPNuswKjMUFB71ZvV9ujY1mnkWnky16X2c7vJ7STmJz5b3QZ0uH~EwrI5A__",
+                "largeImage": null,
+                "audioFile": null,
+                "videoFile": "https://d1543yqhrt5eqo.cloudfront.net/public/video/60a3e00c-ee31-4002-b54a-3b605b9e42b9.mp4?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=Zshki~jA2f2TgkXPHyRd~3lElA1Xyr6f9fLUuhRy6ljZtXCR0sHWZr1EYX5LSwveKNafnZGvbzn6mPtOYdjOZ-HG-HmyR26g8OHCdHlEEo4sApA9vyZmR9iS1PUngH18U-LaTNvPPspGxu2OCQcRer7VLXhYyvteSKAGS58NmMGhLsSdhNkL2zq07AGPoH5AWrN-Oyx9YWp4zciBPsqfS7bnesMWeMxLQP7zrofvTnIcq~QM7AKzyV3B6ETSPixPQ0oCYW2h90G1TEnZRLCvtUw2INFQtSiBVbJZyV7ZvtwRJImEVQCfG8BXFZ-bNoOQoL~jSWjim0TVTNppdwvVWg__"
+              },
+              "metaData": {},
+              "mediatype": "video"
+            },
+            {
+              "signedMedia": {
+                "__typename": "LugeloSignedMedia",
+                "mediumImage": null,
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/public/video-thumbs/cc9dc567-f99b-492a-b0ad-6195b01425e6_1.jpeg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pLU2eIV2BGo0BvtYINbrCfjK1pagVN7W1XrmBMDO8uDhVOouYJ-B2wZDec-ia~KIQjB3ei9JOrpkluoceUqzfzqvbg1L-uYMiZUXg5lzds9pG7tJiMp5SIaAPNmXgh4KhPKwHVp3cy2WqqhVXXQw0usBTNqW9TyRmZgo~XOZdvlVhw9g6EdMrbYT6FzSNC4-yNcXddHYM4a-Nq09Q3BIcJO6Hu2g976s6QyrRvscQCUxkNhFLR-nSU2ioDIEzxF3M1Q-Tl4ZwL3dYIabRgJE4-C-DP2hr6jYGpTT~uSCyXRx2Q1cHsRrjZFUGUpe2vVrWT8b7O~fsfUxQgDTJY2E5g__",
+                "largeImage": null,
+                "audioFile": null,
+                "videoFile": "https://d1543yqhrt5eqo.cloudfront.net/public/video/cc9dc567-f99b-492a-b0ad-6195b01425e6.mp4?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=F8P49eeF6EsXeNXzIL-gbCaVbzMlzDvZLsMQtEl2EgEy49~6ICA8PenakRFwEc9K8ZLdJTpw0FfwSv-K09VKSYIzSJ9pPYWmoS5-T3DRAzerZSC3SO4OKlpwFlEtUAqNJ0mZbtjWz63zFDN~tlIuDf5L5yF9Qxy-PS3fOTTsir3gD-tyYMYrXHr0XzaM5jZrKYavhbDFzaf2x3OqVU9XsW6nLWr1~hdVOCzRUVb4lYhIr4rde9fnlvU~ws~JhK9~vQ-QnlfsVjVG56hEHmQgl8-TdqkF4XOHcd~EbrWSRL0TUGcY5BnwYaUc5Hs9Kwfc4U8ujDyOVTyz-uNwWlJ9zQ__"
+              },
+              "metaData": {},
+              "mediatype": "video"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Jav Anderson",
+        "description": "",
+        "date": "2025-02-18T14:32:25.192Z",
+        "location": "",
+        "media": {
+          "items": [
+            {
+              "signedMedia": {
+                "__typename": "LugeloSignedMedia",
+                "mediumImage": null,
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/public/video-thumbs/ca3eec82-bbdd-4718-bc1c-83a6581d8519_1.jpeg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=ppV-5I4AjSWRD5JaJ5yQLAbnoy1EJ7smpOuvJIM4M98~5NUT0Fx6V7pVlhI7HNYui4nkodWaJsponxdtGJhj1ijK3HI8-dzG7xG-VxpKYfhBsUvviNxMsFVBlLoL~7puklk--xEcqs~JXBSKfYTUyziHK0cIG-s1MBeEoOdL7RBYiCIIu5VwrNABoYPqBCSVaLvjVLW4BARkpJHjRFEewd9B0skvyQqXac2xGu8vN9M3wZQw45E0BRlWfzg5vOIkuBKVJ2~sH-h9LjXeV49x11GZPmVQnx3-vE1T9B0OAYxttYnilpuzm8Q~Qn3AnRp3Z5-NODTkl21CFutH9jDSGA__",
+                "largeImage": null,
+                "audioFile": null,
+                "videoFile": "https://d1543yqhrt5eqo.cloudfront.net/public/video/ca3eec82-bbdd-4718-bc1c-83a6581d8519.mp4?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=e6WKKX3r4Oiel6eB45Tlhql9A6dqtu3~MVLIkeb0JHwoHojZWtY1onFq2vBISdhgHgW66h6jH5CPEhsUt3SsPCPdT-r8-euJ6cl-wahS0AIw5-dYUgQbbwt~cCH9B2m4XzFr1NkdTzeKcnE6skKVuMaNmJ9meE4WGG~GdVGKz88JMOMzSWIiwULijgb70Oo8gY6hOHUxLoDITwQRGCPJambow~dnbOE45BdQTl0QV4WfI~msoGxhaXj4F03uP3e6ZFDJ-7sL8tbzNLBJL-Kh~1FMu49nG8fBTvBoKcUD594DsaIbZmcwfQ3rdzmjXy0jE8DSn0QURTfEO~wTzcm2Wg__"
+              },
+              "metaData": {},
+              "mediatype": "video"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Jav Anderson",
+        "description": "",
+        "date": "2025-02-18T14:30:11.381Z",
+        "location": "",
+        "media": {
+          "items": [
+            {
+              "signedMedia": {
+                "__typename": "LugeloSignedMedia",
+                "mediumImage": null,
+                "thumbnailImage": null,
+                "largeImage": null,
+                "audioFile": "https://d1543yqhrt5eqo.cloudfront.net/public/sound/2ba2d7c2-e093-4bfc-9617-0c406f66a31d.m4a?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=wat7g2HzugLcipZbPhUFJLzlcrKCkW6c8tRxSxeqYaw6aszAOmhjK110Naqu7XA0trZyGU6zYtxraRGZSIQdEG5d5sk~-4P757uauUYFokKgeSuri-Z7QqociMy9NBNt48lcYplpVQJxzAaoDX2aq2kVvPhd4s5QZyV~7VoiAre3GkA6LGhOC5pxpVsxnx9ctYMVwDvjJuLWoeNaWh14dkH0OI3vEcVRc1UXKK-UIY3ohkumRm4KrNZWRQH53TtDVAY~S-8AudHNBEWGcz-l6la4ZNs35OqY~ZBSaXH-Q~DGdbpQJ-2OvsZZ~TtcF1lgv~FMsSFoAvD38KAATTMp9w__",
+                "videoFile": null
+              },
+              "metaData": {},
+              "mediatype": "sound"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Screenshot",
+        "description": "",
+        "date": "2025-02-18T14:24:28.933Z",
+        "location": "",
+        "media": {
+          "items": [
+            {
+              "signedMedia": {
+                "__typename": "LugeloSignedMedia",
+                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/459e04dc-4189-485d-bf29-7ba5f061d174.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=CPik4sB6Tt88APL6L-AP7qS4o9ue~6-s1ar9UCQLmuH2~MDTzGO6WC003QlkshsjkO-EBn3rfWd2VdttFGzeHTtwqHDh-Anx~xvELEpPg-kcPMo~kgbPLRM5YwxrIo-S-gbPYkQw30h1gCfqenXH8OMqOMP5XjG3-OWkhmVCJmldFlTCVZeonPCcFeWMXh2ODooFSnEKa2Apc3zs8v-jsqgs1Q3KjSI5PVZKRz8XxABGW-InkVJa3dUpvVQMeFc99yKoIhVWakC8M5~ZBFMxtuCVmkCzIA4fu-lO-FtUVx8ORg6wUInVificXZta7vLdN2kQRMgHlKVeMomm-F4-Qg__",
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/459e04dc-4189-485d-bf29-7ba5f061d174.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=qeGFXBQL0t5CefOO19FZZjm7YnTm2~g5CprsDtXqNXnjPsted7qCqe8lYnEh0Y42yMELhQSMwbeb~2GFr2hwFwU2EYwbGvDjcARA-lRk2KsaIyLvF~oC8z8neBBH4IKAtnTtN0jh0o6MI~Ouc-qFgc2F69ys-jwf-ylMG5YIo-stIJzJ1VY48oCH7f3Z5GrVsiQ3TFoRpiZN3gllnylTRTmuREUTWQf29ZHODSfUhUfQ2bZt7wbgr30UjySyvPCC47lsBqVz-G7iRrcnTzTQfjhiHgFbgRyouERYaAyFBfyXyUjHbd2Fu~htG-euEe7rn-VSYDPTxVFnKAyZ1wU4Sg__",
+                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/459e04dc-4189-485d-bf29-7ba5f061d174.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=CPik4sB6Tt88APL6L-AP7qS4o9ue~6-s1ar9UCQLmuH2~MDTzGO6WC003QlkshsjkO-EBn3rfWd2VdttFGzeHTtwqHDh-Anx~xvELEpPg-kcPMo~kgbPLRM5YwxrIo-S-gbPYkQw30h1gCfqenXH8OMqOMP5XjG3-OWkhmVCJmldFlTCVZeonPCcFeWMXh2ODooFSnEKa2Apc3zs8v-jsqgs1Q3KjSI5PVZKRz8XxABGW-InkVJa3dUpvVQMeFc99yKoIhVWakC8M5~ZBFMxtuCVmkCzIA4fu-lO-FtUVx8ORg6wUInVificXZta7vLdN2kQRMgHlKVeMomm-F4-Qg__",
                 "audioFile": null,
                 "videoFile": null
               },
               "metaData": {
-                "height": 427,
-                "width": 640
+                "width": 3024,
+                "height": 4032,
+                "orientation": "portrait"
               },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
+              "mediatype": "image"
             }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "Isang makulay na salawikain o kasabihan mula sa iyong kultural na pinagmulan.",
-        "description": " Tukuyin ang isang salawikain o kasabihan mula sa iyong kultural na pinagmulan na mahalaga sa iyo o sa iyong pamilya. Ibahagi ang kahulugan nito at kung paano ito nakaapekto sa iyong buhay",
+          ]
+        }
+      },
+      {
+        "title": "Kushal Patel",
+        "description": "",
+        "date": "2025-02-18T13:56:25.844Z",
         "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
         "media": {
-          "__typename": "ModelMomentMediaConnection",
           "items": [
             {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
               "signedMedia": {
                 "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
+                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/05b2f64d-4730-4879-9d7b-446d7563fed2.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=MiOUXN2hfWiybtXsMQOCAQQn~mIgh0Nteu81-kysqAStgnSnPxGecCQpwIvIbxujPeXLbUYFPP3R-cLp-ECjFi3RD47dWvadjfQ4kzBhPMPwnZLj-kQYPWvEGPbL3rqnwwSvbjf7zCN4Hb2jHOSn0BvXqbJl4mgi6Rs9d1rRt3CtMcyzdF-vEn9A37HbrQd4Fas-HoVv3~0jlxAWVNjzdf2xjDSp~AyZXeDoqIJHHi3loCAFz4SOGnxCIBKkqUmuG-BIdT63tA~~rtC1R71KLDpSBy5HEt3uYII7B1agpdApjYnd8H7iXPMaFdP3QqGAB4zlFB~JbBI6YDEPsIbyhg__",
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/05b2f64d-4730-4879-9d7b-446d7563fed2.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=V--RRAB3BjovzcDS-5VE4BqIirfG5vX0u6w~VdDakTuDU6CwHq4~HJOLADx3tzym3x2QJ4kK5T-qpGsqSTfvi9Zlt-l3aQPpQDehMgKZ99n3oDqj-l4Me~wIJGxQCchrUuBjQLf02yjfXk~aF511eTSM~jZ5aYvHjRNvtiSPXfcnGNfzAwTiDmWt-SPl0onE3sClPprITPbDReASAwREo5QwTolHTWV5AdO2hZG6z4bvoK1XQYUJp2tVBpT2RxoVf9w9tiOeKCp027JZ5SSMgCAO0qgMdzjZdX3GBqzCsJ6ha8nj0r20IYzWXY1NddMU9kqU6gEOwrTDHUVz4~bcVQ__",
+                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/05b2f64d-4730-4879-9d7b-446d7563fed2.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=MiOUXN2hfWiybtXsMQOCAQQn~mIgh0Nteu81-kysqAStgnSnPxGecCQpwIvIbxujPeXLbUYFPP3R-cLp-ECjFi3RD47dWvadjfQ4kzBhPMPwnZLj-kQYPWvEGPbL3rqnwwSvbjf7zCN4Hb2jHOSn0BvXqbJl4mgi6Rs9d1rRt3CtMcyzdF-vEn9A37HbrQd4Fas-HoVv3~0jlxAWVNjzdf2xjDSp~AyZXeDoqIJHHi3loCAFz4SOGnxCIBKkqUmuG-BIdT63tA~~rtC1R71KLDpSBy5HEt3uYII7B1agpdApjYnd8H7iXPMaFdP3QqGAB4zlFB~JbBI6YDEPsIbyhg__",
                 "audioFile": null,
                 "videoFile": null
               },
               "metaData": {
-                "height": 427,
-                "width": 640
+                "width": 1920,
+                "height": 1080,
+                "orientation": "landscape"
               },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
+              "mediatype": "image"
             }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "Merkityksellinen sananlasku tai sanonta kulttuuritaustastasi.",
-        "description": " Tunnista sananlasku tai sanonta kulttuuritaustastasi, joka on ollut tärkeä sinulle tai perheellesi. Jaa sen merkitys ja kuinka se on vaikuttanut elämääsi.",
+          ]
+        }
+      },
+      {
+        "title": "Kushal Patel",
+        "description": "",
+        "date": "2025-02-18T13:55:43.910Z",
         "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
         "media": {
-          "__typename": "ModelMomentMediaConnection",
           "items": [
             {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
               "signedMedia": {
                 "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
+                "mediumImage": null,
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/public/video-thumbs/9b3eb3f3-2a00-4a77-9bf0-df86d9dc1450_1.jpeg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=jersBp-8RCBs-jQmCxPLRCwBCD87X014HbrJLwfOo1c4LuIwWC23hVyPDVRY9fgHB4PRXS0zBHNV2EqGxdMGcHkUIjnsRXby1usGiQkKvu8f5npYXiqMN3cp8MohfDucOgOObZGUBnk9ZOo0eZ0UZoY2s~b647QF2QNzZpKGTpedMyauT6HolV-iTwOqMkpaFa8IG~iGh3tMBZICTiCrzURGPNPtCQNh3kDKvh8Ck5jtQMKT7V2xcBUpouC1-MjzIbdSqvQAWFLPO5g01ZuJgrvbHDxL2Umvx6ARH4q7t4igpLBWtSRzx2givMwb4q3Sq0LNIRiYoxC29g1aDtI6vA__",
+                "largeImage": null,
+                "audioFile": null,
+                "videoFile": "https://d1543yqhrt5eqo.cloudfront.net/public/video/9b3eb3f3-2a00-4a77-9bf0-df86d9dc1450.mp4?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=O3~4g7~tT9j5JAkLltzsfGtGB1rKUl9W8H4Y7y8E-UPmp0J8c7ISKc5jRDmiovgtScN4n4MZp3T6oIZDfekZUYtns2RHov1akGau5AiSy520k2pClIT961VKVwZ-I8NQSXgT5DSuhssxK2sJUol96hX0aUe9Xy3vuTvnDxryPbnKEuXIZ6TRUoB8USEFZ2ly97Br8WUMw-bYnaDbh0-NSJ-uh5C5UTUOsAyqYKlOPu2ja-H8Da4i5pT2xw9lf1kUDP-Sswg0k2HRhxpQHVgRJG6d1-Z~D0JvM2XHb6iCGlMfeg4zM-wGueKvpmQMjH3lgEUz9VCKEhVAbqhjJYntrw__"
+              },
+              "metaData": {},
+              "mediatype": "video"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Kushal Patel",
+        "description": "",
+        "date": "2025-02-18T13:55:23.450Z",
+        "location": "",
+        "media": {
+          "items": [
+            {
+              "signedMedia": {
+                "__typename": "LugeloSignedMedia",
+                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/b1305895-f236-43a9-9e79-0f17ee81a618.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=b4kUhT8nse~--HkxaTgjEGrWc0soW5WVBOdM8v~FJTLcCCIDrDAOw6zGUuEFrBboD1vp-OGkkcHGlm3CZXakjuL2-LYoTf9TCfSqOwizg3B~imHszpVoAsPlI7tMpR1o8X9uN4bYrIWRXDETGHpNCDHaWDJX4UMv3i8t-IhqDT18O3Mw2HxBEo~lwxYlmIYeLvyhDpz75MxJjkHH38Wnr4RZO0rGvejA1hkwzn55~3gFDTmgNJZv7cTiHU16jMKVBRh643iv9~JlociFntBXDVgJNDs1wwNNAUKmU1~uxPDiJxjRtUmvhCioGuxqdjArFOKgwp6rxIJkhkweRw-nQQ__",
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/b1305895-f236-43a9-9e79-0f17ee81a618.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=Mgk3Pa5QCcPKsRMW1E8~cWFblSNxu4X3OptEEDKcfi0IIj-T4fIZShlf5EjvG0lQRhMN2SZTDBRM1yiSiWT5XSv0Xsymrr6Z41Gk6u2AF4mUKDwts1t2YOanQRo8rw07vetUkNyt~SZBlUcN7Rl0N8MtrHmLmA7QLHWxo9cYYBuHywU4WMs~-3Ri1xInkc48DBWpSECeN5vFexZf5e0q0ecLF9eJXhjILvOhrknF9nMzVV6~KI-fweaIXnySn7kUBwvb4JimijtkDnaAed1Td66b-rp4N6XgOGEXx49bZVVGEOwX3FzuVwvzzzhP-PJxFrI7R~p1CHsB79npQldf0Q__",
+                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/b1305895-f236-43a9-9e79-0f17ee81a618.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=b4kUhT8nse~--HkxaTgjEGrWc0soW5WVBOdM8v~FJTLcCCIDrDAOw6zGUuEFrBboD1vp-OGkkcHGlm3CZXakjuL2-LYoTf9TCfSqOwizg3B~imHszpVoAsPlI7tMpR1o8X9uN4bYrIWRXDETGHpNCDHaWDJX4UMv3i8t-IhqDT18O3Mw2HxBEo~lwxYlmIYeLvyhDpz75MxJjkHH38Wnr4RZO0rGvejA1hkwzn55~3gFDTmgNJZv7cTiHU16jMKVBRh643iv9~JlociFntBXDVgJNDs1wwNNAUKmU1~uxPDiJxjRtUmvhCioGuxqdjArFOKgwp6rxIJkhkweRw-nQQ__",
                 "audioFile": null,
                 "videoFile": null
               },
               "metaData": {
-                "height": 427,
-                "width": 640
+                "width": 3024,
+                "height": 4032,
+                "orientation": "portrait"
               },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
+              "mediatype": "image"
             }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "Un proverbe ou dicton significatif de votre culture.",
-        "description": "Identifiez un proverbe ou dicton de votre culture qui a été important pour vous ou votre famille. Partagez sa signification et comment il a influencé votre vie.",
+          ]
+        }
+      },
+      {
+        "title": "Kushal Patel",
+        "description": "",
+        "date": "2025-02-18T13:04:58.376Z",
         "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
         "media": {
-          "__typename": "ModelMomentMediaConnection",
           "items": [
             {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
               "signedMedia": {
                 "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
+                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/6e9c74f5-c579-442a-b9bf-bccb6658de50.JPG?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=N4iRRqIyQaI2gJEgelt5RckF7p-wBXi4Q6SkbJ~fL9X9xpTvOmqwknQ-LPOfXSZ5XMkdXwYdKwWCgLMwVM97A48Zxl9XoAST2EjMIRDSs-xwSv7Vd3cnJH0y2u5GmSItIxJl1SbbZN5fqdmNhNwHUN1sAUJT1k4NNfqIVIgax4ZADQiEYmUWc99ehsfA-PAPl5d-eUGJ0YgX5e1TPpiM6oGb-1EUyodHbIMf8Dtvuqj7~aBHOxgHVC5wcjx~8TCANh4MB3-b0I2SKSjfcPJMgLEKcA30Uh2R55FN8bvRMcbk636tenLbdWRp5d8NxLj6q3ZSLCEV~Qifv3owAqO-iA__",
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/6e9c74f5-c579-442a-b9bf-bccb6658de50.JPG?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=gSL7aS0Y0nHZSDsoulvnjs5udzobIR7mNZN1KrdSaYUtfUcDTWdQ6sjsrSzm9-pFTEUT2b-2cCSz4AOKy8WSVjy57lLvVZeVWUB1iS0RTSWuTmHXx4kEDwT29sCFRSJvDv3CUtWL4Cjzg~MsU6Kjj9bz4qYCbMgOPN8a54layTa~0vU3hEJLN3WPpp7VVZ~zNjBUNEqvh-U5jLdHzzYZ9jr~~aNMmzpmr9oEoMRcBTvFFA17CqZkbq-5mgZ0mb1y~f1SV~tFVRLOJ9nDNnkoCpB0S~OAy4ZKD8ty~FnWOkIf15L0GwRV9bv3Mlh-GebmZeqL8UHO6bLhzBu8prhApQ__",
+                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/6e9c74f5-c579-442a-b9bf-bccb6658de50.JPG?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=N4iRRqIyQaI2gJEgelt5RckF7p-wBXi4Q6SkbJ~fL9X9xpTvOmqwknQ-LPOfXSZ5XMkdXwYdKwWCgLMwVM97A48Zxl9XoAST2EjMIRDSs-xwSv7Vd3cnJH0y2u5GmSItIxJl1SbbZN5fqdmNhNwHUN1sAUJT1k4NNfqIVIgax4ZADQiEYmUWc99ehsfA-PAPl5d-eUGJ0YgX5e1TPpiM6oGb-1EUyodHbIMf8Dtvuqj7~aBHOxgHVC5wcjx~8TCANh4MB3-b0I2SKSjfcPJMgLEKcA30Uh2R55FN8bvRMcbk636tenLbdWRp5d8NxLj6q3ZSLCEV~Qifv3owAqO-iA__",
                 "audioFile": null,
                 "videoFile": null
               },
               "metaData": {
-                "height": 427,
-                "width": 640
+                "width": 854,
+                "height": 1280,
+                "orientation": "portrait"
               },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
+              "mediatype": "image"
             }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "Ein bedeutungsvolles Sprichwort oder Redewendung aus deinem kulturellen Hintergrund.",
-        "description": "Identifiziere ein Sprichwort oder eine Redewendung aus deinem kulturellen Hintergrund, das für dich oder deine Familie wichtig war. Teile seine Bedeutung und wie es dein Leben beeinflusst hat.",
+          ]
+        }
+      },
+      {
+        "title": "",
+        "description": "",
+        "date": "2025-02-12T13:24:54.346Z",
         "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
         "media": {
-          "__typename": "ModelMomentMediaConnection",
           "items": [
             {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
               "signedMedia": {
                 "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
+                "mediumImage": null,
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/public/video-thumbs/91fae638-59a0-4d3c-9bfb-ab6f2c6597bf_1.jpeg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=F7-BI8rhlP8FH3F3nrmNg9Ywa4KXyulCju8wKVn9hyZ~d4rDhRbGG-YJKzCr5eaKS8SZtwaXiV5BYJo7VFW8IVuaBFvmXfcLQq1NDQA9nmAqybrWvS9iixTwNn42vF0rrr1nOyc81ry90hSdMJD5AuKOrl5PNx6OZ1IrCSUgN2xMBhutm3JYr5eNT-uEP9zBgMgUgX3latQBDN1D3Bj2Bs4N3pB~NStBUGShvi01049We99YAerQrfcdo31QxLGNzwITj0glhd5tZnTswKyplugg6-YOYUxNZUyvRt9NkLpSmAV2nQG5J8N4T4bNVJeIBDeR6zs2RNLoi2uxaDi6VQ__",
+                "largeImage": null,
+                "audioFile": null,
+                "videoFile": "https://d1543yqhrt5eqo.cloudfront.net/public/video/91fae638-59a0-4d3c-9bfb-ab6f2c6597bf.mp4?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=hwyiKIGIMlMtsKS-twmNDSiMeTIH8X5l3rWivmTFUIPwS~VXAd9c68jzOR620IQdMVe4j8NvYERrnEtDVz3VYtZOWLJGBGrbg~YXr8IPAgDVtveDGhIBRpbVuPQU6vkWd~Elx9hp8yn1oi9nmZCkpdEBcOBG~QHAZVWj3c-oaX-bIWd3UZK90R5GP8ivFgl11U6Sx~y6Veh2dYwudaWjHPAKkMqg05mm5v9aUjRnLwT1EE~s8-cFL64lBno~8FV4L8s~4HXmWxFMPKVi044hrcuOP4LYg~QKwT3hW244GRqkXAvARj8UFCYUTppNhKs5Dw5Rjmaj3AvFiJo4Gho3WQ__"
+              },
+              "metaData": {},
+              "mediatype": "video"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Profile Moment",
+        "description": "",
+        "date": "2025-02-12T08:09:01.900Z",
+        "location": "",
+        "media": {
+          "items": [
+            {
+              "signedMedia": {
+                "__typename": "LugeloSignedMedia",
+                "mediumImage": null,
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/public/video-thumbs/fbeb804a-94ae-41da-afbf-605225066a8f_1.jpeg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=gx4JBN9hZ4KRWX4R-GY3urHv03sg23j0YOTtCiWg-05q0EZBiaBYsJoxawCr82f8hHd3AOmnqOp~dDbKwrS8aw~Kd3UfNSicfeQqbZwNLTgJJA84qjOHZbg3h2Nc2pNYTcGNlGxVF3o49wDRYyCFGTDh9TtbxGItsrSvn4BMrgMo66ugie2D4wMAKgs4oHBZmx9xTsotdql1JP6YPWbviVbNK2OfJtkPhiDm0ZWPhTokxCQTjFtOK3otu-0LBsEx~vpWwfXJ5Hw1NgB9JcR6kqcqW0J0AdmpfFTxkKrOAZ4n5RzWoHOLDJoGuqYXZNInTIQpqtwKqwx43fouTy8YOQ__",
+                "largeImage": null,
+                "audioFile": null,
+                "videoFile": "https://d1543yqhrt5eqo.cloudfront.net/public/video/fbeb804a-94ae-41da-afbf-605225066a8f.mp4?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=nhRqgGlDfYD25-ZnB9goHljSMxjyGwdY8XVO6PzSm2pCM97yKwqRlbwmV9svg5zRZdSdDKX25akTNA8z2GdNivoc-XPV2Ge-hixm2USGPf-Z8AxZCgzM4P8OHWtn0SkAw9GwEUjuYYC18CYB8ttSs61qrNIgaHhJXjDCfUuzL4GiRYlzocUgiFXTxZqqAbS9JCbXkVdkQOpQvAkGV-rhUDmFwMFMlxiN46KmiUckK719WM96CUyrHa07eMLCh3W2RY2Nxn9uqDhlz3EiLVOMdxxGeckcNBGQwdafYzZH~nLDnDUqm8Y97erem3lLCZM~NCmZAofBpgbNjwfrFhaIpg__"
+              },
+              "metaData": {},
+              "mediatype": "video"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Kushal Patel",
+        "description": "Hellos is the one who wants it for me and the kids will have&nbsp;\n",
+        "date": "2025-02-11T07:29:23.678Z",
+        "location": "",
+        "media": {
+          "items": [
+            {
+              "signedMedia": {
+                "__typename": "LugeloSignedMedia",
+                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/26202cb2-1df0-4a19-b971-51666f7aa34f.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=E7qFF3KiDVZ7ZkK35B-wZoBADI5txhDEM~nNX7nGzpU6yRYn7m9Q3544CRf6asyVY3GCClzL0FzK00U4SgspJ7kRKku5IgyhVTJaRfBW8c3UNrw0rJLkFBQfxew3r6vQ7pOP~-bCWYynn8SqvGuQKV7xcJrtDiIUAeWO3aCiS5~KRq1SHluUSFE8jR6LqAvh9d2S0Wtxoa0bt0xJiFxjyCogss-D3lhrSeMd0CepWzVhMo5LmFxJ2p1zmTj9PL8aAgdw7hTqYPnXYgjF0uHt4tTVT2xLPorHROlgGQIYsilWP8vUh7I7bCt6x1KYzsOzQVpBVb0ea4qKbCfDSAipbQ__",
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/26202cb2-1df0-4a19-b971-51666f7aa34f.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=a-L-yZz5atsBPUkSVKOr2AksKW80btsokwntoZ~xlrWSAGf7JBN2oEi4x7lkRlGZBEIdmtwP4y9Un9IV1b9ZZmNRWrwZ9U1ueLSKvMoDbxghsUDfikjGIPqpAgG1mf6VsX8Aof5w-IA1O2Fj0WXTLzMXPdSlbYGO9yd~OfP-~S2gn0iuGoJLwgCLPlYfykAUoqYEEFZnh013Wn8mOl5oVLmQfYq-~CtE8vXSwuFuYQ9pCTkJgqwJ5qPhr2q3LN~JhPUG4JqylU3LDk6DL8Z8PAAGZxkh8svLK8m0LWN5RRZYL82kyFnMT8S197DVTPwD65H6Z0f~XpG01iL4bxtA2w__",
+                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/26202cb2-1df0-4a19-b971-51666f7aa34f.jpg?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=E7qFF3KiDVZ7ZkK35B-wZoBADI5txhDEM~nNX7nGzpU6yRYn7m9Q3544CRf6asyVY3GCClzL0FzK00U4SgspJ7kRKku5IgyhVTJaRfBW8c3UNrw0rJLkFBQfxew3r6vQ7pOP~-bCWYynn8SqvGuQKV7xcJrtDiIUAeWO3aCiS5~KRq1SHluUSFE8jR6LqAvh9d2S0Wtxoa0bt0xJiFxjyCogss-D3lhrSeMd0CepWzVhMo5LmFxJ2p1zmTj9PL8aAgdw7hTqYPnXYgjF0uHt4tTVT2xLPorHROlgGQIYsilWP8vUh7I7bCt6x1KYzsOzQVpBVb0ea4qKbCfDSAipbQ__",
+                "audioFile": null,
+                "videoFile": null
+              },
+              "metaData": {},
+              "mediatype": "image"
+            }
+          ]
+        }
+      },
+      {
+        "title": " Edited image 123333",
+        "description": "I'm going back to the house to go to the gym with the girls for the night so I'll let you know if you need anything or do you want me too I just want you in my room I don't want you in&nbsp;\n\n\n",
+        "date": "2025-02-11T07:22:51.355Z",
+        "location": "",
+        "media": {
+          "items": [
+            {
+              "signedMedia": {
+                "__typename": "LugeloSignedMedia",
+                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/ecd5fa81-daa8-4cc8-b7af-d55226099cb9.JPG?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=lusaGl~D9vPqhSwSaCKGPbLbfllTOraw5nID5rZZBNzhaACdnzFU4LkIJRsQiWYagxItWI9y~RbYzkEJWndc46Xc9ZV7hNNwSV0jm1XSehBqgPpPNOWjwzQA3JBVJu5JXfSH4apq071zU0SHwsqAekKGd3bNHutb4z-84u2WPSc5VDN0lonshns2x8DrDeVLtZW1YsaQhy-RjqP6AwUGw7ameWGw1GWXRlPa8UHR8K5fvEJhT7-Hc2e~8MB8uvrkcUjGvT~v4a7G9GlMKbmM-8ZITdkDrWp7adskPtb4FGzrA12YKM0TKLM99JbrQM4-klUPO7E5YeUlAgdO3pkOjw__",
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/ecd5fa81-daa8-4cc8-b7af-d55226099cb9.JPG?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=S0LqyjP~RbC2pUDBLu133LIwbfOiyWOmksCBxcBzFPqqNIUEaPnRiaNUEARprWyir~HFAg9hh2OQX8Nux5nceebwF552lNH10ViMYsJyEOOGXZ0tiub0T9rUQIQDblK3lpOsAJ1~c1kU88F~mjUOrH~2NrlOP0Q45wA5ge92AejbPXhPx-ByS2WJoei-dUIcAyHS5aZM8KdEhdHFDBmpPNIT5WT0sYqUQ8ZmVmrV19TF0xn5OdpXmjeDLugMJG8sj3MqNIw75MuBwF9yFo1GCmGBWnVDUTN2bVHyNs8LJLSzQY0e-EEVwE0ywwTo0BoFMLo-vOL-ZBaUWMBpYs~W9A__",
+                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/ecd5fa81-daa8-4cc8-b7af-d55226099cb9.JPG?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=lusaGl~D9vPqhSwSaCKGPbLbfllTOraw5nID5rZZBNzhaACdnzFU4LkIJRsQiWYagxItWI9y~RbYzkEJWndc46Xc9ZV7hNNwSV0jm1XSehBqgPpPNOWjwzQA3JBVJu5JXfSH4apq071zU0SHwsqAekKGd3bNHutb4z-84u2WPSc5VDN0lonshns2x8DrDeVLtZW1YsaQhy-RjqP6AwUGw7ameWGw1GWXRlPa8UHR8K5fvEJhT7-Hc2e~8MB8uvrkcUjGvT~v4a7G9GlMKbmM-8ZITdkDrWp7adskPtb4FGzrA12YKM0TKLM99JbrQM4-klUPO7E5YeUlAgdO3pkOjw__",
                 "audioFile": null,
                 "videoFile": null
               },
               "metaData": {
-                "height": 427,
-                "width": 640
+                "width": 4096,
+                "height": 3072,
+                "orientation": "landscape"
               },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
+              "mediatype": "image"
             }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": " Ένα σημαντικό παροιμία ή ρητό από το πολιτιστικό σας υπόβαθρο.",
-        "description": " Αναγνωρίστε μια παροιμία ή ρητό από το πολιτιστικό σας υπόβαθρο που ήταν σημαντική για εσάς ή την οικογένειά σας. Μοιραστείτε τη σημασία της και πώς επηρέασε τη ζωή σας.",
+          ]
+        }
+      },
+      {
+        "title": "Kushal Patel",
+        "description": "",
+        "date": "2025-02-11T06:40:39.420Z",
         "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
         "media": {
-          "__typename": "ModelMomentMediaConnection",
           "items": [
             {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
               "signedMedia": {
                 "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
+                "mediumImage": null,
+                "thumbnailImage": null,
+                "largeImage": null,
+                "audioFile": "https://d1543yqhrt5eqo.cloudfront.net/public/sound/ab04c0b6-f996-4ede-9fd7-c8dcbbec2bd8.mp3?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=EPx~M4dvarn6QRkJ9U4eStPJTIZsR16Aran1hSY~VVAf185Lo1INZxpppRwC38QEieyw2trV0uBhAuQE0RkuqAJwYhri2myaHNblbDJusyt8~I-puTs3SIDHhtfVTxu~cJL-8Apc5c9mBzte0j5B3lgr27EQOrzxjKqnSMrn6GwHP1L8~NyaRcgNihKJS7nBLpwMCiuJW88N~CuD3XmH7RekDsf0en2eEjUojlkBtukULuxlp10gogD7k4mV2NhlWT1~IeFofOMf5IlEJS~VJnCT3bcWibQCMsMY~hv02VFA4Z5lWDkvSTTVi8X3qtEdhVYGPDwjhApzH7ia3ypLgA__",
+                "videoFile": null
+              },
+              "metaData": {},
+              "mediatype": "sound"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Jav Anderson",
+        "description": "",
+        "date": "2025-01-30T09:40:30.787Z",
+        "location": "",
+        "media": {
+          "items": [
+            {
+              "signedMedia": {
+                "__typename": "LugeloSignedMedia",
+                "mediumImage": null,
+                "thumbnailImage": null,
+                "largeImage": null,
+                "audioFile": "https://d1543yqhrt5eqo.cloudfront.net/public/sound/075e95c1-0721-4bc4-9efd-92cb4b8740f4.mp3?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=wVJBM0gRJ1vZFrs9JtkRvnIDthOOEmgFPN2HliOogiCTeeRdfYSJlULb1wpZl8h-qUHyfVss~~C4WUBOXHjcXHfEdfsDJi4LztMYTJqzJDvh2MswbfYXVviduwOi7jmpNHL3ypvH6AMEIvjfYiSGoH72eoXopZfwLjgm0k9UPmXKD9FpE1wFIpsu3I4gxG0mLbwvbycRpcGAB-~pl0gL5xXQOJ73e7NIM6ovmx10R1d9MG1Mkv4eKeNY426MaSQHM1mloETOkrfH5bSmbBmXWaXF2gU1TQbgMvqdBmuqqludsnvtWt-ZheT9LxjpvSvBnfhmm9DqEU0b8TZLhyqeaw__",
+                "videoFile": null
+              },
+              "metaData": {},
+              "mediatype": "sound"
+            },
+            {
+              "signedMedia": {
+                "__typename": "LugeloSignedMedia",
+                "mediumImage": null,
+                "thumbnailImage": null,
+                "largeImage": null,
+                "audioFile": "https://d1543yqhrt5eqo.cloudfront.net/public/sound/31fa7ee7-5f95-4232-9ddd-2b1d202f452d.mp3?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=w-OOEB0PIoipJTYj0qLrfgOa9Z7FDtTiXKynMPmLmZSGE0tUt2e8pnv9r69Zbio24ucI1KRqiduanlaCQoPBurQfDKUkmrJ9zc3~BFocNvYfs3i8mYJUgs9WzSCEOP6MKgKHHPCoby75hT7fUEMpgEgM~MPtf9vEBWNoZnEybWPI3onCybnaZbyPfLQT0O0gB1tsuxWDBPjiKc6t2fXy9Gyx5Z27-KjkM5WiXWH8hYS18frTZjtU0uVHhWZ00GWbU5~va-IQ4dD5cz23BqW20iio6~3vuTsBOvufMwLTH1yxvHb~ZwyTuigLQnNZ2gqj-WuX09YPv~eCyb7zEFhAUQ__",
+                "videoFile": null
+              },
+              "metaData": {},
+              "mediatype": "sound"
+            },
+            {
+              "signedMedia": {
+                "__typename": "LugeloSignedMedia",
+                "mediumImage": null,
+                "thumbnailImage": null,
+                "largeImage": null,
+                "audioFile": "https://d1543yqhrt5eqo.cloudfront.net/public/sound/6f3fbb44-52eb-4963-b0b0-27756e70c4b7.mp3?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=ZVxKTdcXJX3Mi03WSIuXRdEguYA-HbFStigUZka3OcPbvZXAwWKNQjGHelcsApCaVOtupbFOIEvP2y6Jhv58IZmEDqZEnagWiYhYZG7MVV0VBn1pPehLn~EecUp1EUq30nESP8LADW9UMzIMmfTtGOb47DQuE4UnBi3IjeT0neZjPQ3G550q1sEcqLhBpjdsnSCngQTR6wr94sDfP3tPZK816zc329tjJgzsSQu7bsPbAe25JeNNvNi3Dz~NWjtRt1RNgBD8DfSx88NFSf1dAVfxY5zdj3r9hP6IHtUCsLLedq1lBcmGow03maJTHAjBBJmnq3RnFy~ZcSBq1RbeWg__",
+                "videoFile": null
+              },
+              "metaData": {},
+              "mediatype": "sound"
+            },
+            {
+              "signedMedia": {
+                "__typename": "LugeloSignedMedia",
+                "mediumImage": null,
+                "thumbnailImage": null,
+                "largeImage": null,
+                "audioFile": "https://d1543yqhrt5eqo.cloudfront.net/public/sound/93d7e96e-5d34-4887-9279-3453378e413e.mp3?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=BRp7vW33G6nxirRBvQ9b65-KJcOHJu6-XB2PGQQc4pZO6f~jXjPIvcWWwKfKt34k6tJn455aQ8O6zyDbCqM1za42~22cR5OGxnTell9EufgWZTqnQSP78Bjqqm~h5P6XzRSBQtSNww9kZfQvbFDf5xbOJoz2gL93cVmExg26TMuELszDWNWx68LADSQmdmcJoHgOdIwk8e3Lixu0oZkROm7-f3K3kDwjhkDJs64ePiZWOB76yHVcom-fHfY94xglrY7lv0qQdOqUKXjGILRmPfpsvHqYbTy-ze0lSglP~oLT7s547-I1T4xtPUTYZtdiDpQGKl49IS6qgZg73-LS0Q__",
+                "videoFile": null
+              },
+              "metaData": {},
+              "mediatype": "sound"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Jav Anderson",
+        "description": "",
+        "date": "2025-01-30T09:40:21.362Z",
+        "location": "",
+        "media": {
+          "items": [
+            {
+              "signedMedia": {
+                "__typename": "LugeloSignedMedia",
+                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/10898029-52a7-4ae6-ba93-2d8c42516e88.HEIC?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=Xuhpa~ZlU3IffEqq62frOBSMdIodbg51A3f0SVSTpcjTkT1zibLE7tL2SMlF1h6xbP1cjSYZRqDZQbuc~JeOH0d9Z88S3AwwquFSXqcvJOzTDZhHA90PybUSywkXiccKNdHsX6kmJtAYfC-4HRhuaiLEsNeZbkqyr09mC0u6byvHlzJDkMXnNmLj74pDvx124q-YenzHGJhj4-S0mQp21iD-7CeGbMM~BiCBdl5ynabO9bTV8yfRtogSA5RvJUL7XcrPH19KbFD7~kbBV4sakDXyfs~VNgOZguZM3ihz1ijMFUZfXIm4CR5SBrQWokTs7tedNQ~0VG7t9iZN2ZXLKA__",
+                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/10898029-52a7-4ae6-ba93-2d8c42516e88.HEIC?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=mzAuPkpdyHPQ6H2V-6oMAv~WJG~I0Pnia8nOLItoeEkwXvDl3vxWngVuJtS2-h~MUkU8T5PTdxXEnsu1XuBfdAV32MSX2rVTllaeZCZtxNmLqqcSof2zliEYyW0CsHeePGB2RieW5j-Sl6OuXyeZ1j~RtBcj8-Lc~MgetIxPV6o4j0tufFvkOnVPsVvlvZBHmYQ9ceXTRY6bj6Xr283mwACx-04buuEOwj5SgkqxzzlvqtgQx3-7dQT0lyMtX4lW1EsebazjALcbPvtMErrX2IhIIOAGU0xhwHvCmcAm-lo~a8AnetMltPHtZWrwT300h07N0QRbW9FdifKva0fudg__",
+                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/10898029-52a7-4ae6-ba93-2d8c42516e88.HEIC?Expires=1753260525&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=Xuhpa~ZlU3IffEqq62frOBSMdIodbg51A3f0SVSTpcjTkT1zibLE7tL2SMlF1h6xbP1cjSYZRqDZQbuc~JeOH0d9Z88S3AwwquFSXqcvJOzTDZhHA90PybUSywkXiccKNdHsX6kmJtAYfC-4HRhuaiLEsNeZbkqyr09mC0u6byvHlzJDkMXnNmLj74pDvx124q-YenzHGJhj4-S0mQp21iD-7CeGbMM~BiCBdl5ynabO9bTV8yfRtogSA5RvJUL7XcrPH19KbFD7~kbBV4sakDXyfs~VNgOZguZM3ihz1ijMFUZfXIm4CR5SBrQWokTs7tedNQ~0VG7t9iZN2ZXLKA__",
                 "audioFile": null,
                 "videoFile": null
               },
               "metaData": {
-                "height": 427,
-                "width": 640
+                "width": 3024,
+                "height": 4032,
+                "orientation": "portrait"
               },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
+              "mediatype": "image"
             }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "Yon pwovèb oswa pawòl ki gen sans soti nan orijin kiltirèl ou.",
-        "description": "Idantifye yon pwovèb oswa pawòl soti nan orijin kiltirèl ou ki te enpòtan pou ou oswa fanmi ou. Pataje sans li ak kij",
+          ]
+        }
+      },
+      {
+        "title": "Rick Smith - Moment",
+        "description": "This Moment is from&nbsp;Rick Smith. I'm going back to the house&nbsp;\n",
+        "date": "2025-01-16T11:20:54.736Z",
         "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
         "media": {
-          "__typename": "ModelMomentMediaConnection",
-          "items": [
-            {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "signedMedia": {
-                "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "height": 427,
-                "width": 640
-              },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
-            }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "Karin magana mai ma'ana daga asalin al'adunka.",
-        "description": "Tantance karin magana daga asalin al'adunka wanda ya kasance mai muhimmanci gare ka ko iyalinka. Raba ma'anarsa da yadda ya shafi rayuwarka.",
+          "items": []
+        }
+      },
+      {
+        "title": "Test - Edited 1",
+        "description": "Hello 222\n\n\n\n\n​https://commons.wikimedia.org/wiki/File:Aaliyah-08.jpg\n\n\n\n",
+        "date": "2025-01-16T10:18:12.937Z",
         "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
         "media": {
-          "__typename": "ModelMomentMediaConnection",
-          "items": [
-            {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "signedMedia": {
-                "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "height": 427,
-                "width": 640
-              },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
-            }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "He ʻōlelo noʻeau koʻikoʻi mai kāu kumu moʻomeheu.",
-        "description": "E ʻike i kahi ʻōlelo noʻeau mai kāu kumu moʻomeheu i koʻoi ʻia iā ʻoe a i kou ʻohana. E kaʻana i kona manaʻo a me ka pehea i hoʻopili ai i kou ola.",
-        "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
-        "media": {
-          "__typename": "ModelMomentMediaConnection",
-          "items": [
-            {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "signedMedia": {
-                "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "height": 427,
-                "width": 640
-              },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
-            }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "פתגם או אמרה משמעותית מרקע התרבותי שלך.",
-        "description": "זהה פתגם או אמרה מרקע התרבותי שלך שהיה חשוב לך או למשפחתך. שתף את משמעותו ואיך הוא השפיע על חייך.",
-        "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
-        "media": {
-          "__typename": "ModelMomentMediaConnection",
-          "items": [
-            {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "signedMedia": {
-                "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "height": 427,
-                "width": 640
-              },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
-            }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "आपके सांस्कृतिक पृष्ठभूमि से एक अर्थपूर्ण कहावत या कहावत।",
-        "description": "अपनी सांस्कृतिक पृष्ठभूमि से एक कहावत या कहावत पहचानें जो आपके या आपके परिवार के लिए महत्वपूर्ण रही है। इसका अर्थ साझा करें और इसने आपके जीवन को कैसे प्रभावित किया है।",
-        "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
-        "media": {
-          "__typename": "ModelMomentMediaConnection",
-          "items": [
-            {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "signedMedia": {
-                "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "height": 427,
-                "width": 640
-              },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
-            }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "Ib lo lus txhais tau zoo los ntawm koj qhov chaw ntawm kab lis kev cai.",
-        "description": "Tshawb nrhiav ib lo lus txhais tau zoo los ntawm koj qhov chaw ntawm kab lis kev cai uas tseem ceeb rau koj lossis koj tsev neeg. Qhia nws qhov txhais thiab nws tau cuam tshuam li cas rau koj lub neej.",
-        "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
-        "media": {
-          "__typename": "ModelMomentMediaConnection",
-          "items": [
-            {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "signedMedia": {
-                "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "height": 427,
-                "width": 640
-              },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
-            }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "Okwu amamihe ma ọ bụ okwu sitere na omenala gị.",
-        "description": "IChọpụta okwu amamihe ma ọ bụ okwu sitere na omenala gị nke dị mkpa nye gị ma ọ bụ ezinụlọ gị. Kọwaa ihe ọ pụtara na otú ọ si metụta ndụ gị.",
-        "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
-        "media": {
-          "__typename": "ModelMomentMediaConnection",
-          "items": [
-            {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "signedMedia": {
-                "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "height": 427,
-                "width": 640
-              },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
-            }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "Pepatah atau ucapan bermakna dari latar budaya Anda.",
-        "description": "Identifikasi pepatah atau ucapan dari latar budaya Anda yang penting bagi Anda atau keluarga Anda. Bagikan maknanya dan bagaimana itu memengaruhi hidup Anda.",
-        "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
-        "media": {
-          "__typename": "ModelMomentMediaConnection",
-          "items": [
-            {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "signedMedia": {
-                "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "height": 427,
-                "width": 640
-              },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
-            }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "Seanfhocal nó ráiteas bríomhar ó do chúlra cultúrtha.",
-        "description": "Aithin seanfhocal nó ráiteas ó do chúlra cultúrtha a bhí tábhachtach duit nó do do theaghlach. Roinn a bhrí agus conas a d'fhéadfadh sé tionchar a imirt ar do shaol.",
-        "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
-        "media": {
-          "__typename": "ModelMomentMediaConnection",
-          "items": [
-            {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "signedMedia": {
-                "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "height": 427,
-                "width": 640
-              },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
-            }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "Un proverbio o detto significativo dalla tua cultura.",
-        "description": "Identifica un proverbio o detto dalla tua cultura che è stato importante per te o la tua famiglia. Condividi il suo significato e come ha influenzato la tua vita.",
-        "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
-        "media": {
-          "__typename": "ModelMomentMediaConnection",
-          "items": [
-            {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "signedMedia": {
-                "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "height": 427,
-                "width": 640
-              },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
-            }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "あなたの文化的背景からの意味深いことわざや言い回し。",
-        "description": "あなたの文化的背景から、あなたやあなたの家族にとって重要だったことわざや言い回しを特定してください。その意味と、それがあなたの人生にどのように影響したかを共有してください。",
-        "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
-        "media": {
-          "__typename": "ModelMomentMediaConnection",
-          "items": [
-            {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "signedMedia": {
-                "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "height": 427,
-                "width": 640
-              },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
-            }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "당신의 문화적 배경에서 의미 있는 속담이나 격언.",
-        "description": "당신의 문화적 배경에서 당신이나 당신의 가족에게 중요한 속담이나 격언을 식별하십시오. 그 의미와 그것이 당신의 삶에 어떻게 영향을 미쳤는지 공유하십시오.",
-        "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
-        "media": {
-          "__typename": "ModelMomentMediaConnection",
-          "items": [
-            {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "signedMedia": {
-                "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "height": 427,
-                "width": 640
-              },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
-            }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "ຄຳສັນຍາຫຼືຄຳພາບທີ່ມີຄວາມຫມາຍຈາກພືດທຳທາງວັດທະນະທຳຂອງທ່ານ.",
-        "description": "ກຳນົດຄຳສັນຍາຫຼືຄຳພາບຈາກພືດທຳທາງວັດທະນະທຳຂອງທ່ານທີ່ສຳຄັນຕໍ່ທ່ານຫຼືຄອບຄົວຂອງທ່ານ. ການແບ່ງປັນຄວາມຫມາຍຂອງມັນແລະວິທີທີ່ມັນມີຜົນຕໍ່ຊີວິດຂອງທ່ານ.",
-        "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
-        "media": {
-          "__typename": "ModelMomentMediaConnection",
-          "items": [
-            {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "signedMedia": {
-                "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "height": 427,
-                "width": 640
-              },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
-            }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "Reikšmingas posakis ar patarlė iš jūsų kultūrinės aplinkos.",
-        "description": "Nustatykite posakį ar patarlę iš jūsų kultūrinės aplinkos, kuri buvo svarbi jums ar jūsų šeimai. Pasidalykite jos prasme ir kaip ji paveik",
-        "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
-        "media": {
-          "__typename": "ModelMomentMediaConnection",
-          "items": [
-            {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "signedMedia": {
-                "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "height": 427,
-                "width": 640
-              },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
-            }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
-      },{
-        "__typename": "LugeloMoment",
-        "id": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-        "title": "Et meningsfullt ordtak eller uttrykk fra din kulturelle bakgrunn.",
-        "description": "Identifiser et ordtak eller uttrykk fra din kulturelle bakgrunn som har vært viktig for deg eller familien din. Del betydningen og hvordan det har påvirket livet ditt.",
-        "location": "",
-        "date": "2025-04-22T13:30:02.068Z",
-        "created": "2025-04-22T13:30:02.068Z",
-        "modified": "2025-04-26T06:54:50.233Z",
-        "published": true,
-        "userId": "67122eb7-677f-4665-98af-bd46dc844d53",
-        "storybookId": "251c80b9-3b4f-4243-8427-7565989d1cdb",
-        "colorTheme": null,
-        "position": null,
-        "media": {
-          "__typename": "ModelMomentMediaConnection",
-          "items": [
-            {
-              "__typename": "MomentMedia",
-              "id": "56fb6c11-c247-4bb1-9b64-62b3f9403a79",
-              "momentId": "ba2e1e7f-287c-461a-85cf-6e8668e58c2b",
-              "dbmomentId": 0,
-              "aurl": "https://lugelodev01.s3.amazonaws.com/public/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "filename": "51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg",
-              "signedMedia": {
-                "__typename": "LugeloSignedMedia",
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/51811f7e-734e-4b23-ba26-c4b42d17ad7b.jpg?Expires=1747033336&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pzjq~lhBJJ6LgKCU1vXb8PDprFlDJsyGE30pFMyCQ~IYRl4NXMqbPE8-lDFfOP7Q0~PHSarZNDR2bzrwm0WPKIF8esCtXMeblMTq5dVdCu8VW7cVU9UgZ4shvozP6lqB68mcVvvPTBbaTMaPdxOANWQwGklMz-~D3edFR4wFWd0vOuupE3QtF98QZ9d0kNEY~j6Deh4LHIVtQvQA0zjX58kPxATbuFwL-nCjnpuVjO66GaF7Asofe7x7t4yw9GANmbsXxtQ0HohKX37ljWT1f~3CLnPCJu9Q4ctr6znusR0Gd~wgnU~XFh8ajdsS79ZSaRS1TLl1dCJohUKg98GG9w__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "height": 427,
-                "width": 640
-              },
-              "mediatype": "image",
-              "created": "2025-04-23T11:12:44.622Z",
-              "localMediaPath": "/Users/macminim2/Library/Developer/CoreSimulator/Devices/1049DAC9-6BBC-4121-8143-B92B5927B6EF/data/Containers/Data/Application/91D47EFF-BF7A-4762-84FC-8614E0B27F0C/Documents/01D146EE-4ECD-4B5A-9B4E-75ABD505D7BC.jpg",
-              "_version": 1,
-              "_deleted": null,
-              "_lastChangedAt": 1745406767116,
-              "createdAt": "2025-04-23T11:12:47.091Z",
-              "updatedAt": "2025-04-23T11:12:47.091Z"
-            }
-          ],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "comments": {
-          "__typename": "ModelLugeloCommentConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "likes": {
-          "__typename": "ModelLugeloLikeConnection",
-          "items": [],
-          "nextToken": null,
-          "startedAt": null
-        },
-        "lugeloUser": {
-          "__typename": "LugeloUser",
-          "id": "67122eb7-677f-4665-98af-bd46dc844d53",
-          "fullName": "Sophia Williams Kane",
-          "profilePic": "10512DD5-9C8D-4B1A-8877-F9FD74488735.jpg",
-          "avatarColor": "#875AE7",
-          "username": "67122eb7-677f-4665-98af-bd46dc844d53"
-        },
-        "_version": 3,
-        "_deleted": null,
-        "_lastChangedAt": 1745650491218,
-        "createdAt": "2025-04-22T13:30:02.763Z",
-        "updatedAt": "2025-04-26T06:54:51.191Z"
+          "items": []
+        }
       }
     ],
     "startColor": "",
-    "isPrimeUser": false,
+    "isPrimeUser": true,
     "momentArColor": [
       "#F1D4DB",
       "#F0E9A8",
@@ -2064,22 +868,33 @@
       "#FFFFFF",
       "#DCDCDC"
     ],
-    "arS3Url": "https://raw.githubusercontent.com/anpsquare/unity-assetbundles/main/Assets/AssetBundles/buildingparent_04",
-    "CRC": "1901165087",
-    "hash128": "a6b70666d308dc4041b5e751453dd3e0",
+    "arS3Url": "https://drive.google.com/uc?export=download&id=1Ca2j7I5orA0zRmv2rNIJIEQC--xzH78g",
+    "CRC": "2580290811",
+    "hash128": "cbd14bbac78aad35ac00424ed201a307",
     "movementCustom": {
-      "CameraSpeed": 30,
-      "CameraSmoothness": 10,
-      "PlayerMoveSpeed": 6,
+      "CameraSpeed": 7,
+      "CameraSmoothness": 7,
+      "PlayerMoveSpeed": 10,
       "PlayerMoveSmoothness": 0.025
     },
-    "FrameTextColorConfig":
-    {
+    "FrameTextColorConfig": {
       "nameText": "#000000",
-      "detailsText" : "#000000",
+      "detailsText": "#000000",
       "dateText": "#000000",
       "locationText": "#000000",
-      "clockColor" : "#FFFFFF"
-    }
+      "clockColor": "#000000",
+      "OuterBorderColor" :"#1D1C1C",
+      "InnerBorderColor" : "#FFFFFF"
+    },
+    "SceneConfig": 
+    {
+      "roomDistance" :-140,
+      "SkyboxSetup" :-1,
+      "ProgressBarText" : "Collecting your moments....",
+      "LoadingVideo" :0,
+      "CameraMinFOV" : 10,
+      "FrameSize": 1,
+      "TextDistanceFromFrame":0.3
+    },
   }
 }
