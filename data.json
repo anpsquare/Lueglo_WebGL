@@ -77,7 +77,7 @@
       },
       {
         "title": "What memorable moments have you shared with your dog?",
-        "description": "Reflect on special moments such as training achievements, funny behaviors, or adventures you’ve had together.",
+        "description": "Reflect on special moments such as training achievements, funny behaviors, or adventures you\u2019ve had together.",
         "date": "2025-07-10T11:51:05.943Z",
         "location": "",
         "media": {
@@ -104,7 +104,7 @@
       },
       {
         "title": "What milestones have you celebrated with your dog?",
-        "description": "Recall significant events such as birthdays, training achievements, or rescue anniversaries that are milestones in your dog’s life.",
+        "description": "Recall significant events such as birthdays, training achievements, or rescue anniversaries that are milestones in your dog\u2019s life.",
         "date": "2025-07-10T11:26:19.911Z",
         "location": "",
         "media": {
@@ -846,7 +846,7 @@
       },
       {
         "title": "Test - Edited 1",
-        "description": "Hello 222\n\n\n\n\n​https://commons.wikimedia.org/wiki/File:Aaliyah-08.jpg\n\n\n\n",
+        "description": "Hello 222\n\n\n\n\n\u200bhttps://commons.wikimedia.org/wiki/File:Aaliyah-08.jpg\n\n\n\n",
         "date": "2025-01-16T10:18:12.937Z",
         "location": "",
         "media": {
@@ -883,18 +883,17 @@
       "dateText": "#000000",
       "locationText": "#000000",
       "clockColor": "#000000",
-      "OuterBorderColor" :"#1D1C1C",
-      "InnerBorderColor" : "#FFFFFF"
+      "OuterBorderColor": "#1D1C1C",
+      "InnerBorderColor": "#FFFFFF"
     },
-    "SceneConfig": 
-    {
-      "roomDistance" :-140,
-      "SkyboxSetup" :-1,
-      "ProgressBarText" : "Collecting your moments....",
-      "LoadingVideo" :0,
-      "CameraMinFOV" : 10,
+    "SceneConfig": {
+      "roomDistance": -140,
+      "SkyboxSetup": -1,
+      "ProgressBarText": "Collecting your moments....",
+      "LoadingVideo": 0,
+      "CameraMinFOV": 10,
       "FrameSize": 1,
-      "TextDistanceFromFrame":0.3
+      "TextDistanceFromFrame": 0.3
     }
   }
 }
