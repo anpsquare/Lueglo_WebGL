@@ -7,6 +7,7 @@
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
 </head>
+
 <body>
     <div id="unity-container" class="unity-desktop">
         <canvas id="unity-canvas" width="960" height="600"></canvas>
@@ -24,13 +25,15 @@
         </div>
     </div>
 
-    <!-- Button to send JSON to Unity -->
     <button onclick="sendJsonToUnity()" style="margin-top: 20px; padding: 10px; font-size: 16px;">
         Send JSON to Unity
     </button>
 
     <script>
-        var unityInstance = null;
+        // -----------------------------
+        // MAKE UNITY INSTANCE GLOBAL
+        // -----------------------------
+        window.unityInstance = null;
 
         var container = document.querySelector("#unity-container");
         var canvas = document.querySelector("#unity-canvas");
@@ -46,10 +49,10 @@
             var div = document.createElement('div');
             div.innerHTML = msg;
             warningBanner.appendChild(div);
-            if (type == 'error') div.style = 'background: red; padding: 10px;';
+            if (type === 'error') div.style = 'background: red; padding: 10px;';
             else {
-                if (type == 'warning') div.style = 'background: yellow; padding: 10px;';
-                setTimeout(function () {
+                if (type === 'warning') div.style = 'background: yellow; padding: 10px;';
+                setTimeout(() => {
                     warningBanner.removeChild(div);
                     updateBannerVisibility();
                 }, 5000);
@@ -70,15 +73,15 @@
             showBanner: unityShowBanner,
         };
 
+        // Mobile adjustment
         if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
             var meta = document.createElement('meta');
             meta.name = 'viewport';
             meta.content = 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes';
-            document.getElementsByTagName('head')[0].appendChild(meta);
+            document.head.appendChild(meta);
             container.className = "unity-mobile";
             canvas.style.width = window.innerWidth + 'px';
             canvas.style.height = window.innerHeight + 'px';
-            unityShowBanner('WebGL builds are not supported on mobile devices.');
         } else {
             canvas.style.width = "960px";
             canvas.style.height = "600px";
@@ -86,39 +89,56 @@
 
         loadingBar.style.display = "block";
 
+        // -----------------------------
+        // LOAD AUDIO PLUGIN BEFORE UNITY
+        // -----------------------------
+        var audioScript = document.createElement("script");
+        audioScript.src = "TemplateData/WebGLAudio.js";  
+        document.body.appendChild(audioScript);
+
+        // -----------------------------
+        // LOAD UNITY LOADER
+        // -----------------------------
         var script = document.createElement("script");
         script.src = loaderUrl;
+
         script.onload = () => {
             createUnityInstance(canvas, config, (progress) => {
                 progressBarFull.style.width = 100 * progress + "%";
             }).then((instance) => {
-                unityInstance = instance;
+
+                // REQUIRED FOR YOUR AUDIO PLUGIN
+                window.unityInstance = instance;
+
                 loadingBar.style.display = "none";
                 fullscreenButton.onclick = () => {
-                    unityInstance.SetFullscreen(1);
+                    instance.SetFullscreen(1);
                 };
                 console.log("Unity WebGL Loaded");
             }).catch((message) => {
                 alert(message);
             });
         };
+
         document.body.appendChild(script);
 
-        // Function to fetch JSON and send it to Unity
+        // -----------------------------
+        // SEND JSON TO UNITY
+        // -----------------------------
         function sendJsonToUnity() {
-            fetch("data.json") // Load JSON from the same directory as index.html
-                .then(response => response.json()) // Convert response to JSON
-                .then(jsonData => {
-                    let jsonString = JSON.stringify(jsonData); // Convert JSON to string
+            fetch("data.json")
+                .then(res => res.json())
+                .then(data => {
+                    let jsonString = JSON.stringify(data);
                     console.log("Sending JSON:", jsonString);
 
-                    if (unityInstance) {
-                        unityInstance.SendMessage("ArtGallery", "_LoadStory", jsonString);
+                    if (window.unityInstance) {
+                        window.unityInstance.SendMessage("ArtGallery", "_LoadStory", jsonString);
                     } else {
                         console.error("Unity instance not ready yet!");
                     }
                 })
-                .catch(error => console.error("Error loading JSON:", error));
+                .catch(err => console.error("Error loading JSON:", err));
         }
     </script>
 </body>

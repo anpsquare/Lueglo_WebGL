@@ -1,855 +1,519 @@
 {
-  "storyId": "9607c8b2-b4d7-45c1-8383-c97abe1d3903",
-  "storyTitle": "Memory Lane of My Beloved Grandparents🙏",
-  "storyAuther": "Jason Reed",
-  "storyCoverImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/large/V2_7b304130-cdd3-4af6-8de6-439aab6a38fd.png?Expires=1754030427&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=CsZ9uqTZea8X4T3BSqq61AuqYrbJIAXbFZ62nUlWdq2P5Wpbn9SLJMoYFxbuQLFzttIEVXuR4An8Fc4Od8x-r4Uy~JAp9FgdIcG3oV8NUiGl5q4ZeKm9RKZIN4KkKyLFET3-bd-6v3jyKyvNukx4cTZYd4wfXs6SRX8uzDYLmGVS0YLLJ3sdFdyUF1mCTmsX5pYPF0ABQNj3Auu7A39e8rOnItqly4C7H9OQEyOTGmXm3im3Pc7q9~Bslc2EolslXiXcBIWUz5eNtEBWSJ2ECckXER8eTgXMi8iHBlgYqzO8SFHCCyJREyoIGtdNvbrcmy-nnf5Ysedgheyhc7Kw7Q__",
-  "momentsOfStory": {
-    "items": [
-      {
-        "title": "Testing audio",
-        "description": "",
-        "date": "2025-07-18T06:53:55.390Z",
-        "location": "",
-        "media": {
-          "items": [
+  "storyId": "e08c3c14-0377-4f89-98e5-aa42d5ca97b2",
+    "storyTitle": "Where My Happiness Hides",
+    "momentsOfStory": {
+        "items": [
             {
-              "signedMedia": {
-                "largeImage": null,
-                "mediumImage": null,
-                "thumbnailImage": null,
-                "audioFile": "https://d1543yqhrt5eqo.cloudfront.net/public/sound/881e881b-2052-4460-a34e-39ad19cf8a05.mp3?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=eJsZIO8gGtDrgU2~xW~Bn~awp7URFKO9QFtnDmEg-yjtb-HrbPEJV7ddlooS0j0R0B1xQ2yAQBQ3DIxM-pupFYki-~7GsC63Ebax~tRf3TUUyMUniCHMQUsNpN1gJFMx-IGFE5HswyvD0O7P4WGEx5dcdZeKgIC397Ik26QDQvuJi8URCPcPby3cQJ9zQobhRhmlDLkcuG0GDDWScrBL8aISY64UM-PiaSXOugpiy5KmknGhYRbfEq-aBs7N97zCTcLmdZB~JCn44KV~1AvZ5Uy9FoCIVnjPsKa7R~0Jhtr8gYIj1zoXFxFeAlySaDbtIO60IKdixhw3Zjc65iCFeA__",
-                "videoFile": null
-              },
-              "metaData": {
-                "amplitude": "[0,0,0,0,0,0,0,0.013,0.026,0.078,0.078,0.117,0.416,0.675,0.766,0.844,0.779,0.831,1,0.974,0.805,0.662,0.61,0.416,0.221,0.143,0.078,0.052,0.039,0.026,0.013,0.013,0.013,0,0.013,0.013,0,0.013,0,0,0.013,0.013,0.013,0,0,0,0.013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.013,0.026,0.039,0.039,0.078,0.234,0.675,0.299,0.078,0.091,0.052,0.026,0.026,0.026,0.026,0.039,0.013,0.039,0.026,0.013,0.013,0.013,0.013,0.013,0.013,0.039,0.039,0.039,0.026,0.026,0.026,0.039,0.039,0.065,0.104,0.091,0.091,0.117,0.13,0.052,0.052,0.065,0.039,0.039,0.052,0.039,0.039,0.039,0.052,0.065,0.065,0.065,0.052,0.065,0.078,0.065,0.078,0.065,0.117,0.143,0.169,0.156,0.39,0.195,0.312,0.26,0.169,0.182,0.273,0.312,0.403,0.455,0.273,0.312,0.468,0.519,0.312,0.338,0.481,0.234,0.195,0.156,0.169,0.117,0.065,0.078,0.052,0.026,0.026,0.026,0.013,0.013,0.013,0.013,0.013,0.013,0.052,0.052,0.052,0.078,0.312,0.091,0.104,0.143,0.143,0.247,0.429,0.416,0.312,0.312,0.221,0.221,0.234,0.247,0.195,0.195,0.195,0.221,0.377,0.169,0.208,0.182,0.221,0.195,0.208,0.182,0.364,0.156,0.221,0.169,0.195,0.195,0.208,0.195,0.104,0.299,0.143,0.182,0.195,0.208,0.208,0.182,0.156,0.156,0.506,0.156,0.13,0.091,0.078,0.065,0.052,0.039,0.026,0.013,0.013,0.026,0.026,0.026,0.026,0.026,0.026,0.026,0.026,0.013,0.143,0.468,0.078,0.091,0.091,0.221,0.208,0.195,0.39,0.351,0.247,0.286,0.273,0.208,0.195,0.117,0.312,0.143,0.143,0.143,0.13,0.143,0.286,0.299,0.195,0.286,0.221,0.182,0.221,0.299,0.325,0.364,0.182,0.221,0.299,0.26,0.234,0.182,0.403,0.156,0.117,0.117,0.104,0.039,0.026,0.026,0.013,0.013,0.013,0.013,0.013,0]"
-              },
-              "mediatype": "sound"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Jason Reed",
-        "description": "The beauty of life lies in the fleeting moments we experience.\n",
-        "date": "2025-07-11T07:11:17.974Z",
-        "location": "",
-        "media": {
-          "items": [
-            {
-              "signedMedia": {
-                "largeImage": null,
-                "mediumImage": null,
-                "thumbnailImage": null,
-                "audioFile": "https://d1543yqhrt5eqo.cloudfront.net/public/sound/b9ebf89f-1429-4e9b-8a4c-741f05be600e.mp3?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=Y483E2q1Qa9gXBz0ndE9mxwV~BoRWAzQOMFFtmxo~jDmD~VpzqDS8K~tO-dQ-7Hkdke433z9gbeAYHfBd8dwT-RXoicUyNGSbP4fv~~JH9G5oxrIxOt46eTiPXgLjGP22ZeblqgAENQ-TuTnC9tamGK3uudj2q8~MVci7eNO~3wWnKPPE~xLSeonvOKPbQg1QLY9bbf74DghRDlkG4O3dkgJSX6eeTtI3Iq6elDu8t7BX311NfSZcl-AcIacPSM-jvhNey~C1-C2tv4s~j8pToIsPUgdgdUyDJbzRaef7~vNjb2YsgYgX6QKodgs-MXNZnLifD~WUOD6dF8PivQNKQ__",
-                "videoFile": null
-              },
-              "metaData": {},
-              "mediatype": "sound"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Sunsets are proof that endings can be beautiful too",
-        "description": "The beauty of life lies in the fleeting moments we experience.\n",
-        "date": "2025-07-11T07:08:24.633Z",
-        "location": "",
-        "media": {
-          "items": [
-            {
-              "signedMedia": {
-                "largeImage": null,
-                "mediumImage": null,
-                "thumbnailImage": null,
-                "audioFile": "https://d1543yqhrt5eqo.cloudfront.net/public/sound/e864b8b7-a455-405c-8bcb-67a8f264c857.mp3?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=cAcvaadMaEQb94i9Ix2Bi2rHTvVb9j8ME0~08TjQ6twu2LMznfQzu7AFKFyD1ByVNEKa~kZ-WKvMmzNa3VZ0S8rvNQGtvfaJ4s7MoF7vhdCd4Y-GyYN3zfoIksmWszZ1fr1ipyXK~2t0q0~mifbr7XQgWF-4YbYgJa8yp8PMdHo-5Dgp31EiJap4VU0S6LnR3Aunpk5Dc3fBZ27uTN0qpgo3XGbfcqMeLg7nhl083HCIAr43FuFunTm9CbFDokMqoF4opHR2s-C8rcypj-DWsDxYBXB8WmbgkhNvjJymHdqvGjdhI8knxCrfQXDX8lw8gfXEwnK256x6sHIB76h4Lw__",
-                "videoFile": null
-              },
-              "metaData": {},
-              "mediatype": "sound"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Jason Reed",
-        "description": "Alone but together\n",
-        "date": "2025-07-11T07:08:04.144Z",
-        "location": "",
-        "media": {
-          "items": [
-            {
-              "signedMedia": {
-                "largeImage": null,
-                "mediumImage": null,
-                "thumbnailImage": null,
-                "audioFile": "https://d1543yqhrt5eqo.cloudfront.net/public/sound/126073c0-e59e-456b-9e46-5cf66791e6d4.mp3?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=nadmd1b1JIHkiJrtgyxqBfZCzjeznorro2wwy6u~yYdYYW4kUnPTrVXs5asF6T1FMsX5HTJ0MKyVM8AdzfUdb2Pa9Sd4eHr2s5Zj1xV1oqqx7B64s3NofIZa49Kr6dpn1D6BB90obabJKY-kMiobsBu6ygfUfxNxZLZUkfHV1uLaxKa1SvPO~YiKsBEeuOhgWOszx3HuaeGVhjrTTYclGa9DvUS8q~SBAt9S2oH8dGnSeUEtvj4wRsyIWnviwVBDKdvwHvxluCR4lF8UxKKlU2B2LPN5LxPfD6dI~Xi5hCu0u0ryIKrKhxfBElz9SAvVsTK-nr3ZPcY3pg-9ZWjETQ__",
-                "videoFile": null
-              },
-              "metaData": {},
-              "mediatype": "sound"
+                "title": "A Quiet Moment Doing Nothing",
+                "description": "",
+                "date": "2025-10-23T12:18:45.006Z",
+                "location": "",
+                "media": {
+                    "items": [
+                        {
+                            "signedMedia": {
+                                "audioFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/7f4578cc-5667-4df8-bb31-873d764f9f67.jpg?Expires=1763963506&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=mENoPCjjGTtABSnPEz5KUkkaaM8GXcd~noEfplGntQ84OVobXnYqi72qjdj6uHGCKccVAqsrXddOjrvaqI8glHXihG6QHn2vH2GUuq3xYXflQ7fD2PBkEopfmM4lYBvQuskLTPWEn8~IY-TfRWARtH9p1lmFQ5wJS5AuM9nlNJwMwRxbkFgD-se6z8ANeo6llMDjZZQsp6EVWp1dQ9AFF5IRxfmoEv56Oxr5iMrfZjf32LLLh9y4wn7aKasT1cFE~IJ91FhZfKiBZ38WXfOwArYiUGhLnmoj4ecI38gvQtBG0CTALYSp5kkygXYxSl1msRWyXxiDcK-euYtuu2C0kQ__",
+                                "videoFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/7f4578cc-5667-4df8-bb31-873d764f9f67.jpg?Expires=1763963506&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=mENoPCjjGTtABSnPEz5KUkkaaM8GXcd~noEfplGntQ84OVobXnYqi72qjdj6uHGCKccVAqsrXddOjrvaqI8glHXihG6QHn2vH2GUuq3xYXflQ7fD2PBkEopfmM4lYBvQuskLTPWEn8~IY-TfRWARtH9p1lmFQ5wJS5AuM9nlNJwMwRxbkFgD-se6z8ANeo6llMDjZZQsp6EVWp1dQ9AFF5IRxfmoEv56Oxr5iMrfZjf32LLLh9y4wn7aKasT1cFE~IJ91FhZfKiBZ38WXfOwArYiUGhLnmoj4ecI38gvQtBG0CTALYSp5kkygXYxSl1msRWyXxiDcK-euYtuu2C0kQ__",
+                                "largeImage": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/7f4578cc-5667-4df8-bb31-873d764f9f67.jpg?Expires=1763963506&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=mENoPCjjGTtABSnPEz5KUkkaaM8GXcd~noEfplGntQ84OVobXnYqi72qjdj6uHGCKccVAqsrXddOjrvaqI8glHXihG6QHn2vH2GUuq3xYXflQ7fD2PBkEopfmM4lYBvQuskLTPWEn8~IY-TfRWARtH9p1lmFQ5wJS5AuM9nlNJwMwRxbkFgD-se6z8ANeo6llMDjZZQsp6EVWp1dQ9AFF5IRxfmoEv56Oxr5iMrfZjf32LLLh9y4wn7aKasT1cFE~IJ91FhZfKiBZ38WXfOwArYiUGhLnmoj4ecI38gvQtBG0CTALYSp5kkygXYxSl1msRWyXxiDcK-euYtuu2C0kQ__"
+                            },
+                            "metaData": {
+                                "width": 4123,
+                                "height": 2754
+                            },
+                            "mediatype": "image"
+                        }
+                    ]
+                }
             },
             {
-              "signedMedia": {
-                "largeImage": null,
-                "mediumImage": null,
-                "thumbnailImage": null,
-                "audioFile": "https://d1543yqhrt5eqo.cloudfront.net/public/sound/79706899-5a79-4b77-bb32-685b03ed79e5.mp3?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=C1R-2tCF7mWP9Bw1UpNsQAMqoMhKW~Z4wx1Z5NLEId1~L6WO3lsfU4N5nZwaLhw616bU6OX6xT1P3woPamOHMG6IFJnsKb0j7byoMDC1-ocFrV8nvFq8cB8gVzdX4mVMEUUGRgOROktXgpHuReNR5b4EEdtPIGCiU1GMxfnw4VJ70lQFsT3WArwNNLXWKkx5-Y-u9PpfJNJzKSqrtBHGCdozSn9D2G89DJxXKSWjwUvZc04SzwXrNjWuA2OrU1kPA~95yUbTWY~qQdZktmdtUwZj86Bay-s3TjLhAfRuO8tvLfLWgZFMR4I~qCrsxUW~KfiPKZRNvIHpygHKlzLqdw__",
-                "videoFile": null
-              },
-              "metaData": {},
-              "mediatype": "sound"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Sunsets are proof that endings can be beautiful too",
-        "description": "",
-        "date": "2025-07-11T07:06:33.153Z",
-        "location": "",
-        "media": {
-          "items": [
-            {
-              "signedMedia": {
-                "largeImage": null,
-                "mediumImage": null,
-                "thumbnailImage": null,
-                "audioFile": "https://d1543yqhrt5eqo.cloudfront.net/public/sound/5fbbd3bb-24cd-48b9-aed3-4bb730e8d0b8.mp3?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=DJJCuCN0Hs~-HX9VLC7cnOAxVKJYrGYw-NrLwPfbmMlrbOXmT0PXzgTAeKbpPuDsva5wBIe6PoihTxOHxjw89aA1M1PWd3x0AwP0NX4wEralnrmIrG~Pq5BuHwck25-uYuyj5D1pe8bSZJe0g22v~40IdOB1QsSjwdWohIb9DOV-8LzLk2WHdkd5EpVt9urClrS6S5NA4t07JPEgzrQwIJPMRCCunXtpiFkwd38hoYFVPSJfsjpN2Xoq4weWtb6fmTO3Gc8sD63LughOaXrPdQLoKThdcNX46B2fzcwm49WCd25~sssM3As5hIJ0TeSECXiXIoTIYlkK1h9erwhpDg__",
-                "videoFile": null
-              },
-              "metaData": {},
-              "mediatype": "sound"
-            }
-          ]
-        }
-      },
-      {
-        "title": "The Hat You Wear on Sundays",
-        "description": "",
-        "date": "2025-05-01T10:38:22.204Z",
-        "location": "",
-        "media": {
-          "items": [
-            {
-              "signedMedia": {
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_c9b8f3a8-899b-4688-85c2-e9a1ed27ffa0.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=qC6hbsJa0F6LCZkuLqYFTNhcOQ4GYGHcrZkVpOvta4s8~aqRfhJIE5qTM6~Hcfvcw0skTOvqZWeRaVg19d69CgBpgex~cv9~RNkKj~gweE80pYeTj2QjHCa5lOkN1SOvbVPR5FkWZhvkSQCUzBPCJ3ql5aDSVl9D0ZFbEErxor3N2sIkQEXBllOXKFxuv5B~mDLUZ54Ptn6nQT7Wz72ai26PHG5aHvcs7NBRKq69kIPIuIdMW--qWkmvKu8Q0ZGmC7nNkOrztgZb4-eDkF7AYOY3Lhf09gblwRaSYjF0hSH2upmrUhZd5PgGbtreTzyz7ztCxTfSO2X8wW0~RNDa2w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_c9b8f3a8-899b-4688-85c2-e9a1ed27ffa0.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=qC6hbsJa0F6LCZkuLqYFTNhcOQ4GYGHcrZkVpOvta4s8~aqRfhJIE5qTM6~Hcfvcw0skTOvqZWeRaVg19d69CgBpgex~cv9~RNkKj~gweE80pYeTj2QjHCa5lOkN1SOvbVPR5FkWZhvkSQCUzBPCJ3ql5aDSVl9D0ZFbEErxor3N2sIkQEXBllOXKFxuv5B~mDLUZ54Ptn6nQT7Wz72ai26PHG5aHvcs7NBRKq69kIPIuIdMW--qWkmvKu8Q0ZGmC7nNkOrztgZb4-eDkF7AYOY3Lhf09gblwRaSYjF0hSH2upmrUhZd5PgGbtreTzyz7ztCxTfSO2X8wW0~RNDa2w__",
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/V2_c9b8f3a8-899b-4688-85c2-e9a1ed27ffa0.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=l6ZCBnpxu3HyBek44k428VrxwA2JFR0mnrG0boIdbZ1XJuR-1UutiHNzw6SO0Q8Af5xgOEoMz9owNqLlXjwFGq7lzP-aYInO7m-QW5dqemX2oFDf~VeUW8Dq6jk60i2mNdQxykpT8oHO2J9lnQ9wJG-43Nr50AbAbzeLafTpq0yvYtK89d5ybJ1YyRZcOCC4snkX-r5BA3~WATXUT0buiEwsIt6s4OWwIBxRKzT73LMg5PNXfIFdkjG2vSPa8Qhcz9vWMPZUUlz52IAfy79IzMgxEb7D2Zr5s7E3yZ6FjimzI5dAxl-ssdL6s~lm0EmLHJYpoBx1wbJqJ09PwevXrQ__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "width": 8148,
-                "height": 5432
-              },
-              "mediatype": "image"
-            }
-          ]
-        }
-      },
-      {
-        "title": "The Cookie Tin That Wasn’t",
-        "description": "",
-        "date": "2025-05-01T10:32:46.409Z",
-        "location": "",
-        "media": {
-          "items": [
-            {
-              "signedMedia": {
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_24371172-8e80-4fa8-9b1c-e576c0c1539a.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=vIlZFlzZUFCPYB~LVx9FjGv81RAFjh-a0HVQ~bhFys0JsWmmgsJ7kUazf-KTRnyT77IJS1Plp9JQjVwoKpN2EVa9hnKu1xfH6FBl8Do0J8Q0rhXS96pf3lKEcJ2-PG1iFl1zp9jQhVxWIMePlqeZrkbP5CF0HQE0VIwYSPWIGmsqsWCkHQ6hIPRs0chzUwAdAjnu9RSeWdLwJJ5T1UdJMxB9OKQAzm3uMGdwwnjaSwbdUamtYg4o0OZZY-xf~P7cczx25iTkjysDjasGlrTTcMcgEoPq7tIbY4op4gS4U3IkCsKZ4UnUYhOmQQtld2~gx4JpYx39z7luQ4rAR-1gDw__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_24371172-8e80-4fa8-9b1c-e576c0c1539a.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=vIlZFlzZUFCPYB~LVx9FjGv81RAFjh-a0HVQ~bhFys0JsWmmgsJ7kUazf-KTRnyT77IJS1Plp9JQjVwoKpN2EVa9hnKu1xfH6FBl8Do0J8Q0rhXS96pf3lKEcJ2-PG1iFl1zp9jQhVxWIMePlqeZrkbP5CF0HQE0VIwYSPWIGmsqsWCkHQ6hIPRs0chzUwAdAjnu9RSeWdLwJJ5T1UdJMxB9OKQAzm3uMGdwwnjaSwbdUamtYg4o0OZZY-xf~P7cczx25iTkjysDjasGlrTTcMcgEoPq7tIbY4op4gS4U3IkCsKZ4UnUYhOmQQtld2~gx4JpYx39z7luQ4rAR-1gDw__",
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/V2_24371172-8e80-4fa8-9b1c-e576c0c1539a.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=LUqC37C1ApOMEyRV8m-D-oybmTcTTNlIZ32hBzKALXfDr65UI937PeVohGw7MUXce7VyNV0wbQ9DyVdrhe6VqBOrLt7LdVPo-iysAQbMI141IPP2DEnfeVPJlFEZeggYPvdzNv8WldvDWGSue3zB8QIRhQt3NrDMQocouI~gDBzqDyqnhbqfScWugbvIe5vB9X1~eAR5-dbamYDtR8EUzSX5ToRyYh4sABTt9UocZv3BlO0el2UiCN4Yf2w823BjsEG5AU84~cXvLPskFw~ySrXuK8xVr3~6mT2~m1WegcVQGplAINivq~vtBJg54UCfapGda0pmikC11lwOKwAzWg__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "width": 7843,
-                "height": 5231
-              },
-              "mediatype": "image"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Lantern Nights",
-        "description": "",
-        "date": "2025-05-01T10:23:51.605Z",
-        "location": "",
-        "media": {
-          "items": [
-            {
-              "signedMedia": {
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_fe033d5e-6aea-42fc-bc3b-53455c636671.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=zU23piBVP9UDTzGov3hb0k3HWofx-EPSP5fL~o9~Iyu6I4k4icAizn7E2cgz118fpALRjJfFXIxB2q6ywDdgYfhy89~kIp515bDO5NkNG557mdTGEosU3eyeECJJN~fb8ozviw9dHq3VliSASSMg-1JN6gmK2fhdGKPuw8h~XnfUp9BuwglVc6zMU5L~wplWgdemt7f3I~ip5irQxiLi21KxnDhhNHNxnzzLNik4w00UzrNR3fsFpRINStaLY5KrEOEOnd0zrHFtEa6SkwH1hJLOG0a8BHvfZEFjogEneHraTHmliKw08e0xXw9mtfYJjV6an3Mt3G2yh6uU-QJVrw__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_fe033d5e-6aea-42fc-bc3b-53455c636671.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=zU23piBVP9UDTzGov3hb0k3HWofx-EPSP5fL~o9~Iyu6I4k4icAizn7E2cgz118fpALRjJfFXIxB2q6ywDdgYfhy89~kIp515bDO5NkNG557mdTGEosU3eyeECJJN~fb8ozviw9dHq3VliSASSMg-1JN6gmK2fhdGKPuw8h~XnfUp9BuwglVc6zMU5L~wplWgdemt7f3I~ip5irQxiLi21KxnDhhNHNxnzzLNik4w00UzrNR3fsFpRINStaLY5KrEOEOnd0zrHFtEa6SkwH1hJLOG0a8BHvfZEFjogEneHraTHmliKw08e0xXw9mtfYJjV6an3Mt3G2yh6uU-QJVrw__",
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/V2_fe033d5e-6aea-42fc-bc3b-53455c636671.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=V7-LbdNm0g2f8IzaOcrQ7xVhiPqcuhlCPHcUdKR2FFkkEyhnNdzwsx4WQl~eWr9Ghp9kW1qDe98Rvowlpmjs6ZAsCx5R4E6FDU8R6C7w9PtlzN-TNZePpilSWOovcuwTdccTHEEO1a-5L4xn9xzuQ9QwdeKyz33oXJmv~hbPZ89Z6ecJTmKC2LqZ3xkRMQfUFPlK1YTOYdK0U5qr65miiHgdUrauRlxgbitwgJVL25lfexUTontSrupX9CEM03QydNrY5-BN2nRM0yO~dpC6Bjw5bTCGCF5oORgWFGibLoLI2l-YR1~YljJAZgPWMasTH~-UqTnf8qbBZ1RvkjYC2g__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "width": 7986,
-                "height": 5327
-              },
-              "mediatype": "image"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Growing Together Through Seasons",
-        "description": "",
-        "date": "2025-05-01T10:21:35.178Z",
-        "location": "",
-        "media": {
-          "items": [
-            {
-              "signedMedia": {
-                "largeImage": null,
-                "mediumImage": null,
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/public/video-thumbs/fc818cf0-3e6c-4995-bc43-c66bc19ba4b8_1.jpeg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=lJygHZEJN-ZSP062d1EV~FupCAYNfgMB7DZb9SWsnsDCClGnQZzRC26AVbubX~WCpGFyNiX4AhsmqPcvY35VOenNqS4t~VVTrHxpdaNHmvNIWohee~UXAqblpDulbzP-IYwU2Vne2JTPYrBFSGWq~IsCgMM7-9K9ef~g~7ahN4r8mLO1VeAQKReXNr0wLO7uoHOjTH4H7u35tpIsENAqMtZIKHujw8xYaOYi~uXYjD2bsArfgB4HOfMo7D8XK4A4WEBO3xb5Pmzd2ORTJZkLqWfI1Y~ZOjRs4WLhiFbjx1j5rEACfcm2oGHOaaDfeQIbanc5Y74WdNZ8Wd5AjCKsvQ__",
-                "audioFile": null,
-                "videoFile": "https://d1543yqhrt5eqo.cloudfront.net/public/video/fc818cf0-3e6c-4995-bc43-c66bc19ba4b8.mp4?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=yG6W~~4FjKRnlyPkQlnxbspZ7xmUfR-onhN8MhJ~eQfd8cRWUjNHxjenYZ-tBBqj7gcehI5IQ9V8KfYnmV1sflUNtzwzScTeuw~7uitbbxacw8DW4Jni6f1l~Wu5Qnoi9fAaBAw7FDfxnyGrXvWrtkOq-KmXwADQ0w9DTHLSBN2dmO3kA0fv8kGLsc0BB-~4xHD4J9vS4qZfXHuyP7zuq1IdBsZHdGJaLBPXk7osIclup7hIQDutkwx53H5ww9NaxM0LYwCb7oRNFo8KzQOITXh2mVqJoWXFLGQ8TkPQBzU-zvtKH3zZjvdbj02kvbhLQkuiGN1XMOnI26D~w6pe9w__"
-              },
-              "metaData": {
-                "width": 1280,
-                "height": 720,
-                "duration": 15.081733,
-                "orientation": "landscape"
-              },
-              "mediatype": "video"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Comfort on Hard Days",
-        "description": "",
-        "date": "2025-05-01T08:38:05.173Z",
-        "location": "",
-        "media": {
-          "items": [
-            {
-              "signedMedia": {
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_0d8a8734-e0c6-4666-9f8c-8d9cd8a22a10.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=dmXHgR7rlmvTkh~8G-qgcNGasxYu0ZFdITFfMUmB-4lebDdCunTA0H0TzWPlqMYfSP1138pDE~rJF1C1lE8V7rc83C6c-6eEdGcsQwo1PHo9VJImMMGcsEeIdQHb26yJWgi~3P8XDVPPwOhmIil9fko3Mswnv7l2zw9982IPeJxKd-X0WkaD9-6N91NglCuALL8tjg~WvnXqZNJPZ3heb6Gh-MPvFCwcqa-Zf9XGs5acnU824Xj9vJ57Z5zRpfZ-Jf5QTr0NnbrKhZ~WNOiWXx6yL5A4jdLsTlk7M8PCjOndIxfXlr-teWnYYUiU3923wvQt1a5kCqfAP1uZgDovXQ__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_0d8a8734-e0c6-4666-9f8c-8d9cd8a22a10.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=dmXHgR7rlmvTkh~8G-qgcNGasxYu0ZFdITFfMUmB-4lebDdCunTA0H0TzWPlqMYfSP1138pDE~rJF1C1lE8V7rc83C6c-6eEdGcsQwo1PHo9VJImMMGcsEeIdQHb26yJWgi~3P8XDVPPwOhmIil9fko3Mswnv7l2zw9982IPeJxKd-X0WkaD9-6N91NglCuALL8tjg~WvnXqZNJPZ3heb6Gh-MPvFCwcqa-Zf9XGs5acnU824Xj9vJ57Z5zRpfZ-Jf5QTr0NnbrKhZ~WNOiWXx6yL5A4jdLsTlk7M8PCjOndIxfXlr-teWnYYUiU3923wvQt1a5kCqfAP1uZgDovXQ__",
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/V2_0d8a8734-e0c6-4666-9f8c-8d9cd8a22a10.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=Yygb6AUmG2MXHouV7LECUJ7pVYT3dDpHgDulu44pW~ZNvcWX6LuHliw0KphHb02NXlAbM7dHjiMAZdfisROrGpYzjTV5ncYeRNO4LbalNxC~sjOketitRdHh4A5SDHxqFWqToZeXrlFQhWazZcQxQM8UBrWpS012ljs1bTKKDaXNX9cCWLGiR5wn13pu-AzQI2uhv51W4sqGB29h7g38sZrvdK55WsilDpXDJYtTFIYtS4cDbAcLMwklqdRPONoB2Uxs4h--164yWy5M6mKwBgib7oF-2HFtdVIrFsXDNU0oMVSCv1oc2gsGEZqfUM1elZzif-6gQqKTx8gfUKTa0w__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "width": 4480,
-                "height": 6720
-              },
-              "mediatype": "image"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Watching Sunrises Together",
-        "description": "",
-        "date": "2025-05-01T08:36:31.482Z",
-        "location": "",
-        "media": {
-          "items": [
-            {
-              "signedMedia": {
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_c2d2e7ca-9d7f-4d0d-ab79-80ea4505114c.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=kWEaXDy83v9j-YnSS2o~7dq9OufDlfOgMnQyIJz~LBNaJtZxW9cTrS25hC5GjtghzB3L5v7C~-ifsFga6iNabh-Kfan8XlOWYXCrP9u-s-KMHXQFUFSmYI5Qo33TbyFsUOMMVf6sSh3IX9KnfUpjBZD0nGx0kv5VxwCR3SNjFAZzODic7b-mO-rf0m1ezoxE9e7hx3PYk6mg7m2xq34Y4HH0HjJHeqUixt~7T-6EzuPgBCGci5F~Jws0zuWTanQm8jYA4vpZ1E~mcCIL-8rzPtQMbUm-F0NYe1szXI9466zGe5ZoGSbwKleWjyvVSF0KBVLP-pPakU17ltwVp~fmeA__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_c2d2e7ca-9d7f-4d0d-ab79-80ea4505114c.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=kWEaXDy83v9j-YnSS2o~7dq9OufDlfOgMnQyIJz~LBNaJtZxW9cTrS25hC5GjtghzB3L5v7C~-ifsFga6iNabh-Kfan8XlOWYXCrP9u-s-KMHXQFUFSmYI5Qo33TbyFsUOMMVf6sSh3IX9KnfUpjBZD0nGx0kv5VxwCR3SNjFAZzODic7b-mO-rf0m1ezoxE9e7hx3PYk6mg7m2xq34Y4HH0HjJHeqUixt~7T-6EzuPgBCGci5F~Jws0zuWTanQm8jYA4vpZ1E~mcCIL-8rzPtQMbUm-F0NYe1szXI9466zGe5ZoGSbwKleWjyvVSF0KBVLP-pPakU17ltwVp~fmeA__",
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/V2_c2d2e7ca-9d7f-4d0d-ab79-80ea4505114c.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=mIhhYhDp-KWIkswIdAtTbC8Ss~EAFhzE4N7-fzGBqv6ZoM9gatPykCE8HI85aYiOYzqfdKQbY59M7V93XSO2Y08oomQWpjiaFVSMr8NpKS~6lrKLoKGlPS8GB7sb0~dqosoK~e104bnhipFCFb-MHRX3XMlvttswC2YMlXHv48IttNrU3EEU1cnXZq8QwEMg99~DMrUBHKuizafz0JNoMuqyUDF-h42SDX-fFB2VsTMZ9SHqmRLBeaaaG~jfezVEW7H~CtOWamo-6FdYTwJPzQVj7gPUKeYtN3-bWeSV-RA7Av8YmYoOllThALFjbuYfp-6iPZ7LUCfltra29EIU-A__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "width": 6000,
-                "height": 4000
-              },
-              "mediatype": "image"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Mending Broken Things",
-        "description": "إصلاح الملابس الممزقة، أو الألعاب المكسورة، أو القلوب المجروحة - الحب خاط كل شيء مرة أخرى بشكل أقوى من ذي قبل.\n",
-        "date": "2025-05-01T08:35:23.331Z",
-        "location": "",
-        "media": {
-          "items": [
-            {
-              "signedMedia": {
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_a8eb3e32-f491-49b4-bc06-3d064b538dd4.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=OBY88ULSDIybHAKuNSOVoNBY0t38qFbcYxcmvb7OxgOhjZTsXfNrVoYbw7Nucm6~F~O7LixB4XwDELO9cYltuQLjNOA2enYi7cgeZeQ~UYiZRFG3pZgFC6mdGPLHhWn-CnNFECMU2ZXtG1yfqfRKvE5NpPHoPgQX~4IulF9340G-swigDOhL7kGfPG47nzdU1lyxnfYZ4WwTaRehnUbQgxn3JuSiUnmKWS5KH6fTIF-jHjkAfSlt27Jl6V~~2eQ~pVraX4KWMv39UXfmZVgX9FYE1KQZntsidvAJGouLKbrft32LCwPUBRrIw9uCOAkRPq4nh9I~xdUsX78GAnQ9ZQ__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_a8eb3e32-f491-49b4-bc06-3d064b538dd4.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=OBY88ULSDIybHAKuNSOVoNBY0t38qFbcYxcmvb7OxgOhjZTsXfNrVoYbw7Nucm6~F~O7LixB4XwDELO9cYltuQLjNOA2enYi7cgeZeQ~UYiZRFG3pZgFC6mdGPLHhWn-CnNFECMU2ZXtG1yfqfRKvE5NpPHoPgQX~4IulF9340G-swigDOhL7kGfPG47nzdU1lyxnfYZ4WwTaRehnUbQgxn3JuSiUnmKWS5KH6fTIF-jHjkAfSlt27Jl6V~~2eQ~pVraX4KWMv39UXfmZVgX9FYE1KQZntsidvAJGouLKbrft32LCwPUBRrIw9uCOAkRPq4nh9I~xdUsX78GAnQ9ZQ__",
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/V2_a8eb3e32-f491-49b4-bc06-3d064b538dd4.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=Ol2LfltPVTXoT3XYR5OZmmPCIr3rfsH-gUfZ4uEiQRz0N-zmJm4rZaozxCMigxiG0reJqRgDhDyWlw26eYbhE725WKqFN3QljBU5N5GnqLbaUxJNpitnlszpl0Foip2LQUPyjCWjDAxzUrGA8dAiE-OpRv-YzXOjhadDRhqbDnXP0bYxvvNCgL02rgFqgGkBjYHD1VRjbFKRBns~fjfrRoRZzR3NkfJBAzOjxQgJxWrX~Zf3KgG8wHsFNccymC-CAxa0uVXw3iESvkwkC7KS1Vtpo3iXfRciUebQdaTddnwflaKR6peg2cBR7kZEBsQzPfsLObgujCPr~PTWdjjGPQ__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "width": 7680,
-                "height": 5120
-              },
-              "mediatype": "image"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Family Traditions",
-        "description": "As I walk down Memory Lane, I find myself enveloped in a warm embrace of nostalgia, a place where the past comes alive in vivid colors and emotions. The air is thick with the scent of my grandmother’s baking, a sweet aroma of cinnamon and vanilla that dances through the corridors of my mind. Each step carries me deeper into a tapestry woven with laughter and love, where the echoes of my parents' gentle teachings resonate like chimes in the breeze. I pause at the old oak tree, its gnarled branches reaching out like the comforting arms of my grandfather, who often shared stories of resilience and adventure beneath its shade. The vibrant blooms of my grandmother's garden, full of life and color, remind me of her nurturing spirit and the joy she found in each petal. Memories of summer afternoons spent playing in the sun, the sound of my grandparents’ laughter ringing like music, fill my heart with warmth. Here, time stands still, and every moment is a cherished gem, illuminating the path of my life. In this sacred space, I am reminded of the values they instilled in me, guiding me as I continue my journey forward, forever grateful for their enduring legacy.\n",
-        "date": "2025-04-28T12:11:57.529Z",
-        "location": "",
-        "media": {
-          "items": [
-            {
-              "signedMedia": {
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_8daa0a82-28ed-487a-8c80-fa51895fd3e9.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=fGtDXh6Qi-iGoeVESfMHrdz6Q6uWCl02nNHRUJb7d8xQFSTvyP39rx-T4VI9mTI0YkTai48oFFQaArfGhMBa~EIcuI-TpOIuS04Z4X-SwKc4S57dc9phN5C-lwPHcCD6iMKxgW9LF4xpVYutVcEJEpgSI5Rw28ryG962Ep-n8kt9bw5uueQ8tIJirrIhlCsjwJBfzXzG4A9vYkR2kTMZFFzLG4qMdVOT4dYy3RUiqDUX7HNxGFfxtrX9r~ZR3qXZJ6h-~pfbhPNVVQesJHjDyTTWyHLnUUaByxGLS7Xx~dqalR3BdLrnzp1a24h3UOtTDX9RxGaV7iK0sQ-yH7dBwQ__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_8daa0a82-28ed-487a-8c80-fa51895fd3e9.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=fGtDXh6Qi-iGoeVESfMHrdz6Q6uWCl02nNHRUJb7d8xQFSTvyP39rx-T4VI9mTI0YkTai48oFFQaArfGhMBa~EIcuI-TpOIuS04Z4X-SwKc4S57dc9phN5C-lwPHcCD6iMKxgW9LF4xpVYutVcEJEpgSI5Rw28ryG962Ep-n8kt9bw5uueQ8tIJirrIhlCsjwJBfzXzG4A9vYkR2kTMZFFzLG4qMdVOT4dYy3RUiqDUX7HNxGFfxtrX9r~ZR3qXZJ6h-~pfbhPNVVQesJHjDyTTWyHLnUUaByxGLS7Xx~dqalR3BdLrnzp1a24h3UOtTDX9RxGaV7iK0sQ-yH7dBwQ__",
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/V2_8daa0a82-28ed-487a-8c80-fa51895fd3e9.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=YJtRBUa8y9rDhdjoHACTz1TSOHqbwHxD1ybFT7dPC8JDi3vHvv3HecL2xtnD7CUL7XLbXk-wvE5bLmTp2NE67Q1ILNSsaKS-u2mlftG~3ZpZeMTUvHTMjwWuI7sCC-ooYBYAiVCQcvcbVq9p4fzJsteXHocpl7EOSoXId~08s7XLV4rZeQF5oVXcvRt~9IqAM2MrBmRQ~YIkJCgdCF5jLshmr-YN-IPaxQWad-0Gj4udLPi9YPu~MBUTV2f0h2magK81dIzUr6wyuAQAUVT8rY2FC7Cc6JYS-x6tt~ziH224NS11rrX-KLkaV7EGq3gfgwYg2lwm22RbLwtnoIfHHA__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "width": 1280,
-                "height": 853,
-                "orientation": "landscape"
-              },
-              "mediatype": "image"
+                "title": "Checking Something Off My To-Do List",
+                "description": "There’s a tiny burst of satisfaction every time I tick off a task, no matter how small. It’s like proof that I’m making progress, that I showed up for my day. Each checkmark whispers, “You’re doing better than you think.”\n",
+                "date": "2025-10-23T12:15:28.720Z",
+                "location": "",
+                "media": {
+                    "items": [
+                        {
+                            "signedMedia": {
+                                "audioFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/7ceb63dc-5944-4644-98cd-2d5fc08a45eb.jpg?Expires=1763963506&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=luSWxh6HjS0pJGlDb7xm0XpqDt1lV78I~pi8qS5Ikwd-skyfevr9X3geWsN6SHNV0LWStJv5fp-4zFOyZaEmAp6Pd-brRRxQh4AWs77vloRqlh72GZrqxhnk~FuD~VuQ9pkoUGjwiRIjH8F3y0xZ3WikCWR4rGmlFszobqbKWjSh38uacS5dIyLm09l~je8UZhkJb73aJOaqIZoSmW-VZNVpKECaUyFtzNSxXUTbab5~bXBQBKES46x2YXU1CkfBjfWNdKilKKRHA3jVHRlXsQ0R7rCVBYuYhSdkk~dLRkhaevmeQ0FIrcAte7yatsb1t1B-ZpV7kDpPSP1LCk9Ztw__",
+                                "videoFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/7ceb63dc-5944-4644-98cd-2d5fc08a45eb.jpg?Expires=1763963506&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=luSWxh6HjS0pJGlDb7xm0XpqDt1lV78I~pi8qS5Ikwd-skyfevr9X3geWsN6SHNV0LWStJv5fp-4zFOyZaEmAp6Pd-brRRxQh4AWs77vloRqlh72GZrqxhnk~FuD~VuQ9pkoUGjwiRIjH8F3y0xZ3WikCWR4rGmlFszobqbKWjSh38uacS5dIyLm09l~je8UZhkJb73aJOaqIZoSmW-VZNVpKECaUyFtzNSxXUTbab5~bXBQBKES46x2YXU1CkfBjfWNdKilKKRHA3jVHRlXsQ0R7rCVBYuYhSdkk~dLRkhaevmeQ0FIrcAte7yatsb1t1B-ZpV7kDpPSP1LCk9Ztw__",
+                                "largeImage": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/7ceb63dc-5944-4644-98cd-2d5fc08a45eb.jpg?Expires=1763963506&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=luSWxh6HjS0pJGlDb7xm0XpqDt1lV78I~pi8qS5Ikwd-skyfevr9X3geWsN6SHNV0LWStJv5fp-4zFOyZaEmAp6Pd-brRRxQh4AWs77vloRqlh72GZrqxhnk~FuD~VuQ9pkoUGjwiRIjH8F3y0xZ3WikCWR4rGmlFszobqbKWjSh38uacS5dIyLm09l~je8UZhkJb73aJOaqIZoSmW-VZNVpKECaUyFtzNSxXUTbab5~bXBQBKES46x2YXU1CkfBjfWNdKilKKRHA3jVHRlXsQ0R7rCVBYuYhSdkk~dLRkhaevmeQ0FIrcAte7yatsb1t1B-ZpV7kDpPSP1LCk9Ztw__"
+                            },
+                            "metaData": {
+                                "width": 3064,
+                                "height": 4592
+                            },
+                            "mediatype": "image"
+                        }
+                    ]
+                }
             },
             {
-              "signedMedia": {
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_406ee8fc-cb9f-4d6b-b2ae-30f086a73360.png?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=Lp-kl1tefWR7ZWFRQHK~4nujlB4Dzj-3KT7oGpUxCOZTGwgPd4EcxGPYidk561HV2hSkVcc3DSj7TzwQsr7YOvZUtr4YGLqCwseVxlK5~t~cALoL09GWgZf3RBDjEGNlPL1UlAw3arjZypG9Yc78jiQF2JmgKdtUTaLeANPvbcJaL1Y9oI6KbbqMf8bLciy8cgQO-8XZxXM38h-60FPasnaHpeiRBEn1r76nMUo3Qe4wjQye3tAzHXu-e~mrQJeUlhh6VmghyNQ2mev7I~qg0cojUy9OwvhxhqCGDvRlj8VBrkeTz~FGXhV01J7hgt5g7RM7jR9INLWWLDTlokqeJg__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_406ee8fc-cb9f-4d6b-b2ae-30f086a73360.png?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=Lp-kl1tefWR7ZWFRQHK~4nujlB4Dzj-3KT7oGpUxCOZTGwgPd4EcxGPYidk561HV2hSkVcc3DSj7TzwQsr7YOvZUtr4YGLqCwseVxlK5~t~cALoL09GWgZf3RBDjEGNlPL1UlAw3arjZypG9Yc78jiQF2JmgKdtUTaLeANPvbcJaL1Y9oI6KbbqMf8bLciy8cgQO-8XZxXM38h-60FPasnaHpeiRBEn1r76nMUo3Qe4wjQye3tAzHXu-e~mrQJeUlhh6VmghyNQ2mev7I~qg0cojUy9OwvhxhqCGDvRlj8VBrkeTz~FGXhV01J7hgt5g7RM7jR9INLWWLDTlokqeJg__",
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/V2_406ee8fc-cb9f-4d6b-b2ae-30f086a73360.png?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=xxsNi100gSK3TCAdN00SRJVyKQpWeJ~LZiiI6zyiXhLydIkqc56BK-Cvm~ctEfNz5dlZoBcLvXkmT8xnsCDl~gmDEXvbTO9exHEKGFm~dI4UFiaU70TvaRaXgNdaxcDLYwWRzimfvi-~YgRirEiQkDjO7PWs7YZkGaR-TRPYeQxbY6CPkpkH6uWyP15qx2gTFdQDHdc5cgEZTaYa2bbf4llzQF6WGhhcpXAzbu4yIPjBrVQBul~7Uq~glAi9fTs7jK3OclUJenpYLpHizdJAqE-Kxh4JNPrakjy~Cj5mNbBw~GFanbSRckvcRWApa3ExX47RTngwLbD9UHRggCXDwA__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "width": 640,
-                "height": 670,
-                "orientation": "square"
-              },
-              "mediatype": "image"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Warm Summer Nights on the Front Porch",
-        "description": "मटर छीलना या बस झूलती कुर्सियों पर बैठना, हर चीज और कुछ नहीं के बारे में बात करना, आकाश को तारों में बदलते देखना।\n मटर छीलना या बस झूलती कुर्सियों पर बैठना, हर चीज और कुछ नहीं के बारे में बात करना, आकाश को तारों में बदलते देखना।मटर छीलना या बस झूलती कुर्सियों पर बैठना, हर चीज और कुछ नहीं के बारे में बात करना, आकाश को तारों में बदलते देखना।\n",
-        "date": "2025-04-28T11:28:34.006Z",
-        "location": "",
-        "media": {
-          "items": [
-            {
-              "signedMedia": {
-                "largeImage": null,
-                "mediumImage": null,
-                "thumbnailImage": null,
-                "audioFile": "https://d1543yqhrt5eqo.cloudfront.net/public/sound/86a95d6a-e961-402e-8333-e47414589cab.mp3?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=vQTfcRRotMFUZHLRL2xW37JLVoQoiRomognxT57dmcFiDdp8wngFB-y5kss05rn0kMG7OLR3bN4roArKPlRDFokLKqwcIiC9n~pvJsnzqii3D3Iwq3sE1-Fpb-zmxDBQNrZmuXwoqgrqGbvytaw-aREheoXThdlKcGc7B0Aw4719TCzJRLeRbfW63AWEuGn8PI6fWtqgaF3P2XG8ti79NRwfIIBmftxWazNWtxwyFTsdhX53znKo~b1YT7rq-dTavhjXKAEnUCbBcGQFanPsmBfL7iNGdz6S5U3F4b7aBb-xcXKaaNblDOGQuVHv5DqugdN51U5L8i0lFpN8Uopn3A__",
-                "videoFile": null
-              },
-              "metaData": {},
-              "mediatype": "sound"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Nature Walks and Feather Hunts",
-        "description": "We roamed the woods collecting colorful feathers and shiny stones, believing each was a gift from nature itself.\n",
-        "date": "2025-04-28T11:26:21.417Z",
-        "location": "",
-        "media": {
-          "items": [
-            {
-              "signedMedia": {
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_e1239b1e-3b38-4a4c-934a-75fe477333e2.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=BxIyoDeKjctlwITWoR-niwWE4zHlXxzeaeIImurPln86htqRJLScArmZPifQhvKR~-cm8-oOS5UCtMAnw4SAxwbGBfzIUqW0Saqg35ethS7Y8ktpEr07d0UYUuuXcTqbOFpp9S7mpY6qb3~eQIjOaakKrWSk3r3DWwExdTJm-gLqmW9L-PYNG7FZ3iFZsegvv5yjnJZOZvQTv2lk-QnlOcJfuQc1IsXHAqIUiPinlzuutnKDQeewVTdh5IeSnjGL3tC7sxwJ6wY~Ax~zyzv5N9EdlD~zPKrthjHVd5xqojiNwKGV8Tr1QFwp8vZnZbHrV42zm29egVx73N1gSQ~NQQ__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_e1239b1e-3b38-4a4c-934a-75fe477333e2.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=BxIyoDeKjctlwITWoR-niwWE4zHlXxzeaeIImurPln86htqRJLScArmZPifQhvKR~-cm8-oOS5UCtMAnw4SAxwbGBfzIUqW0Saqg35ethS7Y8ktpEr07d0UYUuuXcTqbOFpp9S7mpY6qb3~eQIjOaakKrWSk3r3DWwExdTJm-gLqmW9L-PYNG7FZ3iFZsegvv5yjnJZOZvQTv2lk-QnlOcJfuQc1IsXHAqIUiPinlzuutnKDQeewVTdh5IeSnjGL3tC7sxwJ6wY~Ax~zyzv5N9EdlD~zPKrthjHVd5xqojiNwKGV8Tr1QFwp8vZnZbHrV42zm29egVx73N1gSQ~NQQ__",
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/V2_e1239b1e-3b38-4a4c-934a-75fe477333e2.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=CuM~zQTql8jNJGZQSiKGRU9n8B5pvOntoJpN8nTVZdwoUVfG4FW3wW7AE7K9CE52fHakFLY0jKWpk1fb6d71o00MR7ja3AEjyIuR9yNUF6Y6jNs15WPybwmsZooouqJZUDd2p4BF183p4JHNF816eaZbnqw0igrXe~fpF6Q3m-s6Hk~FNGHnkxTsE6ZKe5RbasEkwyRD2bzH0r7HT0CQwJmkx4iF91lNiMK3ODh8MHEoNQW-3Ilfw2-KFe5Z0GYYoHhSFnB0BCHOA9uOV1h~cZxpZoA79858hrZ9mDp7xwRF62~pzt2mhBCYq6Ex2Jgzb7Pg3LCm9JpgGxAfgnf3AQ__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "width": 1280,
-                "height": 1920,
-                "orientation": "portrait"
-              },
-              "mediatype": "image"
-            }
-          ]
-        }
-      },
-      {
-        "title": "The Farewell Whisper",
-        "description": "대학에 떠날 때 할아버지는 저를 꼭 껴안으시며 속삭이셨습니다. \"집은 네가 사랑받는 곳이란다.\" 그 축복은 어디든 저를 따라다녔습니다.\n",
-        "date": "2025-04-28T11:21:46.138Z",
-        "location": "",
-        "media": {
-          "items": [
-            {
-              "signedMedia": {
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_60a1440c-4b16-4b28-8bdd-0950200ceccf.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=aoN9a1QhmpfGneGCl648tEA0rxCSe9wQ--y-YEsex5wLxeUtQuUL~A1JYOIn4RdMCHTf~7aYCGmyvMLxO4haRsAGCIBYRtbIEhUKdhy65RGSXGFpFEwxX7LW-FcjVqeXdFJ2I1S1Hzd8Ooby1EEoocwvWx3mAgVZUN4EV3N2cO81uhoQK3ygD3cnA31ZY~wOder6pMpvppYZncR4yNcsjpmHaf1ZpAaBKNs7DZwIuxwD7lUVdeqxaUCplmafg7wGud3kcOtchJ7QUZ5LTC5m7NuDiqbFh37pWU3iNZIcKbihWJJq158qVXO5fVXamv3Pna7CaiZ27qpC7-zd-Nrx8w__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_60a1440c-4b16-4b28-8bdd-0950200ceccf.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=aoN9a1QhmpfGneGCl648tEA0rxCSe9wQ--y-YEsex5wLxeUtQuUL~A1JYOIn4RdMCHTf~7aYCGmyvMLxO4haRsAGCIBYRtbIEhUKdhy65RGSXGFpFEwxX7LW-FcjVqeXdFJ2I1S1Hzd8Ooby1EEoocwvWx3mAgVZUN4EV3N2cO81uhoQK3ygD3cnA31ZY~wOder6pMpvppYZncR4yNcsjpmHaf1ZpAaBKNs7DZwIuxwD7lUVdeqxaUCplmafg7wGud3kcOtchJ7QUZ5LTC5m7NuDiqbFh37pWU3iNZIcKbihWJJq158qVXO5fVXamv3Pna7CaiZ27qpC7-zd-Nrx8w__",
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/V2_60a1440c-4b16-4b28-8bdd-0950200ceccf.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=MOkoO7RnDqUL4F04SWPpJx~P7xewR0gFSqVS4nhypAJJHQ-F9gej-AV43okYJqG-JG-oyzzwBhp4ds-vuaclM-j5Ob78dTdtqN2JuhUBzE5V8kC2e1Qo7NMJFvF3N7xAod3VvoI3j-qd52QRtAbBgVPRf7WgopBRJorho3Q9hTcUdoSeC5W1Atf44gNvFVP5gBnIB6VqUOyVGh52CS-V07WS9ajyjOje5VvCecsHTpDhaaa1UF5mSG9JfTOhC0XrhAuJOh2RKBP8bV~z-FbxY7jU0FPEqOUqBT1bC0Nb45fVU~EMNpdvyZkwBX612BwDUZPfBG9bTH2kjDaLz6c80w__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "width": 1280,
-                "height": 1920,
-                "orientation": "portrait"
-              },
-              "mediatype": "image"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Midnight Stargazing",
-        "description": "Lying on the porch, Grandpa would point out constellations, telling me ancient myths about heroes and gods written in the stars.\n",
-        "date": "2025-04-28T11:18:37.433Z",
-        "location": "",
-        "media": {
-          "items": [
-            {
-              "signedMedia": {
-                "largeImage": null,
-                "mediumImage": null,
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/public/video-thumbs/bdbff867-8fca-49c6-89a3-560b21ea8ff9_1.jpeg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=cHr6fJeHlzqJPJUHC8eVIxqjuS3QQsLWiHzkT5XtExDU95VBtRq3CE5UTZ2Sw4oBGk4ALi~N7mmx~u9hAIWciiAvXlseyqtDacfZ5RoSIOsXxi7f460HNAT~mXLPEWMWxbhCO8vAZWfKvu6t4TDob4EdV7HJIwVn-8i8Ktf3cVlflyqkLxTam539xrC0bH~bi6u8zCQgUX1KER~bizgoOz1DdFmAdPTePXEuBtR43YvYkTw7cul3xhxAYrQDGilkBKYB6tBnoz-3Ml03AF--PfkDt8nmZqqwdM~Ip0BGFy-qU8txDQNnISBKSOMMocZAldZk-fdCbG1enW5vPg~Xvg__",
-                "audioFile": null,
-                "videoFile": "https://d1543yqhrt5eqo.cloudfront.net/public/video/bdbff867-8fca-49c6-89a3-560b21ea8ff9.mp4?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=ORyNYCB-VPsPj~jrfaTuesR7poGLKwOTyVApBy-WqOOGrimdhEjX2J0b2awG8jwrJEClGW6SZSxFW2i5tPe8aTBzCLA777FDc~vuoEpAkXaU63GJzaUDFCBXAff8dBz4ZwnerSO--4yGAicp7Z5BdU8xIpoQSG5OtgNNTEgGP2qAHIARXLudhIFBKTW4~dJmuLW9AcpYCSP~Tz8FHlG3UKa8AXiVw5y0DagLPaUqiVfjfc6z1KyDI5cK2kjXYBwRwXvafY3TETih6aykJ~3ryvlNpx6OGK5yFB9V9k6TIS9iaY-ixPYt0OvSXRb5XPUueKSBNix3N53idgednxKrQw__"
-              },
-              "metaData": {},
-              "mediatype": "video"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Picnic in the Orchard",
-        "description": "Spreading a patchwork blanket among the trees, we’d feast on Grandma's homemade pies and lemonade. Those lazy afternoons were pure joy.\n",
-        "date": "2025-04-28T11:15:50.408Z",
-        "location": "",
-        "media": {
-          "items": [
-            {
-              "signedMedia": {
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_9612a7ba-cce4-44a4-85c1-8adb15ab0d3d.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=RahqEC2zDStZJFrkQtlTSfsfb2H5ZQ5zCM3K4X9jokQrH6pnIU6TIAyYoeVXILvYNeUh2arLlixzJyZWIAfEzQWWCX1MTFUoMeM9WaqHoul83naPtTsByJ1yJJFlh-qMYGlreuanyZ3t6sZm-7hvG5nFK6pThTO9qV47kb2a0Uw-u9tCoaABdLcmKvHP0mseFx9EDSE7qsXd5X5jWhcDE4WU4Ywu5aYlI9K8rd7LfeRmzzlKsYBTUFtT4fFx5IAoM~wk3j65TdqxdfKAXg5zi53HXhChGx7ua51aC--tp-ETQJJcHJ9V3tqBFO5QN~y9Fgtzx1V8aShEY439GysbIw__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_9612a7ba-cce4-44a4-85c1-8adb15ab0d3d.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=RahqEC2zDStZJFrkQtlTSfsfb2H5ZQ5zCM3K4X9jokQrH6pnIU6TIAyYoeVXILvYNeUh2arLlixzJyZWIAfEzQWWCX1MTFUoMeM9WaqHoul83naPtTsByJ1yJJFlh-qMYGlreuanyZ3t6sZm-7hvG5nFK6pThTO9qV47kb2a0Uw-u9tCoaABdLcmKvHP0mseFx9EDSE7qsXd5X5jWhcDE4WU4Ywu5aYlI9K8rd7LfeRmzzlKsYBTUFtT4fFx5IAoM~wk3j65TdqxdfKAXg5zi53HXhChGx7ua51aC--tp-ETQJJcHJ9V3tqBFO5QN~y9Fgtzx1V8aShEY439GysbIw__",
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/V2_9612a7ba-cce4-44a4-85c1-8adb15ab0d3d.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=IgV8qh1KnHBmZSApdfpA49b-PoUBvXq7mDjyNQZEPKTM0PEIloh6C5EmSAOi4XTObBVzrC8i5gNKSsoE2DztY7-ZC3iqC-KrKZoFHNnpVIzg5i0QyLtVFEqHRlZEuHxshDaMo4IbsvjAnSY8mvgSZjB27KCT-OGJAR1Q5u-3AshhzV1urpukoWtY-pVS8OWhi7pp4DcUknS6lETwJx1888CSkz6qlqSr7V9xmifMm7t16R7Snr2HERgJCNI7XAUaWOCGTquAGE7UfXTgGA5c72f~VG0bQpH7OegpI99xqGtXNMQyXdtfxAJw45L0gtSxApL~WMAH31yyPR2EOEffYw__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "width": 1280,
-                "height": 1920,
-                "orientation": "portrait"
-              },
-              "mediatype": "image"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Grandma’s Jewelry Box",
-        "description": "On rainy afternoons, I’d open Grandma’s jewelry box and listen to the stories behind each piece—her first dance, her wedding day, her dreams.\n",
-        "date": "2025-04-28T11:10:30.793Z",
-        "location": "",
-        "media": {
-          "items": [
-            {
-              "signedMedia": {
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_c613bf1b-7e41-4732-ab80-867a4cc28cd1.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=aEQhVOsEGJDfQ6a9FINormPsYhI7D1JVyfLzTOCjdppWyUR~u5vJqRfAeeNcehSsVyTGPN~ByBDn2kFc2eheuaoXpygr4ZnAjAeSF1db8dghoUFcXJBof2unIIORn4D0-Rs8cY8lCo6iyQgncuxYKZSjkLtDmo~pyHKgOtChn-Ra3BTIttn1OOnzyJiRPveTiiFuYDeoIpxoJKcvkdqEmYWmIp99YbqRAys39SHb5zRpfVpDGgg-2M1UroxkXKwcwhhQxyK0MzEQlSXEe1V5gV8Hg3mXarbwL~26GDtd9vLTIjLFSI9SUEnUyZfkDKE2psSR~Yup9JO-U4C48uMQtQ__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_c613bf1b-7e41-4732-ab80-867a4cc28cd1.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=aEQhVOsEGJDfQ6a9FINormPsYhI7D1JVyfLzTOCjdppWyUR~u5vJqRfAeeNcehSsVyTGPN~ByBDn2kFc2eheuaoXpygr4ZnAjAeSF1db8dghoUFcXJBof2unIIORn4D0-Rs8cY8lCo6iyQgncuxYKZSjkLtDmo~pyHKgOtChn-Ra3BTIttn1OOnzyJiRPveTiiFuYDeoIpxoJKcvkdqEmYWmIp99YbqRAys39SHb5zRpfVpDGgg-2M1UroxkXKwcwhhQxyK0MzEQlSXEe1V5gV8Hg3mXarbwL~26GDtd9vLTIjLFSI9SUEnUyZfkDKE2psSR~Yup9JO-U4C48uMQtQ__",
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/V2_c613bf1b-7e41-4732-ab80-867a4cc28cd1.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=V6LZhWjFNmyqxWnS8o2MNFV9~PQqdCAJvAV7Em9PK3r1b-tLOfpZV5sQ8Wvi7KOPdtv7ti8C3I13oELXCkF5QYxuRuEg6CfXYRDqWIzkonmsr3y1OEljRiWnm7AhZL46RZ0yyia28UTPSPCkdtP~Ru-owEGzw~zPmc7MfnZmLFzvDnGXUORuRfEVlniTBZhISbKREv1gJSGWFfgXtVFBe7VJVdOj7Z-XSdCK3mDYN9UcDqGMJcr5qqm13vHYSl2M6MJp7~AK9tGr4JieIFrXJQ8lW3tZLZeVzea38HOrw9rukH9uR4ydg12yVHhvjew4Kmk~PIPffgEavV-YxoNrQQ__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "width": 1280,
-                "height": 855,
-                "orientation": "landscape"
-              },
-              "mediatype": "image"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Grandpa’s Tall Tales",
-        "description": "He had a knack for exaggeration—claiming he once wrestled a bear or rode a wild horse. His mischievous smile always gave him away.\n",
-        "date": "2025-04-28T11:07:11.977Z",
-        "location": "",
-        "media": {
-          "items": [
-            {
-              "signedMedia": {
-                "largeImage": null,
-                "mediumImage": null,
-                "thumbnailImage": null,
-                "audioFile": "https://d1543yqhrt5eqo.cloudfront.net/public/sound/a9ffac0d-1796-404f-b825-2cd388269d32.mp3?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=kGGeQ3-2VK1GpYxB4sofuoJPdj~EyRVFlm15QxrO1OGBNUzlB9g6-yIWB0s4Ovsxkv3DMxyfzzsNqwN5v180yW-pIHw0LkeUqKqKKFg6IvOZcgoATu9FBe75k6Yx~cYgl1tZVZqgwDu2KyDzJABuUKpVAAuXgwW2dvvh7HrFR-AQbvVBj78dF53KALi6RsL~QQ-ZtwmxmhG5mZQ8HVPxOwoSqHhO8kTAjd-RbaEcT6T9cx1SF0bqn5STNQTZvYoSy~kOF6KlPNzoxEsTuJxlJfNEl8Hr1owNjaA~~euA79cR-aqa0tuwlstHGRwURXigDyfivVIvp003pTkvQ3VKYQ__",
-                "videoFile": null
-              },
-              "metaData": {},
-              "mediatype": "sound"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Grandpa’s Pocket Watch",
-        "description": "I was fascinated by the golden watch Grandpa kept tucked away. One evening, he opened it to show me the ticking heart of time, telling me to cherish every second.\n",
-        "date": "2025-04-28T11:05:45.205Z",
-        "location": "",
-        "media": {
-          "items": [
-            {
-              "signedMedia": {
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_26707ac7-a9eb-411f-869d-24c75034cf49.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pTzhfDRs5a3bjG2Zvnj67oYQqvi5X~e76rKhihyIxvTEo~OHBr~~2Gx0aIU1AhaotIPH-qqfH732AlevlzUKSqDr8mA~1TVeuGj6jEXNlL-m~RFxzN8jkOl4datGbes-4UDlwvBW~yNP6qyYdW-BRr5QFD-t8-TBpA8Q9L4P~f5xyjPOz-NzVvcBM6TAjzSQI6lAiTmKJSWkcJqYHUXuTGR5~FfnMbQnhwKRw1t9dS2MrUWIAdskoIYVVWojH53RuIDwBR2M-GmNr5w2RGaj3WMpngel4iQcUjm8CtlHlg59oNs287G~ncoFCR9cnBdp0wDMXFQv~JH~mojnhYBP2Q__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_26707ac7-a9eb-411f-869d-24c75034cf49.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=pTzhfDRs5a3bjG2Zvnj67oYQqvi5X~e76rKhihyIxvTEo~OHBr~~2Gx0aIU1AhaotIPH-qqfH732AlevlzUKSqDr8mA~1TVeuGj6jEXNlL-m~RFxzN8jkOl4datGbes-4UDlwvBW~yNP6qyYdW-BRr5QFD-t8-TBpA8Q9L4P~f5xyjPOz-NzVvcBM6TAjzSQI6lAiTmKJSWkcJqYHUXuTGR5~FfnMbQnhwKRw1t9dS2MrUWIAdskoIYVVWojH53RuIDwBR2M-GmNr5w2RGaj3WMpngel4iQcUjm8CtlHlg59oNs287G~ncoFCR9cnBdp0wDMXFQv~JH~mojnhYBP2Q__",
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/V2_26707ac7-a9eb-411f-869d-24c75034cf49.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=B9Cy6-fIJEsyhcxaf1FFj5OMSkdPzRYWNN3R7KC7AXayCv2UkKJSdZS9bFVkW5bmC3y2QfjWqjWyjtlld-70e2LEklIrVCOlpDIw9lMKL~Fuy8N~CVDMRh1qkRcFkamFwDSJf9HJN~SXT8tQwfFgRcfuUWFC3-yqIZi60LZ7aQYXuWCViwvoIk4XK8~OVjLhSAT~q09P7h1MN-68ksiJmfwV3OUBhFL8t-7IfqmJfV2sCfqQq1Oq0FjCDx2Tw1is-jDLUIjcYYgqZzWDL2f2nUntIpG1XTvtQoVUSESXwjnPrX2WpN66EBt0tRxXLJI97~LwIQ5CXlKxDKsd127Jmg__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "width": 1280,
-                "height": 1920,
-                "orientation": "portrait"
-              },
-              "mediatype": "image"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Fishing by the Lake",
-        "description": "Grandpa and I would sit silently by the water, poles in hand. It wasn't about the fish—it was about the peace between us\n",
-        "date": "2025-04-28T10:58:33.016Z",
-        "location": "",
-        "media": {
-          "items": [
-            {
-              "signedMedia": {
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_e7dfe879-4362-48d5-88d5-1c6b243d48f3.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=H-bi~zvHMsE-KiG~lCiMk2s1N7evOwK740Av9xDW7qaxwXumnk4FF-PSvXSSsWH-KUbLvulZguYQ1FAGsDENRffXp6WxffrIIqCJW-zoyfMYd~wJOwCBzb12s2JJofri3r1gUmDB58AoKt8BQBsq4ayrjQP3GMgrEQVpptHikQEnTYQcf5d6uH2CfiPKw30pj~ZSrnbNf3wA8LH8F0URtPhL7dW7F1diP2oE-8fAt4byix24uxUYPiV5YVDya062LAiGgrygsbLqi9v6PaK3p-2wLvGFzrwOqm63p~EYFqZR1gDLTFC-IhcIlshsta5JfLUoCdjp12ByyEqYieVxYA__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_e7dfe879-4362-48d5-88d5-1c6b243d48f3.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=H-bi~zvHMsE-KiG~lCiMk2s1N7evOwK740Av9xDW7qaxwXumnk4FF-PSvXSSsWH-KUbLvulZguYQ1FAGsDENRffXp6WxffrIIqCJW-zoyfMYd~wJOwCBzb12s2JJofri3r1gUmDB58AoKt8BQBsq4ayrjQP3GMgrEQVpptHikQEnTYQcf5d6uH2CfiPKw30pj~ZSrnbNf3wA8LH8F0URtPhL7dW7F1diP2oE-8fAt4byix24uxUYPiV5YVDya062LAiGgrygsbLqi9v6PaK3p-2wLvGFzrwOqm63p~EYFqZR1gDLTFC-IhcIlshsta5JfLUoCdjp12ByyEqYieVxYA__",
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/V2_e7dfe879-4362-48d5-88d5-1c6b243d48f3.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=bCFLe6a5CWOVHznzUIFeWesPYGfta7H5vq8JedfCfa8XDE1EEikkzCc44zuDl0ZhXaf7AqercTKSeSCD4t6BKYVqm-p0TQu0FkkZbmZ86I6Uwf08bil1C0w4mgx8Y9r3ZziwEflGMenVV-0-7opgtYITm127fqrvX547~e-TcuotcQ-505qvnbz9qQLsiWJsOHYx-5ET-sYnFIog~kaJULepcfqdYvHRyJ~sebpbp9cxMq-AWeyEaTSHRGGo--5yVL5yfwlrg4m55txyew8Z2342D1mAzhYsonAL9MCI5sE58FwJKM-hLsiinki8p~dHqjnf6FJJqlAMoCi-rNTvew__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "width": 1280,
-                "height": 853,
-                "orientation": "landscape"
-              },
-              "mediatype": "image"
+                "title": "Making My Bed",
+                "description": "It only takes a minute, but turning rumpled blankets into neat corners gives me a sense of order. It’s the first tiny task I complete each day, and it sets the tone for what’s to come. It feels like a simple act of care—for my space and myself.\n",
+                "date": "2025-10-23T12:14:40.555Z",
+                "location": "",
+                "media": {
+                    "items": [
+                        {
+                            "signedMedia": {
+                                "audioFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/af3722e4-2788-4047-ad4b-3bc9bf560990.jpg?Expires=1763963506&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=O8RyVuIoc1qgRP9anRbjTKU0qcR-f-K57AdV15g~Nl7IGlv2x5trDa~OYEvVmj82Rc2CileRhV6zX5Mj1yR5fpVjRK0NezuH7ubT1ZWjhmTE91rFYhQXhTQfKE93DBq7nZasTTx7HF2-jAEgx3ZsAB-esuBxxdYk0eKyhQuPZSrWq2KT41rvWS0flqng97CBUct7GrdXJs6Rmnz~jypsIfeMwbN~MT~~IZV4T~Yds5vPWzKMaIY3lBZmIWIT1YlAqtahDXuqQsxHzAS29PyMNlVRDZK8xpuD2Js6oIoI1ieYmmJeLYUFFR~198dwAxxy6MF5AlGEwV6ZJq8U4eqmhw__",
+                                "videoFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/af3722e4-2788-4047-ad4b-3bc9bf560990.jpg?Expires=1763963506&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=O8RyVuIoc1qgRP9anRbjTKU0qcR-f-K57AdV15g~Nl7IGlv2x5trDa~OYEvVmj82Rc2CileRhV6zX5Mj1yR5fpVjRK0NezuH7ubT1ZWjhmTE91rFYhQXhTQfKE93DBq7nZasTTx7HF2-jAEgx3ZsAB-esuBxxdYk0eKyhQuPZSrWq2KT41rvWS0flqng97CBUct7GrdXJs6Rmnz~jypsIfeMwbN~MT~~IZV4T~Yds5vPWzKMaIY3lBZmIWIT1YlAqtahDXuqQsxHzAS29PyMNlVRDZK8xpuD2Js6oIoI1ieYmmJeLYUFFR~198dwAxxy6MF5AlGEwV6ZJq8U4eqmhw__",
+                                "largeImage": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/af3722e4-2788-4047-ad4b-3bc9bf560990.jpg?Expires=1763963506&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=O8RyVuIoc1qgRP9anRbjTKU0qcR-f-K57AdV15g~Nl7IGlv2x5trDa~OYEvVmj82Rc2CileRhV6zX5Mj1yR5fpVjRK0NezuH7ubT1ZWjhmTE91rFYhQXhTQfKE93DBq7nZasTTx7HF2-jAEgx3ZsAB-esuBxxdYk0eKyhQuPZSrWq2KT41rvWS0flqng97CBUct7GrdXJs6Rmnz~jypsIfeMwbN~MT~~IZV4T~Yds5vPWzKMaIY3lBZmIWIT1YlAqtahDXuqQsxHzAS29PyMNlVRDZK8xpuD2Js6oIoI1ieYmmJeLYUFFR~198dwAxxy6MF5AlGEwV6ZJq8U4eqmhw__"
+                            },
+                            "metaData": {
+                                "width": 1920,
+                                "height": 1267
+                            },
+                            "mediatype": "image"
+                        }
+                    ]
+                }
             },
             {
-              "signedMedia": {
-                "largeImage": null,
-                "mediumImage": null,
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/public/video-thumbs/2965397c-b000-4dc6-931e-0cf68cecccd2_1.jpeg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=qzLM8vK4eOlDijlMYy7INxjbmDmwaE7gVZ2cYs5QiLlaLtPm9p9HZULE5NWSmDxcBANKdcA4THFrM26EeUDkVkiV~Fzupu5zELsDedfP18ppnVatsBfXonFukhxRQhjyWzEWH13bLQV~gLWtVfHuKq6VYzua0ECUVG52zTilucho8W2~-60Y0vgHx8apC4Au6iV~Ee93qDLJkO2QsTI8nO4W2n318HqfgUEWfQV3iFbGPVyiZhbB3K70CXrJwLPE6UT9nX3tDRypq7vgqXsmY0NmZ7Fh5UJ3nRvaoTJOaGP2KS3~kRnfgYoeIIrVLB~cg0ap7YYWN6hCH55yjOMsGw__",
-                "audioFile": null,
-                "videoFile": "https://d1543yqhrt5eqo.cloudfront.net/public/video/2965397c-b000-4dc6-931e-0cf68cecccd2.mp4?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=hT78SVPbcMM5LfNCU-LL2f7uCRyg~4Kf014krIE1Qh6sSOSzMsKZdcDlEcdKOiKbuHSe71CDXjzcZBJkV~Va7mPMzTjFZE~XSONz~Q~2iiIiyCflLSwS4hNwFPzQlUUsRcdv-jmFZYWM3TvXX~iHYlIxBTpLqVggCCieY7YboWZD-O5VhMl~zzA8FEP~Ofn4mB6QwG1OnscmvCWsp~u6TsKa8G39aVlQH7gNLj8cYIHKg6mlQvcTAqO5I4ya2q-UbRklu8ZxzlmXE2q2b5YhxqOWxweCRgvi7GEiZGoiU8T6zpDzJleLnOD4XnQlIY-09NgHLMJe06KS4JJhvyhlsQ__"
-              },
-              "metaData": {},
-              "mediatype": "video"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Patchwork Quilt Lessons",
-        "description": "Grandma's fingers moved swiftly, stitching colorful memories into a giant quilt. She taught me patience, precision, and the beauty of imperfection.\n",
-        "date": "2025-04-28T10:57:39.912Z",
-        "location": "",
-        "media": {
-          "items": [
-            {
-              "signedMedia": {
-                "largeImage": null,
-                "mediumImage": null,
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/public/video-thumbs/2e7773c8-2228-4e72-8be7-87941bc5f822_1.jpeg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=UJvHzNjnJkhGgLwiAwBXyjPxpCsY5vfXqjHQl6-mBf2VGSGg8pc1bi3UF7bS2ZH~hwRRp~vOFR5GmMpz-5neMyd4DQoLhAlVEPXPr~FmSeFJXrQ~-6uv1~jYueRagHitmni13L~oDY49OSMFeew4ktsgdKRoCq5WopyqdsXURg-jdKWKkBx3E2HeGDZQYoku0apn6TG~SqM12jrmEDaFNZ5yRO0MO~Sb~~8HkHZLprrAIcTTXUwr6WDLN9z0HChAdVoGUOJ-C9JxPiBDRcKr9A-bdFNawrdmz6l91Ptv~R9f~hfOMic6P2es~GxoWovA7iduRkWho4sOjH7tK9EcUA__",
-                "audioFile": null,
-                "videoFile": "https://d1543yqhrt5eqo.cloudfront.net/public/video/2e7773c8-2228-4e72-8be7-87941bc5f822.mp4?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=qxcIUOkfcWHt84bytCiYxq4wH1~tBnO-gTZzWrSZCGVKWhzs1J3ycFhDDzrZRTwKKexEyh6TKGM2KCLIAkMgrb5QT2iPUqZtP26JsEZfxOIZf4qGOp8DvjCu6R1bYUFg09LGu0eSYvEWVZ6uYVqhBhcQHr4Z1~7Su3Pq-sVDlWBQIcJaDUdtwWe9dI5XVQ-HDQBseHjeaL5VT3NE4iwA35V0-zJKJEyubKijFVd94MF2x7-fC6lSKUR7qYEW9MeEzU7oUdNCeRNabY5YQUsNjY~~76ZkiD74zdFmKyJrN3qP7AmqNFRB248a~G0ozaUpl9sDZMMtmN0ARgGyEZjDQg__"
-              },
-              "metaData": {},
-              "mediatype": "video"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Vintage Music Afternoons",
-        "description": "Old vinyl records spun on the player, crackling with melodies from another era. Grandpa would twirl Grandma around the living room, and I’d join, laughing.\n",
-        "date": "2025-04-28T10:41:01.102Z",
-        "location": "",
-        "media": {
-          "items": [
-            {
-              "signedMedia": {
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_8412d4ca-7910-439a-8efa-98877d142ba0.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=g9J-w9rMF0x5Jdok1m11GWyzW1pvfNiL4t8SAdTovWaOj0onbUpvZLI6JKBgcetRQjFuU6enkFVFntLbkyP8GV73VuGiFeiJsQFN6BqoSd5Rx8i4QkP~-HwetuF8n2vhcT-qviWjK0ml8iPBGr2Ems17P2cB8z29R0MLrOnSlpB7t3VK6Kepd9XTlOhiTi3TZQ8P12B-~20IPeeMMrKS1CZjWCPz9U-91by5iDGzZ9Ro3jec3E5nD1-KMBCQIXLD42ou4RS8MIaNJZ5ACmm22pcDwrgqZYKIJj21BOtLPefD9Q20YIemL1I-y-WgOSybk0fscKJMyiSeP~TIpS40Vw__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_8412d4ca-7910-439a-8efa-98877d142ba0.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=g9J-w9rMF0x5Jdok1m11GWyzW1pvfNiL4t8SAdTovWaOj0onbUpvZLI6JKBgcetRQjFuU6enkFVFntLbkyP8GV73VuGiFeiJsQFN6BqoSd5Rx8i4QkP~-HwetuF8n2vhcT-qviWjK0ml8iPBGr2Ems17P2cB8z29R0MLrOnSlpB7t3VK6Kepd9XTlOhiTi3TZQ8P12B-~20IPeeMMrKS1CZjWCPz9U-91by5iDGzZ9Ro3jec3E5nD1-KMBCQIXLD42ou4RS8MIaNJZ5ACmm22pcDwrgqZYKIJj21BOtLPefD9Q20YIemL1I-y-WgOSybk0fscKJMyiSeP~TIpS40Vw__",
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/V2_8412d4ca-7910-439a-8efa-98877d142ba0.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=bybFBJHzDzyvegaoFPgecjcAicTQvUDYsSSxypLOIReDCaexiaSl-go724YceB5cLQFg4rPcm2b~50217Z17iWm4-sSX69oHrqFSNMa376Oftjt4cgcT5kXoNEtW8dShc0tRCx8VmcpV7GacttqY0l8aMlQOaHms-bqIQE-B3fxjrrfT-0f9XW1lQtlZ73hVf~vbltUQO40FHkh76lm9vBkYac6nutndnDGY7u8HpbTGNrhuyRLwwa7B-eX5cuUZk9GAwKPwOB4JrYCZvG2x4smvSU~7esJl~kPnWAdu3kRFKeIFccNhuhD65AxgZ8wJaxOuFyQR-BGm7sbM63gAgA__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "width": 1280,
-                "height": 1707,
-                "orientation": "portrait"
-              },
-              "mediatype": "image"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Handwritten Letters",
-        "description": "On special days, Grandma would slip a handwritten note under my pillow—simple, heartfelt messages that felt like hugs in words.\n",
-        "date": "2025-04-28T10:38:15.825Z",
-        "location": "",
-        "media": {
-          "items": [
-            {
-              "signedMedia": {
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_a51e8edd-af33-45c7-ab3c-2cd8d75115cc.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=FeCmXic2JJn7sMIoulVhxamKMqWHJNz9ySP-nYxpyzFslTZfGensnyrtEhldUIA7XyYwKOGi0-kVl~fCGir3sHgZE93uB57u3-WjiZ9Qeq02gwNmMMofm8p0q7zAFmXa7d-ts9rKkkA7fV2IwiANxfu~XojBLGos9qqPdFbV2433AREynMH6zw3ko8ibH9becCCKnAlsHBPgoS9knsquThYYL5wx6gJ-pEW82TRDCg89GGYhBBuc5OAMrFiRIeKxTfWle6YFXVtRbOrOBgbrM09RV92Ez241qWZymZVGpoOF~8wUz4x3PuBnyQvTEi2NT-SxeLewKxtUMHc9JhC~mA__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_a51e8edd-af33-45c7-ab3c-2cd8d75115cc.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=FeCmXic2JJn7sMIoulVhxamKMqWHJNz9ySP-nYxpyzFslTZfGensnyrtEhldUIA7XyYwKOGi0-kVl~fCGir3sHgZE93uB57u3-WjiZ9Qeq02gwNmMMofm8p0q7zAFmXa7d-ts9rKkkA7fV2IwiANxfu~XojBLGos9qqPdFbV2433AREynMH6zw3ko8ibH9becCCKnAlsHBPgoS9knsquThYYL5wx6gJ-pEW82TRDCg89GGYhBBuc5OAMrFiRIeKxTfWle6YFXVtRbOrOBgbrM09RV92Ez241qWZymZVGpoOF~8wUz4x3PuBnyQvTEi2NT-SxeLewKxtUMHc9JhC~mA__",
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/V2_a51e8edd-af33-45c7-ab3c-2cd8d75115cc.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=h9RuLWyN6AeHlhQ1yahGwP7WSsebQ8~47uPgBDHV7sFMr5uwxQfc8NjaRKZSKU7Mu9dZ9r3c06VOFzvCxbFcIa9JGoA5LEG24LfHptHaxK2ecjkrUf5E8rEXT2ExdIq49X7wUNfEw8QaGrnlbeAUwenXiDBlc5hbjPQq5CqBfSDWU2OS1qWNk~c1pBMATi-MigXh3ShbPzW-NjnNIS5nXNM4slmdZ4uKTUOEx7b~etdCFlVBR~f5zBzLiDMo27HQj~WvVNr0XvG~nDzuWRmRE75KyLYJ9NKhYj5onkI5BfQTpdlmM0JiOQS~~rc4xdiMj71XQCgCcDyFmI5inO3NIA__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "width": 1280,
-                "height": 853,
-                "orientation": "landscape"
-              },
-              "mediatype": "image"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Grandpa’s Secret Garden",
-        "description": "Beyond the tool shed lay a hidden garden\n\n\n\nGrandpa tended with love.\n\nHe taught me the names of each flower, treating every bloom like a treasure.\n",
-        "date": "2025-04-28T10:34:59.047Z",
-        "location": "",
-        "media": {
-          "items": [
-            {
-              "signedMedia": {
-                "largeImage": null,
-                "mediumImage": null,
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/public/video-thumbs/98563fc9-1c08-49e6-b2e9-8a72f8228c6a_1.jpeg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=bccHoP~mpIcQHIpN09mUWsb5iYFc~H30a7hq9dq9ZubwiARFDUrCqXzTowidJhFqVhXDdOyITALYLI3sXnOmjuCIQFDpeSm0d3PCQ58Vf9ENajj8jN3PNYg~bTP6k35794fg7509BoT2xRRyEC6suEE9LmFPTGcA9OifuJbRAYFhdkX1pKCQIhwithJhUIz-vLaknXQL4VDLGIwE0uBGJrB6Sl~~neJ0VCiRnP8qUA390EdV0nXvGC2vO45IkG2rPlZ6OFoUMSaU9rn~-dBCwxsL8Z8iTwpleX4ZWtq2Ud1Su~ti7DlXvLaDhVsyqtohjRGTzyYQwfKhANrEmSaqzQ__",
-                "audioFile": null,
-                "videoFile": "https://d1543yqhrt5eqo.cloudfront.net/public/video/98563fc9-1c08-49e6-b2e9-8a72f8228c6a.mp4?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=o69Kyh8SJlL9bofPtkwM5EAbM5c9O2-WwG8IIPU0ip0x3fFwUbSTtZCeW2dpU-gPtSrQ-645NQJBVSuOL6JSccE5g5VSGla7U8fj04auea1V6hL6O2KsH2fW369B9MthjlWIa9PAPZxHJjgbdb2Fnczse3VyjCXGHUmANHj9VMGimkODyMMOe9d84imhkTLCYuriA9ZtlwffDn2n586WiWQODMcSPRIGnVIAOU38NgVNz5jY56Xd7Orj2V7-0~Z1dFs~z3-vHo6oJWHPmxau9XimwH5CMq2hG~UategIF7tWLvQDLZaLKMdw6v8ETUu12r-V4ikZMxavRg58-hKA8w__"
-              },
-              "metaData": {},
-              "mediatype": "video"
+                "title": "Cooking Something Simple",
+                "description": "Chopping vegetables, hearing them sizzle, and stirring with care—it brings me into the moment. Even if it’s a basic meal, there’s joy in creating it with my own hands. The smells, the rhythm, the taste—they all remind me to slow down.\n",
+                "date": "2025-10-23T12:13:51.127Z",
+                "location": "",
+                "media": {
+                    "items": [
+                        {
+                            "signedMedia": {
+                                "audioFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/62b3211a-8286-48ad-9229-9f20896519af.jpg?Expires=1763963506&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=BuxxvqcFLVQU5GkhedNXKjHZ435~ZUExoOSlCXzNa7cCyiK4c5gwgAJqS5PTeKjgyJKaD212yGrDLwG-1BdwSIsjZKruDICB1D36jSDP5Qfo5s2kHaQDGjhM6LlV1PqaI8NAkBZ3EUUVc1gIEcKAKPLmqfg3iCfGbqSjD8nl8RLfmeVcqZT~SlEorZVKU2axe4X6ge~X8Y6KWHdfay82JRAEz7vULJUQyLujwQe1Ad6rfDBCQa2MZuZx9nVmhi3LJtMmIbl-4pqXGT9arpAuuqExrMSWbHMMgoXrQNYo3kzOYnJLvlmf4kpCqyvmY4aja3oI-Kc9j8J625FoaKHToA__",
+                                "videoFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/62b3211a-8286-48ad-9229-9f20896519af.jpg?Expires=1763963506&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=BuxxvqcFLVQU5GkhedNXKjHZ435~ZUExoOSlCXzNa7cCyiK4c5gwgAJqS5PTeKjgyJKaD212yGrDLwG-1BdwSIsjZKruDICB1D36jSDP5Qfo5s2kHaQDGjhM6LlV1PqaI8NAkBZ3EUUVc1gIEcKAKPLmqfg3iCfGbqSjD8nl8RLfmeVcqZT~SlEorZVKU2axe4X6ge~X8Y6KWHdfay82JRAEz7vULJUQyLujwQe1Ad6rfDBCQa2MZuZx9nVmhi3LJtMmIbl-4pqXGT9arpAuuqExrMSWbHMMgoXrQNYo3kzOYnJLvlmf4kpCqyvmY4aja3oI-Kc9j8J625FoaKHToA__",
+                                "largeImage": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/62b3211a-8286-48ad-9229-9f20896519af.jpg?Expires=1763963506&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=BuxxvqcFLVQU5GkhedNXKjHZ435~ZUExoOSlCXzNa7cCyiK4c5gwgAJqS5PTeKjgyJKaD212yGrDLwG-1BdwSIsjZKruDICB1D36jSDP5Qfo5s2kHaQDGjhM6LlV1PqaI8NAkBZ3EUUVc1gIEcKAKPLmqfg3iCfGbqSjD8nl8RLfmeVcqZT~SlEorZVKU2axe4X6ge~X8Y6KWHdfay82JRAEz7vULJUQyLujwQe1Ad6rfDBCQa2MZuZx9nVmhi3LJtMmIbl-4pqXGT9arpAuuqExrMSWbHMMgoXrQNYo3kzOYnJLvlmf4kpCqyvmY4aja3oI-Kc9j8J625FoaKHToA__"
+                            },
+                            "metaData": {
+                                "width": 1920,
+                                "height": 1280
+                            },
+                            "mediatype": "image"
+                        }
+                    ]
+                }
             },
             {
-              "signedMedia": {
-                "largeImage": null,
-                "mediumImage": null,
-                "thumbnailImage": null,
-                "audioFile": "https://d1543yqhrt5eqo.cloudfront.net/public/sound/21afd28d-181d-4767-8cd0-6ad7dcb4b777.mp3?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=wOVlh8h6sZhpgx1MRh3S~kPnsGnIQYxOVetbQyTDRsxFsK~49~zT2Fwb3y97JZdg0HvMJEpeLECW5yGAUwvm32Y2qqUDkQZwICrscnMhUkseCzeHV8RKxr-5R7KPDjQXx9~ZiCilJ4B39ujwf-sC6eGbLqNAVq0P8Z6H4ZproWao5f01JroVZShAaje-oZAPqb4w~jSDBBqQ4Ty-yUHYMt9uNQY25~rJf1qx5ByCGQR9MvqreI01~s2VDSV5UKvlaMMjQZwt1WySYHqx0poiIw~sWhb3Syg1r8E77DeF2N64MsHYQ-vmmJOuVWBWDb~dgk-8rWXDbK61bKE~LTIf8Q__",
-                "videoFile": null
-              },
-              "metaData": {},
-              "mediatype": "sound"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Sunday Baking Sessions",
-        "description": "Grandma's kitchen came alive every Sunday with the smell of cinnamon and vanilla. I loved being her little assistant, sneaking tastes of cookie dough.\n",
-        "date": "2025-04-28T10:33:32.595Z",
-        "location": "",
-        "media": {
-          "items": [
+                "title": "The Moment Before Sleep",
+                "description": "As I lie in bed, eyes heavy, there’s a fleeting moment when everything feels still. My thoughts slow, my body relaxes, and I feel safely held by the darkness. It’s a soft surrender, a letting go that carries me into rest and renewal.\n",
+                "date": "2025-10-23T12:12:51.066Z",
+                "location": "",
+                "media": {
+                    "items": [
+                        {
+                            "signedMedia": {
+                                "audioFile": "https://d1hdaqk4elbxbd.cloudfront.net/public/video/0faa8086-257e-4d30-bf52-5249e7df4923.mp4?Expires=1763963506&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=eFvu6-I18UAMGhD48mbE7wnYKLC7myH7ybwtDd~E6jdSLCHroENU8iqVRpmNYRe6QoI3aVDD~nuRcEZTwupzFzW9K7z780sGF759PJNC0RsQpSVd-7biQ538o8AmWzQ8m3Om~yuxPrDeDDjQVHv76pWctIhjK6E8YVnVRsp7M3CnvBofMu8C1kSPq0ybSYdKjcQ-XRhpXMDXtFP9PgGEaMhHaJkq9S1d-dkJEElz2gFqXzkyqtyuo8AMbSY-~IOBzDs-YlSBd9BXFbomSSH1sslIDCvy66yJFi~iavF7mpkjHt~mSI76vNtpp6N6IvVggAsIdGQw6HrhkGC5vmPw6A__",
+                                "videoFile": "https://d1hdaqk4elbxbd.cloudfront.net/public/video/0faa8086-257e-4d30-bf52-5249e7df4923.mp4?Expires=1763963506&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=eFvu6-I18UAMGhD48mbE7wnYKLC7myH7ybwtDd~E6jdSLCHroENU8iqVRpmNYRe6QoI3aVDD~nuRcEZTwupzFzW9K7z780sGF759PJNC0RsQpSVd-7biQ538o8AmWzQ8m3Om~yuxPrDeDDjQVHv76pWctIhjK6E8YVnVRsp7M3CnvBofMu8C1kSPq0ybSYdKjcQ-XRhpXMDXtFP9PgGEaMhHaJkq9S1d-dkJEElz2gFqXzkyqtyuo8AMbSY-~IOBzDs-YlSBd9BXFbomSSH1sslIDCvy66yJFi~iavF7mpkjHt~mSI76vNtpp6N6IvVggAsIdGQw6HrhkGC5vmPw6A__",
+                                "largeImage": "https://d1hdaqk4elbxbd.cloudfront.net/public/video/0faa8086-257e-4d30-bf52-5249e7df4923.mp4?Expires=1763963506&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=eFvu6-I18UAMGhD48mbE7wnYKLC7myH7ybwtDd~E6jdSLCHroENU8iqVRpmNYRe6QoI3aVDD~nuRcEZTwupzFzW9K7z780sGF759PJNC0RsQpSVd-7biQ538o8AmWzQ8m3Om~yuxPrDeDDjQVHv76pWctIhjK6E8YVnVRsp7M3CnvBofMu8C1kSPq0ybSYdKjcQ-XRhpXMDXtFP9PgGEaMhHaJkq9S1d-dkJEElz2gFqXzkyqtyuo8AMbSY-~IOBzDs-YlSBd9BXFbomSSH1sslIDCvy66yJFi~iavF7mpkjHt~mSI76vNtpp6N6IvVggAsIdGQw6HrhkGC5vmPw6A__",
+                                "thumbnailImage": "https://s3.us-east-1.amazonaws.com/lugelo.dev.media/public/video-thumbs/0faa8086-257e-4d30-bf52-5249e7df4923_1.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIASV4WTLOVWL5GL5FW%2F20251117%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251117T055146Z&X-Amz-Expires=604800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIEtDEb2%2FV6GikL2lvikTuHnDdhQWALIcf75ae2anvzh5AiEAzIo7WBD1p%2B3P6xSqMueCxs%2FoKmVvShaehR5PS8xmr9sqjQMIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAEGgwxODQ0NjI1NjQyNjciDKaTVg274B%2B1WC4o1SrhAorrIbsBeRT6Ky82%2FBNC0w%2Fw6%2FFKQ1s9td832BjpG7fpTTphzYUTRM8SHgqF0X%2BXrEAJeKbUIATNuHd6j3NpPLiooZenMWqn%2BJwvn9cksdMRggmITD0oU1CLI4HWvKs5904qX4KkPczjgzswezYDJ4tik4HNfpcrPHo3W5R%2BvExK3iT8J71nPlQ7xOmB0%2BQ7dVpyk9frnthXMJ2om9%2FEamCVzzbwfpJnfrgasZcWqfLf4QVj8P2Ld3%2BYeFmI0UGvduxfOxUW7b4GW1UnibDkCe2ZXcFf9HAyR5WssC4Xo2OXwaHDxdJa5ZURfirfCPVlplBPokLzFERq%2FpqCATAD%2FqpR%2BgAopyWwdVcY%2Fasv06o6NzIjYp3jWUny0VXrW7w8kTM%2BAisrcLOLo78z6No7yLD%2FpQ4w%2Fi7FCrQY9lMlLGitTIeW3oWrQENZCfI9U9BXxXhfpxgANCC4%2FzbUkMt7KtnkMMTd6sgGOp4BNpkZpy49iso%2FtsBXLLyNIs5db3wADAWHMaOSDHU8jCi14oCBxKB%2BlTMEzgfc2wRzvtpJE0uaYj%2BRKNi9gj%2BF1D1eBkjQKK9fyFdvdPAV6IiDq%2BR4CVRPonJusBn9hqFJiDnXPkFQFw6zPhSc5CvaemyDj1QniKk6HseAjH9RKP%2BURlWCVk6aSg2ARj34O56Y0CPYxSEoIIIF%2FynuGBc%3D&X-Amz-Signature=2622089045bf08a5c8b848ad8b91bbb3b5a66080b49673da1bae1e4f12335089&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                            },
+                            "metaData": {
+                                "width": 2160,
+                                "height": 3840,
+                                "duration": 9.6,
+                                "orientation": "portrait"
+                            },
+                            "mediatype": "video"
+                        }
+                    ]
+                }
+            },
             {
-              "signedMedia": {
-                "largeImage": null,
-                "mediumImage": null,
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/public/video-thumbs/ebd054e4-2a60-4cfa-863a-b59d473e9b9a_1.jpeg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=mcDKvct3x3NPobGy-QMscyinv6mkrDzbD-c9KUly7iQ3bso32AyyFtCGYha0zljNdVxTByVyrrC07~hBXXCSvCvWZCPArCWaNYGOQEoHUBP15qs2UuEk62A3dQUub5EvIXm2Cc4mNkHmSGT0JkMYSCqAZkLU-uxZTJ6WFz31zuAgMz-q5dorpRn8lbAQwhtOTfNWGSek5UruKsuhk-ZvREN6N3HC~sJwZCYIXhd6W0Ra0hrZsU4wdzvQ87ZYu1dkmwHTEd3297jY8qOJf3JfwS6aYMscifKtRsvvzGKhBYIgS~nplZcGP6vmzpA56i13E9dpA45HjmotndGOuizufQ__",
-                "audioFile": null,
-                "videoFile": "https://d1543yqhrt5eqo.cloudfront.net/public/video/ebd054e4-2a60-4cfa-863a-b59d473e9b9a.mp4?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=hURnQnxM9OUs4rCfOIgSSRvfte1RhbPe8GZrhHFluQlI96a6-wLIN-5Udp5TrbQBePYFkbp3HlE1tTADiVY8Ab3XOfWEg1iVP2ubDmdlYa7j4kW5Zi2j2V03UqHJncRuwGdMspEYjf0sp8ijdHbiCSAaY0NQgd8ackJePTjm9R6K0ewYWyHpfN67RGDDd5scNDmToyQLGqXoXqcy0zHMQ6wIcgDKvl37xjeGJ~c1iDHt8ZPexLZA8QtV~oEXjQ4XRXnezXbjpS5k5U-Icdt1gDlqyBrXo6lHbREVrPF6JBh2b9MEEL3SqKr~bxg5xHr5Iu5yk~~G5PtWxmyhOtWIAQ__"
-              },
-              "metaData": {},
-              "mediatype": "video"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Storytime by the Fireplace",
-        "description": "After dinner, Grandpa would settle into his armchair and weave stories of distant lands, filling my mind with magic before sleep.\n",
-        "date": "2025-04-28T10:32:04.805Z",
-        "location": "",
-        "media": {
-          "items": [
+                "title": "Nature’s Tiny Details",
+                "description": "In the veins of a leaf, the pattern of a spider web, or the colors in a pebble, I find quiet wonder. These tiny, intricate details of nature remind me that beauty often hides in the unnoticed. They ground me in the present and open my eyes to magic.\n",
+                "date": "2025-10-23T12:11:22.165Z",
+                "location": "",
+                "media": {
+                    "items": [
+                        {
+                            "signedMedia": {
+                                "audioFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/ce21c905-1540-41f7-8ea2-570155da355f.jpg?Expires=1763963506&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=RvE2ZrSReq~uqOuHcdz-siT9DhKuvR2TvzW6kRf7WzYcGcGkB6UDDHoja-Vy2YGbIGi1KXw35tkFDkZT5Hb9bKLUi-OnPkqjFQYvDaPLvAOUi7qC0UmfqrV4-hKmIBf6l9rHSBbI9LCKtTp00G~mxKkJzu3TPGZnm-BtRIlh6DE46MDe-D8bc6kS2tHRr-eWN2O3CbKI~AlUCFlOgrakYTjOMKU7~eiOEGpybEBXlwXLCFXzDknvoOV0Zpcsmx55790URNU5lxqcaSLglLgFBovmIx6JyG6l-t8j6Oh-8wgoQBA3s-s3h488NAJ24EHHeDmNHVRIiq1OQzM~FE9AIQ__",
+                                "videoFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/ce21c905-1540-41f7-8ea2-570155da355f.jpg?Expires=1763963506&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=RvE2ZrSReq~uqOuHcdz-siT9DhKuvR2TvzW6kRf7WzYcGcGkB6UDDHoja-Vy2YGbIGi1KXw35tkFDkZT5Hb9bKLUi-OnPkqjFQYvDaPLvAOUi7qC0UmfqrV4-hKmIBf6l9rHSBbI9LCKtTp00G~mxKkJzu3TPGZnm-BtRIlh6DE46MDe-D8bc6kS2tHRr-eWN2O3CbKI~AlUCFlOgrakYTjOMKU7~eiOEGpybEBXlwXLCFXzDknvoOV0Zpcsmx55790URNU5lxqcaSLglLgFBovmIx6JyG6l-t8j6Oh-8wgoQBA3s-s3h488NAJ24EHHeDmNHVRIiq1OQzM~FE9AIQ__",
+                                "largeImage": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/ce21c905-1540-41f7-8ea2-570155da355f.jpg?Expires=1763963506&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=RvE2ZrSReq~uqOuHcdz-siT9DhKuvR2TvzW6kRf7WzYcGcGkB6UDDHoja-Vy2YGbIGi1KXw35tkFDkZT5Hb9bKLUi-OnPkqjFQYvDaPLvAOUi7qC0UmfqrV4-hKmIBf6l9rHSBbI9LCKtTp00G~mxKkJzu3TPGZnm-BtRIlh6DE46MDe-D8bc6kS2tHRr-eWN2O3CbKI~AlUCFlOgrakYTjOMKU7~eiOEGpybEBXlwXLCFXzDknvoOV0Zpcsmx55790URNU5lxqcaSLglLgFBovmIx6JyG6l-t8j6Oh-8wgoQBA3s-s3h488NAJ24EHHeDmNHVRIiq1OQzM~FE9AIQ__"
+                            },
+                            "metaData": {
+                                "width": 1920,
+                                "height": 1318
+                            },
+                            "mediatype": "image"
+                        }
+                    ]
+                }
+            },
             {
-              "signedMedia": {
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_14cd2441-f54e-48bf-8108-fa98cd265b98.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=D46eW26t4mhJTx2ZOkt8QAKdyWOWGcltqMkSTsoLJpskSq-Iyj-jukZ~cNOe6KL-o8oZRAAvBMoqmvYUFVmpGuPwRsq0S6KrVxDsQK8fxlhdQ6Re6otf3604QnUSBc0vMdy0KtAaSp-b9zoXJVU3-zkeDKlJv7UN4h-exi4JWfLpquP0iKB-0qggkgaUDzTjWkbQMu1qNrND2ByR0ig4HRgQTeJO2w4Vr3b9uq5OaTFdUWpb752MsXuQL2lZzCUjpwNXXQB5hOKrdiyFEDxdQw-6ki0KyvJh2UPQLLwWfFs6zC4p0Wmq5EN-g7nkPflAExwJAjKll8ApN79IUk-NtQ__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_14cd2441-f54e-48bf-8108-fa98cd265b98.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=D46eW26t4mhJTx2ZOkt8QAKdyWOWGcltqMkSTsoLJpskSq-Iyj-jukZ~cNOe6KL-o8oZRAAvBMoqmvYUFVmpGuPwRsq0S6KrVxDsQK8fxlhdQ6Re6otf3604QnUSBc0vMdy0KtAaSp-b9zoXJVU3-zkeDKlJv7UN4h-exi4JWfLpquP0iKB-0qggkgaUDzTjWkbQMu1qNrND2ByR0ig4HRgQTeJO2w4Vr3b9uq5OaTFdUWpb752MsXuQL2lZzCUjpwNXXQB5hOKrdiyFEDxdQw-6ki0KyvJh2UPQLLwWfFs6zC4p0Wmq5EN-g7nkPflAExwJAjKll8ApN79IUk-NtQ__",
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/V2_14cd2441-f54e-48bf-8108-fa98cd265b98.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=mXXkUyriPKgxPHRbS6WX~W16iNlyUCUxHO4mc4aIhC~domQFH7ptY9vUR1vyLpUhys1Pacr5vslJHnOC0XsuwtFsN27mWsBkNBmbQWytgCrclZBflrniIvVM3ECLGKOl8CuKWJFsEVajgc32C89xBoOKaY8Py9uyDX90j7lID89W5nQSiGC~4u0uxg5mX1WNuzoAvM-kPLwfgXrFWbrf-KM3uSy1UZrtxxGi-fq1TQcifButn3~DeEhVtaEpWPZ0ukciBboo2HkvA7dWkE23OKyE4LS2fGQwcaFVNTQeiM5j6uJOtuVf8P8BQ5oyNrTNCbqE03dlxCbWkza1xZ-G~g__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "width": 1280,
-                "height": 853,
-                "orientation": "landscape"
-              },
-              "mediatype": "image"
-            }
-          ]
-        }
-      },
-      {
-        "title": "The Big Swing",
-        "description": "In the backyard, a sturdy wooden swing hung from the old mango tree. Grandma would push me gently, her laughter blending with the creaking ropes.\n",
-        "date": "2025-04-28T10:30:29.931Z",
-        "location": "",
-        "media": {
-          "items": [
+                "title": "Finding the Perfect Words",
+                "description": "Sometimes, I manage to say or write exactly what I mean, and it feels like striking gold. The right words unlock a deeper truth or connection. It’s a small but powerful kind of clarity that leaves me feeling seen—even by myself.\n",
+                "date": "2025-10-23T12:10:12.419Z",
+                "location": "",
+                "media": {
+                    "items": []
+                }
+            },
             {
-              "signedMedia": {
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_03874747-8544-4a25-8e93-4068854b7f37.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=vm~bl-ONkp4SPFICXys17nIUJ9vJZXBHHoyGCTXZJT4fBWeI7ckwJdrj6fguf3cvc6NnzzqR~mNPBHODWwjbEg1RzZ9M4RffXupPoje0wQWslMenDysvHPo0pYdBT3RLYKIqpSHs5HJfLyE7h2D4Wf9p-Mp5-BO623tan3pBzyLRKFhSo3sgISS9cpu5xYV0cTEQw2oE-XUeFjwOijZs~pzhSTqQJ01qGvYdc5h4JzgsxeVHY8eZiqsOf9vnWKAvcBIi0byrJ7EhbsPUZPZF1fCd1~pl0Xac~SeHyLZUTTYrkGats0JDbCA~9RmLsltuxMuRH5-NrJlqY6wuSGm6sQ__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_03874747-8544-4a25-8e93-4068854b7f37.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=vm~bl-ONkp4SPFICXys17nIUJ9vJZXBHHoyGCTXZJT4fBWeI7ckwJdrj6fguf3cvc6NnzzqR~mNPBHODWwjbEg1RzZ9M4RffXupPoje0wQWslMenDysvHPo0pYdBT3RLYKIqpSHs5HJfLyE7h2D4Wf9p-Mp5-BO623tan3pBzyLRKFhSo3sgISS9cpu5xYV0cTEQw2oE-XUeFjwOijZs~pzhSTqQJ01qGvYdc5h4JzgsxeVHY8eZiqsOf9vnWKAvcBIi0byrJ7EhbsPUZPZF1fCd1~pl0Xac~SeHyLZUTTYrkGats0JDbCA~9RmLsltuxMuRH5-NrJlqY6wuSGm6sQ__",
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/V2_03874747-8544-4a25-8e93-4068854b7f37.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=eaUPjo3Ca-nbBv7SzMahOR3WzZFQV~zN~E5gVdjfWTqvOxGDrsfebpTxDy5eKiEhqHAF66XMAIcnE9sWfnTlQ2uYNgeyRj3SIgLliFA5qKFdwm-ozuo9efSCCmth11Z2TXu5fqVAiDFVz2XoyIzYUYo0h3W3zAr~u9ekQAUNDzr-G8qckaNet2vmAB2MeSLOuWCBuLaJdqBmCd4idyMuNHvnbFLBiq6rBW2uzsTsfs37ZkKlaZxVF85mNYbRWDQS7dWA4W~LppDWqsxHWltC92Ob-qyu-C~Q4yUFD0AbLKMlR-Lv92Xg2cdRLWRQMjxFOSgusjvaxuP8N8~LORdXfw__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "width": 1280,
-                "height": 1917,
-                "orientation": "portrait"
-              },
-              "mediatype": "image"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Morning Tea Ritual",
-        "description": "Every morning, the aroma of fresh tea filled the house. Grandpa would sip slowly, while Grandma hummed old songs, their peaceful routine grounding my childhood.\n",
-        "date": "2025-04-28T10:26:44.066Z",
-        "location": "",
-        "media": {
-          "items": [
+                "title": "Unexpected Free Time",
+                "description": "When a meeting gets canceled or plans fall through, I often find unexpected delight in the open space. That little window of unscheduled time feels like a secret gift. It’s a rare chance to breathe, to pause, to follow my whims.\n",
+                "date": "2025-10-23T12:09:51.287Z",
+                "location": "",
+                "media": {
+                    "items": [
+                        {
+                            "signedMedia": {
+                                "audioFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/cb224659-83dd-40f8-8fa7-d1aba588a1d1.jpg?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=NwYGEoru5n26KJs69Le2DqczTS7GRvaXtmAe38yOfV4xb9ZpJNgs3EZg8sZ1LAdUJ53cV9zQRQWNxLV7lcBujfW5o8EeFLfb5xh7BlINwuiMlGs-gMxUi7eIR5~9oTTROCY-HOnVOB4bXVNiHP~Ggk-OFJ5euXt1AJ5mJ5zjxbfdb2kjqvHG-4Qkh0CCn24e8NRgEUHToaSsPTj7GYcbOa9OZXyYhTurvrTNJAmLwQ7OhOQCfB~GB3RuRGny2b1hpJTiiQd-mGW0BFtga5Q6ydtx9pcRZ8TNm4aoDxUpPW6FCKlGT137YLnGz2v2AS6sBSrXMVLc1hOlYVUKI0Cv~g__",
+                                "videoFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/cb224659-83dd-40f8-8fa7-d1aba588a1d1.jpg?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=NwYGEoru5n26KJs69Le2DqczTS7GRvaXtmAe38yOfV4xb9ZpJNgs3EZg8sZ1LAdUJ53cV9zQRQWNxLV7lcBujfW5o8EeFLfb5xh7BlINwuiMlGs-gMxUi7eIR5~9oTTROCY-HOnVOB4bXVNiHP~Ggk-OFJ5euXt1AJ5mJ5zjxbfdb2kjqvHG-4Qkh0CCn24e8NRgEUHToaSsPTj7GYcbOa9OZXyYhTurvrTNJAmLwQ7OhOQCfB~GB3RuRGny2b1hpJTiiQd-mGW0BFtga5Q6ydtx9pcRZ8TNm4aoDxUpPW6FCKlGT137YLnGz2v2AS6sBSrXMVLc1hOlYVUKI0Cv~g__",
+                                "largeImage": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/cb224659-83dd-40f8-8fa7-d1aba588a1d1.jpg?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=NwYGEoru5n26KJs69Le2DqczTS7GRvaXtmAe38yOfV4xb9ZpJNgs3EZg8sZ1LAdUJ53cV9zQRQWNxLV7lcBujfW5o8EeFLfb5xh7BlINwuiMlGs-gMxUi7eIR5~9oTTROCY-HOnVOB4bXVNiHP~Ggk-OFJ5euXt1AJ5mJ5zjxbfdb2kjqvHG-4Qkh0CCn24e8NRgEUHToaSsPTj7GYcbOa9OZXyYhTurvrTNJAmLwQ7OhOQCfB~GB3RuRGny2b1hpJTiiQd-mGW0BFtga5Q6ydtx9pcRZ8TNm4aoDxUpPW6FCKlGT137YLnGz2v2AS6sBSrXMVLc1hOlYVUKI0Cv~g__"
+                            },
+                            "metaData": {
+                                "width": 6830,
+                                "height": 5464
+                            },
+                            "mediatype": "image"
+                        }
+                    ]
+                }
+            },
             {
-              "signedMedia": {
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_c1c51640-d8b7-467c-b93f-14e75d2e11c5.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=DpY0tDWuqvGZ~Xm5DoQzRNRXfeMDh0G0vYuFxWWlM~6SdZaRNpH82IOIEDKqKC6Md1eoBcH~86xlQZ4x~fwhLiYhN31ufVuaZ3wje2xsnjBGrv--ChRqPD21X9JHEaBdcuAsFeH2UE1-H7c4IpTvF9mJJyp~vzpHQ9AzmmfGr36wBcuswyVxqnaV531Q2CBpU-wLyevMd-tAD0ncLcko~a4x5gbDmV7plU7ASSRk~oTptrENzDRQlPt-Dcans~9rCikvd6RON-2V5u5jynDSC0JjA2Zgu2Une~pXSsnzJY1vGbqGjtGHY8AWOM01wJFTtmDLG-YVEWQ8-iPyxdhu2Q__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_c1c51640-d8b7-467c-b93f-14e75d2e11c5.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=DpY0tDWuqvGZ~Xm5DoQzRNRXfeMDh0G0vYuFxWWlM~6SdZaRNpH82IOIEDKqKC6Md1eoBcH~86xlQZ4x~fwhLiYhN31ufVuaZ3wje2xsnjBGrv--ChRqPD21X9JHEaBdcuAsFeH2UE1-H7c4IpTvF9mJJyp~vzpHQ9AzmmfGr36wBcuswyVxqnaV531Q2CBpU-wLyevMd-tAD0ncLcko~a4x5gbDmV7plU7ASSRk~oTptrENzDRQlPt-Dcans~9rCikvd6RON-2V5u5jynDSC0JjA2Zgu2Une~pXSsnzJY1vGbqGjtGHY8AWOM01wJFTtmDLG-YVEWQ8-iPyxdhu2Q__",
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/V2_c1c51640-d8b7-467c-b93f-14e75d2e11c5.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=B7U8rdOC48ITjJ3vYBeJ7-x59uAmzmgPMFqmYOZ4Hm1pMg~rNiiRgPgFsT3NJK2rGm4OzMW-GLZw-TQqjJUBCtEOmPTt4sfhXB~ZcUxWdbWz91PlohWXKG9-DK0R2iQjKkpw7UhRwwKCbLR8MvzTzLlqYpOh4jJ-Gl4VGkbHPCLZ5sNBKXkdg7DkiGqelCNm-1F904cGqCIVEyV3HufDRgEoJMLvweRW5DKufnTCVVJ5qR75uimVEdJkO2c75qDPks5I5ESahhNl70qFeLWkJzu0p18qbffnVNW3Vuviqtu63StDjBGZiLQvC-mfT7ngMIUVKEJilBNV7bG3D4Mg4g__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "width": 1280,
-                "height": 720,
-                "orientation": "landscape"
-              },
-              "mediatype": "image"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Lessons Learned",
-        "description": "Grandparents often move at a slower pace—not because they have to, but because they’ve learned that rushing rarely brings better results.\n",
-        "date": "2025-04-23T07:19:32.484Z",
-        "location": "",
-        "media": {
-          "items": [
+                "title": "Watching Someone I Love Smile",
+                "description": "Seeing genuine joy on the face of someone I care about fills me with happiness too. Their smile reflects shared memories, warmth, and love. It reminds me that their well-being is tied to mine, and that love multiplies when it’s witnessed.\n",
+                "date": "2025-10-23T12:08:39.443Z",
+                "location": "",
+                "media": {
+                    "items": [
+                        {
+                            "signedMedia": {
+                                "audioFile": "https://d1hdaqk4elbxbd.cloudfront.net/public/video/8dc8c930-513d-462c-81e4-3b2afbb6ddbb.mp4?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=vqcfeNwlQKs8j5AYgNjcTTiMLOgACaSbghuFB0bjDbyUEpi4dW7UytOcf0eqVR6Z6pZJPOED84QmClBNsR4eY6FdF~6DXDDqT8887~0KoZYxArlcSCsaDXjHSdZzD9eHTZfbAZj8uI7TyN60umWAQOlho~pwf-z0xtHSmzYB0H1lfefsguveogSm4Ib6MyDoP0ZxKUnFfWHk1ytCi8HEXzJOWewTDj9ki8mvGZWvxy7u6~sWkdcDAQ-Z4zPECkhwzuPcaKPlYYhhUJct~hpxfyOQd7WobmBY3uvZGlTRXopqN5~~Csz6BiLzsrdHxljDgVWz1bgwuAeP-brSYCskZA__",
+                                "videoFile": "https://d1hdaqk4elbxbd.cloudfront.net/public/video/8dc8c930-513d-462c-81e4-3b2afbb6ddbb.mp4?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=vqcfeNwlQKs8j5AYgNjcTTiMLOgACaSbghuFB0bjDbyUEpi4dW7UytOcf0eqVR6Z6pZJPOED84QmClBNsR4eY6FdF~6DXDDqT8887~0KoZYxArlcSCsaDXjHSdZzD9eHTZfbAZj8uI7TyN60umWAQOlho~pwf-z0xtHSmzYB0H1lfefsguveogSm4Ib6MyDoP0ZxKUnFfWHk1ytCi8HEXzJOWewTDj9ki8mvGZWvxy7u6~sWkdcDAQ-Z4zPECkhwzuPcaKPlYYhhUJct~hpxfyOQd7WobmBY3uvZGlTRXopqN5~~Csz6BiLzsrdHxljDgVWz1bgwuAeP-brSYCskZA__",
+                                "largeImage": "https://d1hdaqk4elbxbd.cloudfront.net/public/video/8dc8c930-513d-462c-81e4-3b2afbb6ddbb.mp4?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=vqcfeNwlQKs8j5AYgNjcTTiMLOgACaSbghuFB0bjDbyUEpi4dW7UytOcf0eqVR6Z6pZJPOED84QmClBNsR4eY6FdF~6DXDDqT8887~0KoZYxArlcSCsaDXjHSdZzD9eHTZfbAZj8uI7TyN60umWAQOlho~pwf-z0xtHSmzYB0H1lfefsguveogSm4Ib6MyDoP0ZxKUnFfWHk1ytCi8HEXzJOWewTDj9ki8mvGZWvxy7u6~sWkdcDAQ-Z4zPECkhwzuPcaKPlYYhhUJct~hpxfyOQd7WobmBY3uvZGlTRXopqN5~~Csz6BiLzsrdHxljDgVWz1bgwuAeP-brSYCskZA__",
+                                "thumbnailImage": "https://s3.us-east-1.amazonaws.com/lugelo.dev.media/public/video-thumbs/8dc8c930-513d-462c-81e4-3b2afbb6ddbb_1.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIASV4WTLOVWL5GL5FW%2F20251117%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251117T055146Z&X-Amz-Expires=604800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIEtDEb2%2FV6GikL2lvikTuHnDdhQWALIcf75ae2anvzh5AiEAzIo7WBD1p%2B3P6xSqMueCxs%2FoKmVvShaehR5PS8xmr9sqjQMIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAEGgwxODQ0NjI1NjQyNjciDKaTVg274B%2B1WC4o1SrhAorrIbsBeRT6Ky82%2FBNC0w%2Fw6%2FFKQ1s9td832BjpG7fpTTphzYUTRM8SHgqF0X%2BXrEAJeKbUIATNuHd6j3NpPLiooZenMWqn%2BJwvn9cksdMRggmITD0oU1CLI4HWvKs5904qX4KkPczjgzswezYDJ4tik4HNfpcrPHo3W5R%2BvExK3iT8J71nPlQ7xOmB0%2BQ7dVpyk9frnthXMJ2om9%2FEamCVzzbwfpJnfrgasZcWqfLf4QVj8P2Ld3%2BYeFmI0UGvduxfOxUW7b4GW1UnibDkCe2ZXcFf9HAyR5WssC4Xo2OXwaHDxdJa5ZURfirfCPVlplBPokLzFERq%2FpqCATAD%2FqpR%2BgAopyWwdVcY%2Fasv06o6NzIjYp3jWUny0VXrW7w8kTM%2BAisrcLOLo78z6No7yLD%2FpQ4w%2Fi7FCrQY9lMlLGitTIeW3oWrQENZCfI9U9BXxXhfpxgANCC4%2FzbUkMt7KtnkMMTd6sgGOp4BNpkZpy49iso%2FtsBXLLyNIs5db3wADAWHMaOSDHU8jCi14oCBxKB%2BlTMEzgfc2wRzvtpJE0uaYj%2BRKNi9gj%2BF1D1eBkjQKK9fyFdvdPAV6IiDq%2BR4CVRPonJusBn9hqFJiDnXPkFQFw6zPhSc5CvaemyDj1QniKk6HseAjH9RKP%2BURlWCVk6aSg2ARj34O56Y0CPYxSEoIIIF%2FynuGBc%3D&X-Amz-Signature=00361dd33badc80654a789972b4a8a5f8f5b3bec42506b5209025ace8cef7a8d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                            },
+                            "metaData": {
+                                "width": 1080,
+                                "height": 1920,
+                                "duration": 18.833333,
+                                "orientation": "portrait"
+                            },
+                            "mediatype": "video"
+                        }
+                    ]
+                }
+            },
             {
-              "signedMedia": {
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_2e071275-e834-4ae2-84df-1a63b56e83b0.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=WoJ6D7k5lJ9vknD2jvLWz8SlDs68OM4XeuV2ZCODB-QZdl3lsHZTBhJyxacLC8q~7RZsOqairL0HPH19Tf4SbUv19pEX5hIxGkGPRmzIvYpnqdAYJvF0fqyuyddQ5km4n1QjJ3Z~Gw7w5j~qc-F-dFDDhNPLC3tLU93F-rMyLHdXB2jSMKUcUSqSyjDLn2jTNIWta8wacn~5lRqkiVAvVXhPV6bYPDWUkgJhw-DIi-xgA4KxNRnR4Atg3A1wOtHEBABREt3HOXxzr459BiCRtU5oz8qm3mrXT6ZJg1qTdNBo1FKd1ZLPyPsOK-XLDWGXviZaTLBBd-4L4X0KEyvoUQ__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_2e071275-e834-4ae2-84df-1a63b56e83b0.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=WoJ6D7k5lJ9vknD2jvLWz8SlDs68OM4XeuV2ZCODB-QZdl3lsHZTBhJyxacLC8q~7RZsOqairL0HPH19Tf4SbUv19pEX5hIxGkGPRmzIvYpnqdAYJvF0fqyuyddQ5km4n1QjJ3Z~Gw7w5j~qc-F-dFDDhNPLC3tLU93F-rMyLHdXB2jSMKUcUSqSyjDLn2jTNIWta8wacn~5lRqkiVAvVXhPV6bYPDWUkgJhw-DIi-xgA4KxNRnR4Atg3A1wOtHEBABREt3HOXxzr459BiCRtU5oz8qm3mrXT6ZJg1qTdNBo1FKd1ZLPyPsOK-XLDWGXviZaTLBBd-4L4X0KEyvoUQ__",
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/V2_2e071275-e834-4ae2-84df-1a63b56e83b0.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=IjULqXmT7-zLi5mxPDmPrnBo~t3VNvRUVoVrIXmKIzbhWXhM2U~Np0ssKgjIfB-Xho4GrX5vpuSkARgEM8lK4SEHuWo9OGeKhgL~sZBmVYMOLd6tQmujNUx8JaSBYuVbthr3ay7QOwpiakpEV4IjkPTAzH7cYB2yFL9ikgh4M9xuoertsRZyqWODAi-vyHpdjU6KrsIxRbT7g-bz3XQIk~j5ZyDRj3PTVzpFOws4thCA1EJU92GHP33M2kD85urxfTuS~wfdWZfsP-j8gYZj47FKXaLG59WyCcNfsbD4zaUhix8epWh40093KuvR7kRy5cDMC1Gn28ohJJFM1NOPcw__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "width": 1280,
-                "height": 853,
-                "orientation": "landscape"
-              },
-              "mediatype": "image"
-            }
-          ]
-        }
-      },
-      {
-        "title": "where joy and laughter intertwined",
-        "description": "As I stroll down Memory Lane, each step transports me to the cherished moments spent with my beloved grandparents. The air is thick with the scent of freshly baked cookies, a reminder of those afternoons in their cozy kitchen, where laughter mingled with the rhythmic sound of mixing batter. The walls of their home, adorned with family portraits, whisper stories of resilience, love, and the simple joys of life. I can almost hear the crackling of the fireplace, where my grandfather would regale us with tales of his youth, his voice a soothing melody that anchored our hearts. The garden, once vibrant with blooming flowers, now stands as a testament to their nurturing spirit, each petal a symbol of the love they sowed into our lives. As I close my eyes, I can feel the warmth of my grandmother’s hand, guiding me through the lessons of compassion and kindness she so effortlessly embodied. Time seems to stand still here, where every corner is infused with laughter, every shadow a reminder of their unwavering support. Memory Lane is not just a path; it is a sanctuary of love and lessons, a place where their legacy continues to inspire and guide me, forever etched in my heart.\n",
-        "date": "2025-04-23T07:15:22.576Z",
-        "location": "",
-        "media": {
-          "items": [
+                "title": "Creating Something with My Hands",
+                "description": "Whether I’m cooking, drawing, or planting something, using my hands to make something tangible brings me joy. It’s grounding and affirming to see an idea take shape before me. The act of creating reminds me that I can bring beauty into the world.\n",
+                "date": "2025-10-23T12:07:32.217Z",
+                "location": "",
+                "media": {
+                    "items": [
+                        {
+                            "signedMedia": {
+                                "audioFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/2fb2c69b-59c7-494d-af25-8c74f14bd819.jpg?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=jGe4TCbN2cnNhFnpSa8VQFDZ3fDmlIBydivblTqB3nUnrlI9ZirEA~HkJQhtqmQ9Hmbfp~c8d4zbxqAlyz0kYPfjDWQiOpPoraQ8lcoKgvydfMCaJp-FtIg44iEU40LF4zq5SsC8e-VkpnvGtpA908s0iqWpEyLsXbGY9QPZ7Fn24B0bY-thP~n09FeO7XqYDtNjTjNOw1IFc~URLvXI5kHHIAUFrdGggCrwlLjSbjiMSjDgHaZI1zOrGH~ZLH4fllAxuZtVIP~wKZkdlSkTuVWyWLMUqWtULS8FLhwqSsZ6P93xp2AUtxcLGMRO~ezgWBR6t4EqaPOeoiwzdZ2ZIw__",
+                                "videoFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/2fb2c69b-59c7-494d-af25-8c74f14bd819.jpg?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=jGe4TCbN2cnNhFnpSa8VQFDZ3fDmlIBydivblTqB3nUnrlI9ZirEA~HkJQhtqmQ9Hmbfp~c8d4zbxqAlyz0kYPfjDWQiOpPoraQ8lcoKgvydfMCaJp-FtIg44iEU40LF4zq5SsC8e-VkpnvGtpA908s0iqWpEyLsXbGY9QPZ7Fn24B0bY-thP~n09FeO7XqYDtNjTjNOw1IFc~URLvXI5kHHIAUFrdGggCrwlLjSbjiMSjDgHaZI1zOrGH~ZLH4fllAxuZtVIP~wKZkdlSkTuVWyWLMUqWtULS8FLhwqSsZ6P93xp2AUtxcLGMRO~ezgWBR6t4EqaPOeoiwzdZ2ZIw__",
+                                "largeImage": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/2fb2c69b-59c7-494d-af25-8c74f14bd819.jpg?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=jGe4TCbN2cnNhFnpSa8VQFDZ3fDmlIBydivblTqB3nUnrlI9ZirEA~HkJQhtqmQ9Hmbfp~c8d4zbxqAlyz0kYPfjDWQiOpPoraQ8lcoKgvydfMCaJp-FtIg44iEU40LF4zq5SsC8e-VkpnvGtpA908s0iqWpEyLsXbGY9QPZ7Fn24B0bY-thP~n09FeO7XqYDtNjTjNOw1IFc~URLvXI5kHHIAUFrdGggCrwlLjSbjiMSjDgHaZI1zOrGH~ZLH4fllAxuZtVIP~wKZkdlSkTuVWyWLMUqWtULS8FLhwqSsZ6P93xp2AUtxcLGMRO~ezgWBR6t4EqaPOeoiwzdZ2ZIw__"
+                            },
+                            "metaData": {
+                                "width": 2667,
+                                "height": 4000
+                            },
+                            "mediatype": "image"
+                        }
+                    ]
+                }
+            },
             {
-              "signedMedia": {
-                "largeImage": null,
-                "mediumImage": null,
-                "thumbnailImage": null,
-                "audioFile": "https://d1543yqhrt5eqo.cloudfront.net/public/sound/a2eb1e0f-415c-47f4-94ff-1c42874e6196.mp3?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=iPlen5aikXJ13VSPia129EBUZ7uTcLmuxefaPNcKdPmPVVDEqwISS~O6YGqoiNcKmWL9x4QROvv9UoWwBdvUu~nLA7K7bgW84qO1PfD2dJs9OHm3rn7KrgWIj8vVnoagsyQQnVvWC0s24tekMcFjdIH5atxIqx5c~aiaoQLNT1cOemyqtf6bdKdjq0aFv49G1nkBH01g2M7b0rlnEv6pgysyc2K7iPsfX1PPteHyDDsvzkHI8ObD333k1Rrjv-nSRzjsas9-xX0gkmDbs57BUn-XrmGWxyAgU7zAO-DKrKbIH2F6goryjoozCSP23bv0dzQME6GsFSKWR1zyxXcS6g__",
-                "videoFile": null
-              },
-              "metaData": {},
-              "mediatype": "sound"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Treasured Moments",
-        "description": "They remind us that storytelling is a way to connect generations and keep history alive.\n",
-        "date": "2025-04-23T07:08:52.857Z",
-        "location": "",
-        "media": {
-          "items": [
+                "title": "Long, Deep Conversations",
+                "description": "Sinking into a heartfelt conversation with someone who truly listens is soul-nourishing. There’s no need for performance or small talk—just honesty, curiosity, and connection. These talks remind me that I’m known and understood.\n",
+                "date": "2025-10-23T12:06:34.596Z",
+                "location": "",
+                "media": {
+                    "items": []
+                }
+            },
             {
-              "signedMedia": {
-                "largeImage": null,
-                "mediumImage": null,
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/public/video-thumbs/31004b96-a83f-430d-87d2-457085d794e5_1.jpeg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=xbRaHhTjk3IPp9Rf1DJagLCcWMiOdNMclPuwjJPf0NrlA~C57I2Q4nixxsHNUxNVoy~0m3bLfaSzB5Xf3-3w9jvkT9mycD8y7kNcZXs5SqE9kzef7x6SgNodLG9yX7ftiTrGV3F5BeAIzbMPVPLQDCxniugIYXbCGnG8Dup97IBV0dEqlztt4TEliCh~pgPiuofcV8Fb594Gdv5jSJSUfTD4WE3AMJPkOe6mIHQARQJyP36tu29JsISdOccyso2eYlcC85kZV83tC0X5UcTzTbfC0-v4U~lflStVHYDCSPrVLxT-KEqdsiJBtTLyHP5f7Ab3LMVPfsTZds-wLeQsWw__",
-                "audioFile": null,
-                "videoFile": "https://d1543yqhrt5eqo.cloudfront.net/public/video/31004b96-a83f-430d-87d2-457085d794e5.mp4?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=Lv86YROl75b5QVGE~33IfVtoPh9K2KTO0tu7AlYcJwTQd3qwadKasExuOFEOZOPtQLaZAx~NkJxMgTjLZw73xK8KEbvSILoAhfCYPBEtI2pPLJEsb75ktKRhSZQtIb2kLWm0C0MuBsquPrRkuPCbW7TXTvDzG06z8cj1XvLs0WIVz2wFVyfhgVaoQu9mhZ4gkcx3pBw5F8q953WxJLbwyI38FGul0Rbkh2uNauq1-OR0iJ9DBdl0dZySq75UoEJf0NNdcY3wqlNeFNfwkP8BseXJkVkaER6dhwgWV1L5sd6hukmysbXU2hKk58iynI6Vd6xMr7LO8IsQjMaxi5f~DA__"
-              },
-              "metaData": {},
-              "mediatype": "video"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Favourite childhood memory",
-        "description": "Playing games with my grandparents is always a delightful experience that fills my heart with joy. Every time I visit them, I can’t help but feel a rush of excitement knowing that we’ll gather around the table for some friendly competition. They have a treasure trove of classic board games, from Monopoly to Scrabble, each one holding countless memories of our time together. My grandfather, with his gentle teasing and strategic brilliance, always manages to keep me on my toes, while my grandmother brings her infectious laughter that lights up the room. As we shuffle cards or roll dice, the atmosphere is charged with warmth and nostalgia. I love hearing their stories from when they were younger, often inspired by the games we play. Each round is filled with laughter, playful banter, and occasionally, a bit of friendly rivalry. Sometimes, we even venture outside for a game of catch or a round of cards on the porch, surrounded by the beauty of nature. These moments remind me of the unbreakable bond we share, one that transcends generations. Playing games with my grandparents isn’t just about winning; it’s about creating cherished memories that I will carry with me forever.\n\n\nPlaying games with my grandparents is always a delightful experience that fills my heart with joy. Every time I visit them, I can’t help but feel a rush of excitement knowing that we’ll gather around the table for some friendly competition. They have a treasure trove of classic board games, from Monopoly to Scrabble, each one holding countless memories of our time together. My grandfather, with his gentle teasing and strategic brilliance, always manages to keep me on my toes, while my grandmother brings her infectious laughter that lights up the room. As we shuffle cards or roll dice, the atmosphere is charged with warmth and nostalgia. I love hearing their stories from when they were younger, often inspired by the games we play. Each round is filled with laughter, playful banter, and occasionally, a bit of friendly rivalry. Sometimes, we even venture outside for a game of catch or a round of cards on the porch, surrounded by the beauty of nature. These moments remind me of the unbreakable bond we share, one that transcends generations. Playing games with my grandparents isn’t just about winning; it’s about creating cherished memories that I will carry with me forever.\n\n\nPlaying games with my grandparents is always a delightful experience that fills my heart with joy. Every time I visit them, I can’t help but feel a rush of excitement knowing that we’ll gather around the table for some friendly competition. They have a treasure trove of classic board games, from Monopoly to Scrabble, each one holding countless memories of our time together. My grandfather, with his gentle teasing and strategic brilliance, always manages to keep me on my toes, while my grandmother brings her infectious laughter that lights up the room. As we shuffle cards or roll dice, the atmosphere is charged with warmth and nostalgia. I love hearing their stories from when they were younger, often inspired by the games we play. Each round is filled with laughter, playful banter, and occasionally, a bit of friendly rivalry. Sometimes, we even venture outside for a game of catch or a round of cards on the porch, surrounded by the beauty of nature. These moments remind me of the unbreakable bond we share, one that transcends generations. Playing games with my grandparents isn’t just about winning; it’s about creating cherished memories that I will carry with me forever.\n\n\nPlaying games with my grandparents is always a delightful experience that fills my heart with joy. Every time I visit them, I can’t help but feel a rush of excitement knowing that we’ll gather around the table for some friendly competition. They have a treasure trove of classic board games, from Monopoly to Scrabble, each one holding countless memories of our time together. My grandfather, with his gentle teasing and strategic brilliance, always manages to keep me on my toes, while my grandmother brings her infectious laughter that lights up the room. As we shuffle cards or roll dice, the atmosphere is charged with warmth and nostalgia. I love hearing their stories from when they were younger, often inspired by the games we play. Each round is filled with laughter, playful banter, and occasionally, a bit of friendly rivalry. Sometimes, we even venture outside for a game of catch or a round of cards on the porch, surrounded by the beauty of nature. These moments remind me of the unbreakable bond we share, one that transcends generations. Playing games with my grandparents isn’t just about winning; it’s about creating cherished memories that I will carry with me forever.\n\n\nPlaying games with my grandparents is always a delightful experience that fills my heart with joy. Every time I visit them, I can’t help but feel a rush of excitement knowing that we’ll gather around the table for some friendly competition. They have a treasure trove of classic board games, from Monopoly to Scrabble, each one holding countless memories of our time together. My grandfather, with his gentle teasing and strategic brilliance, always manages to keep me on my toes, while my grandmother brings her infectious laughter that lights up the room. As we shuffle cards or roll dice, the atmosphere is charged with warmth and nostalgia. I love hearing their stories from when they were younger, often inspired by the games we play. Each round is filled with laughter, playful banter, and occasionally, a bit of friendly rivalry. Sometimes, we even venture outside for a game of catch or a round of cards on the porch, surrounded by the beauty of nature. These moments remind me of the unbreakable bond we share, one that transcends generations. Playing games with my grandparents isn’t just about winning; it’s about creating cherished memories that I will carry with me forever.\n\n\nPlaying games with my grandparents is always a delightful experience that fills my heart with joy. Every time I visit them, I can’t help but feel a rush of excitement knowing that we’ll gather around the table for some friendly competition. They have a treasure trove of classic board games, from Monopoly to Scrabble, each one holding countless memories of our time together. My grandfather, with his gentle teasing and strategic brilliance, always manages to keep me on my toes, while my grandmother brings her infectious laughter that lights up the room. As we shuffle cards or roll dice, the atmosphere is charged with warmth and nostalgia. I love hearing their stories from when they were younger, often inspired by the games we play. Each round is filled with laughter, playful banter, and occasionally, a bit of friendly rivalry. Sometimes, we even venture outside for a game of catch or a round of cards on the porch, surrounded by the beauty of nature. These moments remind me of the unbreakable bond we share, one that transcends generations. Playing games with my grandparents isn’t just about winning; it’s about creating cherished memories that I will carry with me forever.\n\n\nPlaying games with my grandparents is always a delightful experience that fills my heart with joy. Every time I visit them, I can’t help but feel a rush of excitement knowing that we’ll gather around the table for some friendly competition. They have a treasure trove of classic board games, from Monopoly to Scrabble, each one holding countless memories of our time together. My grandfather, with his gentle teasing and strategic brilliance, always manages to keep me on my toes, while my grandmother brings her infectious laughter that lights up the room. As we shuffle cards or roll dice, the atmosphere is charged with warmth and nostalgia. I love hearing their stories from when they were younger, often inspired by the games we play. Each round is filled with laughter, playful banter, and occasionally, a bit of friendly rivalry. Sometimes, we even venture outside for a game of catch or a round of cards on the porch, surrounded by the beauty of nature. These moments remind me of the unbreakable bond we share, one that transcends generations. Playing games with my grandparents isn’t just about winning; it’s about creating cherished memories that I will carry with me forever.\n\n\nPlaying games with my grandparents is always a delightful experience that fills my heart with joy. Every time I visit them, I can’t help but feel a rush of excitement knowing that we’ll gather around the table for some friendly competition. They have a treasure trove of classic board games, from Monopoly to Scrabble, each one holding countless memories of our time together. My grandfather, with his gentle teasing and strategic brilliance, always manages to keep me on my toes, while my grandmother brings her infectious laughter that lights up the room. As we shuffle cards or roll dice, the atmosphere is charged with warmth and nostalgia. I love hearing their stories from when they were younger, often inspired by the games we play. Each round is filled with laughter, playful banter, and occasionally, a bit of friendly rivalry. Sometimes, we even venture outside for a game of catch or a round of cards on the porch, surrounded by the beauty of nature. These moments remind me of the unbreakable bond we share, one that transcends generations. Playing games with my grandparents isn’t just about winning; it’s about creating cherished memories that I will carry with me forever.\n",
-        "date": "2025-04-23T07:06:04.644Z",
-        "location": "",
-        "media": {
-          "items": [
+                "title": "Watching the Sky Change Colors",
+                "description": "There’s something magical about watching the sky at sunrise or sunset. The colors shift and blend, painting stories across the horizon. In those few minutes, the world feels softer, slower, and full of quiet beauty.\n",
+                "date": "2025-10-23T11:55:18.307Z",
+                "location": "",
+                "media": {
+                    "items": [
+                        {
+                            "signedMedia": {
+                                "audioFile": "https://d1hdaqk4elbxbd.cloudfront.net/public/video/46b77edf-d232-4511-9a68-6f62e09992e2.mp4?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=X4nKf7NS7PSTurg~V1C6QYGaW3mIBqRHILnC4vJDIHmfyStI5gpwF6ag-unO3OwZb60BQQm9gv5bZL44YCC6Y9sd7qLdNYaxwDT1-GxoAn6O0oa5lmZoDnn0Rq-7Z07qvdKtim6Nll3bNQP-nbhYM0ZOC6vQ1yT9dtRUakH9ewTTIdT~Djvswb~-1c4rLpam-EFDel-Ezjk2eRuhqGMSPuWXhJb-UyyRMs0tbqyjyiGVll4MxGCc~3vYrft6jqkyVMt9wbqSlsNg18U3h-jvUDU6VsSA-Oqp4AfzUvxXFqGJxIcabVeqhJ5cuaB2gkwszYvyvPeQxCxnclOAdPa~Sg__",
+                                "videoFile": "https://d1hdaqk4elbxbd.cloudfront.net/public/video/46b77edf-d232-4511-9a68-6f62e09992e2.mp4?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=X4nKf7NS7PSTurg~V1C6QYGaW3mIBqRHILnC4vJDIHmfyStI5gpwF6ag-unO3OwZb60BQQm9gv5bZL44YCC6Y9sd7qLdNYaxwDT1-GxoAn6O0oa5lmZoDnn0Rq-7Z07qvdKtim6Nll3bNQP-nbhYM0ZOC6vQ1yT9dtRUakH9ewTTIdT~Djvswb~-1c4rLpam-EFDel-Ezjk2eRuhqGMSPuWXhJb-UyyRMs0tbqyjyiGVll4MxGCc~3vYrft6jqkyVMt9wbqSlsNg18U3h-jvUDU6VsSA-Oqp4AfzUvxXFqGJxIcabVeqhJ5cuaB2gkwszYvyvPeQxCxnclOAdPa~Sg__",
+                                "largeImage": "https://d1hdaqk4elbxbd.cloudfront.net/public/video/46b77edf-d232-4511-9a68-6f62e09992e2.mp4?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=X4nKf7NS7PSTurg~V1C6QYGaW3mIBqRHILnC4vJDIHmfyStI5gpwF6ag-unO3OwZb60BQQm9gv5bZL44YCC6Y9sd7qLdNYaxwDT1-GxoAn6O0oa5lmZoDnn0Rq-7Z07qvdKtim6Nll3bNQP-nbhYM0ZOC6vQ1yT9dtRUakH9ewTTIdT~Djvswb~-1c4rLpam-EFDel-Ezjk2eRuhqGMSPuWXhJb-UyyRMs0tbqyjyiGVll4MxGCc~3vYrft6jqkyVMt9wbqSlsNg18U3h-jvUDU6VsSA-Oqp4AfzUvxXFqGJxIcabVeqhJ5cuaB2gkwszYvyvPeQxCxnclOAdPa~Sg__",
+                                "thumbnailImage": "https://s3.us-east-1.amazonaws.com/lugelo.dev.media/public/video-thumbs/46b77edf-d232-4511-9a68-6f62e09992e2_1.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIASV4WTLOVWL5GL5FW%2F20251117%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251117T055146Z&X-Amz-Expires=604800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIEtDEb2%2FV6GikL2lvikTuHnDdhQWALIcf75ae2anvzh5AiEAzIo7WBD1p%2B3P6xSqMueCxs%2FoKmVvShaehR5PS8xmr9sqjQMIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAEGgwxODQ0NjI1NjQyNjciDKaTVg274B%2B1WC4o1SrhAorrIbsBeRT6Ky82%2FBNC0w%2Fw6%2FFKQ1s9td832BjpG7fpTTphzYUTRM8SHgqF0X%2BXrEAJeKbUIATNuHd6j3NpPLiooZenMWqn%2BJwvn9cksdMRggmITD0oU1CLI4HWvKs5904qX4KkPczjgzswezYDJ4tik4HNfpcrPHo3W5R%2BvExK3iT8J71nPlQ7xOmB0%2BQ7dVpyk9frnthXMJ2om9%2FEamCVzzbwfpJnfrgasZcWqfLf4QVj8P2Ld3%2BYeFmI0UGvduxfOxUW7b4GW1UnibDkCe2ZXcFf9HAyR5WssC4Xo2OXwaHDxdJa5ZURfirfCPVlplBPokLzFERq%2FpqCATAD%2FqpR%2BgAopyWwdVcY%2Fasv06o6NzIjYp3jWUny0VXrW7w8kTM%2BAisrcLOLo78z6No7yLD%2FpQ4w%2Fi7FCrQY9lMlLGitTIeW3oWrQENZCfI9U9BXxXhfpxgANCC4%2FzbUkMt7KtnkMMTd6sgGOp4BNpkZpy49iso%2FtsBXLLyNIs5db3wADAWHMaOSDHU8jCi14oCBxKB%2BlTMEzgfc2wRzvtpJE0uaYj%2BRKNi9gj%2BF1D1eBkjQKK9fyFdvdPAV6IiDq%2BR4CVRPonJusBn9hqFJiDnXPkFQFw6zPhSc5CvaemyDj1QniKk6HseAjH9RKP%2BURlWCVk6aSg2ARj34O56Y0CPYxSEoIIIF%2FynuGBc%3D&X-Amz-Signature=b4054183dbf07cb938034611281b8e388c17a22ff1e062971ce3caec24c4e6c6&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                            },
+                            "metaData": {
+                                "width": 1080,
+                                "height": 1920,
+                                "duration": 7.125,
+                                "orientation": "portrait"
+                            },
+                            "mediatype": "video"
+                        }
+                    ]
+                }
+            },
             {
-              "signedMedia": {
-                "largeImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_ad48a82f-e215-44a8-88be-f3e118450ea2.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=MYkGf7Zz7g27BiyqSSMWv6NUru~PfhR2M0FPU58dnnBk~ovhnu9iyrAGMjK8J~myQ7RjUFRvEPYaWZcXC9TPVE7CxDIgV4FiKcd0oqdA~-mME~3UW~yR5P23kKX2dzZyB7cA3J6sQTG6iSEUlz-074bFfwFjmG~Vy48tekdJ7a~Izp4N9mABqjSvBZkrEj1z1CJWDTZO5sMdoLGRgywpdaxJBJsB7lIr1OAasRdD0xZlPQAD81v9oimGwjA0qBdZkLXpjDguwZR-tHwl9YTueq8ffMVfM8w5V-P~yPBFVwS616PlST0OJ9-CaxsTRyTpOrlZB3w0qVDTYgO8zfKs0g__",
-                "mediumImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/medium/V2_ad48a82f-e215-44a8-88be-f3e118450ea2.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=MYkGf7Zz7g27BiyqSSMWv6NUru~PfhR2M0FPU58dnnBk~ovhnu9iyrAGMjK8J~myQ7RjUFRvEPYaWZcXC9TPVE7CxDIgV4FiKcd0oqdA~-mME~3UW~yR5P23kKX2dzZyB7cA3J6sQTG6iSEUlz-074bFfwFjmG~Vy48tekdJ7a~Izp4N9mABqjSvBZkrEj1z1CJWDTZO5sMdoLGRgywpdaxJBJsB7lIr1OAasRdD0xZlPQAD81v9oimGwjA0qBdZkLXpjDguwZR-tHwl9YTueq8ffMVfM8w5V-P~yPBFVwS616PlST0OJ9-CaxsTRyTpOrlZB3w0qVDTYgO8zfKs0g__",
-                "thumbnailImage": "https://d1543yqhrt5eqo.cloudfront.net/resizedImages/thumbnail/V2_ad48a82f-e215-44a8-88be-f3e118450ea2.jpg?Expires=1754030455&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=eHj64MoF~xbrrIBHJYJQ5xXH3WZ270SMI9amT7BVRTTFYZxigaIzpijwIg-OcsGWpDBkVpf17mk8k9dCrdIF2KQ0zc1QdcSHcZIBJOaxIn7Eh20XAE2w1ChJkT1jxhTR861fGO2s7G9PVIzpW~5MaNdqxmd3Pc~uFfrrRqEMkYNn74HtJY526dqh96bmVA0UzXYral6QGxRm~KkSgT7FnTPdqKuKwAiky5ItqfSNSda~cDvZsIrLIWMdUXihBm1pqPRrTho8KC2WJnRQRwVNfIaGGPx0VsOCzmvnlDZKNTwpPCdhSD8ZRIcEKfo7PKu3J46KUl-GLpT1WB2z6CQCnQ__",
-                "audioFile": null,
-                "videoFile": null
-              },
-              "metaData": {
-                "width": 640,
-                "height": 960,
-                "orientation": "portrait"
-              },
-              "mediatype": "image"
+                "title": "Finishing a Task I’ve Been Avoiding",
+                "description": "Finally completing something I’ve been putting off gives me a deep sense of relief. It’s not just about the task—it’s about showing myself that I’m capable. That tiny act of follow-through lifts a surprising weight off my shoulders.\n",
+                "date": "2025-10-23T11:54:40.807Z",
+                "location": "",
+                "media": {
+                    "items": [
+                        {
+                            "signedMedia": {
+                                "audioFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/4fdaafa8-b280-4d3b-a64f-6d1bb8553a73.jpg?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=mMNhslBOrdTKfdmFUlU8QXm62dRwh3b1Ts2nvpNiOvpHMajcOilp1UmWEdlfjfyMRIU~YNlOwbZNmvnKctaDppW-V7Vj-gN1LSTvEZDxcBG9upaQPJ2yucXPWYY-8RdxV2OfVtZfYD1wM3BxTiZzZTHDlKTBozgnVpHBZRKux26L6l2KSUo9~KMs5BTtX5XsRTvQc~26cm7ppRQjNsVLhJ31ly8OWIhoTngF8CpJR3inMmGAjcE4ZA4JHtE7d9Vfk8uGPQakT9EXnV2pRBB70aZmTMQSYgqUeJFm0Z8p-sNHpmAJUbJPNQw17cinMEh5a8Fe6ftHAUbaugy~cb2iTA__",
+                                "videoFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/4fdaafa8-b280-4d3b-a64f-6d1bb8553a73.jpg?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=mMNhslBOrdTKfdmFUlU8QXm62dRwh3b1Ts2nvpNiOvpHMajcOilp1UmWEdlfjfyMRIU~YNlOwbZNmvnKctaDppW-V7Vj-gN1LSTvEZDxcBG9upaQPJ2yucXPWYY-8RdxV2OfVtZfYD1wM3BxTiZzZTHDlKTBozgnVpHBZRKux26L6l2KSUo9~KMs5BTtX5XsRTvQc~26cm7ppRQjNsVLhJ31ly8OWIhoTngF8CpJR3inMmGAjcE4ZA4JHtE7d9Vfk8uGPQakT9EXnV2pRBB70aZmTMQSYgqUeJFm0Z8p-sNHpmAJUbJPNQw17cinMEh5a8Fe6ftHAUbaugy~cb2iTA__",
+                                "largeImage": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/4fdaafa8-b280-4d3b-a64f-6d1bb8553a73.jpg?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=mMNhslBOrdTKfdmFUlU8QXm62dRwh3b1Ts2nvpNiOvpHMajcOilp1UmWEdlfjfyMRIU~YNlOwbZNmvnKctaDppW-V7Vj-gN1LSTvEZDxcBG9upaQPJ2yucXPWYY-8RdxV2OfVtZfYD1wM3BxTiZzZTHDlKTBozgnVpHBZRKux26L6l2KSUo9~KMs5BTtX5XsRTvQc~26cm7ppRQjNsVLhJ31ly8OWIhoTngF8CpJR3inMmGAjcE4ZA4JHtE7d9Vfk8uGPQakT9EXnV2pRBB70aZmTMQSYgqUeJFm0Z8p-sNHpmAJUbJPNQw17cinMEh5a8Fe6ftHAUbaugy~cb2iTA__"
+                            },
+                            "metaData": {
+                                "width": 7680,
+                                "height": 5120
+                            },
+                            "mediatype": "image"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Scent of Something Familiar",
+                "description": "A familiar scent—fresh rain, baking bread, a loved one’s perfume—can stop me in my tracks. It pulls me into the past in an instant, wrapping me in a memory I didn’t even know I missed. It’s like my senses are telling me, “You’re home.\n",
+                "date": "2025-10-23T11:47:19.402Z",
+                "location": "",
+                "media": {
+                    "items": [
+                        {
+                            "signedMedia": {
+                                "audioFile": "https://d1hdaqk4elbxbd.cloudfront.net/public/video/93c8e58b-a578-4572-9ea4-2d0993843a08.mp4?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=XU-yYoenJ3dmdP0Ma8Vzx6KPFhPdVzxvzx-IH93v0nKCA7Aw-GBafJowhl2FLJjzeZOX8rDGqx1DDz5hA7~Fc7e4Kn~zW3XinPaILYy0ArL-mmtyAOQiMdHi5WVuXhSfiOx~PP18s1SgwK9RZ1UXqEG27X6GcCB5tn5bpboSlCcrFnvn3J5dkjU81kzhgnKA7UO6nGa9OnDz5Zp9YmUaAm-rRnTiQ4iDQUZgDEDdyb1qHDUhwjdW1oRnsQTSw-oIcz0aYL-ZrBUXlpeIsC7IT54oEhfuTUgSHNzPsjkxa4MFu37KmsNfDV2B-LMPbrny6rxVfTk~0ZPl-nr884H15g__",
+                                "videoFile": "https://d1hdaqk4elbxbd.cloudfront.net/public/video/93c8e58b-a578-4572-9ea4-2d0993843a08.mp4?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=XU-yYoenJ3dmdP0Ma8Vzx6KPFhPdVzxvzx-IH93v0nKCA7Aw-GBafJowhl2FLJjzeZOX8rDGqx1DDz5hA7~Fc7e4Kn~zW3XinPaILYy0ArL-mmtyAOQiMdHi5WVuXhSfiOx~PP18s1SgwK9RZ1UXqEG27X6GcCB5tn5bpboSlCcrFnvn3J5dkjU81kzhgnKA7UO6nGa9OnDz5Zp9YmUaAm-rRnTiQ4iDQUZgDEDdyb1qHDUhwjdW1oRnsQTSw-oIcz0aYL-ZrBUXlpeIsC7IT54oEhfuTUgSHNzPsjkxa4MFu37KmsNfDV2B-LMPbrny6rxVfTk~0ZPl-nr884H15g__",
+                                "largeImage": "https://d1hdaqk4elbxbd.cloudfront.net/public/video/93c8e58b-a578-4572-9ea4-2d0993843a08.mp4?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=XU-yYoenJ3dmdP0Ma8Vzx6KPFhPdVzxvzx-IH93v0nKCA7Aw-GBafJowhl2FLJjzeZOX8rDGqx1DDz5hA7~Fc7e4Kn~zW3XinPaILYy0ArL-mmtyAOQiMdHi5WVuXhSfiOx~PP18s1SgwK9RZ1UXqEG27X6GcCB5tn5bpboSlCcrFnvn3J5dkjU81kzhgnKA7UO6nGa9OnDz5Zp9YmUaAm-rRnTiQ4iDQUZgDEDdyb1qHDUhwjdW1oRnsQTSw-oIcz0aYL-ZrBUXlpeIsC7IT54oEhfuTUgSHNzPsjkxa4MFu37KmsNfDV2B-LMPbrny6rxVfTk~0ZPl-nr884H15g__",
+                                "thumbnailImage": "https://s3.us-east-1.amazonaws.com/lugelo.dev.media/public/video-thumbs/93c8e58b-a578-4572-9ea4-2d0993843a08_1.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIASV4WTLOVWL5GL5FW%2F20251117%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251117T055146Z&X-Amz-Expires=604800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIEtDEb2%2FV6GikL2lvikTuHnDdhQWALIcf75ae2anvzh5AiEAzIo7WBD1p%2B3P6xSqMueCxs%2FoKmVvShaehR5PS8xmr9sqjQMIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAEGgwxODQ0NjI1NjQyNjciDKaTVg274B%2B1WC4o1SrhAorrIbsBeRT6Ky82%2FBNC0w%2Fw6%2FFKQ1s9td832BjpG7fpTTphzYUTRM8SHgqF0X%2BXrEAJeKbUIATNuHd6j3NpPLiooZenMWqn%2BJwvn9cksdMRggmITD0oU1CLI4HWvKs5904qX4KkPczjgzswezYDJ4tik4HNfpcrPHo3W5R%2BvExK3iT8J71nPlQ7xOmB0%2BQ7dVpyk9frnthXMJ2om9%2FEamCVzzbwfpJnfrgasZcWqfLf4QVj8P2Ld3%2BYeFmI0UGvduxfOxUW7b4GW1UnibDkCe2ZXcFf9HAyR5WssC4Xo2OXwaHDxdJa5ZURfirfCPVlplBPokLzFERq%2FpqCATAD%2FqpR%2BgAopyWwdVcY%2Fasv06o6NzIjYp3jWUny0VXrW7w8kTM%2BAisrcLOLo78z6No7yLD%2FpQ4w%2Fi7FCrQY9lMlLGitTIeW3oWrQENZCfI9U9BXxXhfpxgANCC4%2FzbUkMt7KtnkMMTd6sgGOp4BNpkZpy49iso%2FtsBXLLyNIs5db3wADAWHMaOSDHU8jCi14oCBxKB%2BlTMEzgfc2wRzvtpJE0uaYj%2BRKNi9gj%2BF1D1eBkjQKK9fyFdvdPAV6IiDq%2BR4CVRPonJusBn9hqFJiDnXPkFQFw6zPhSc5CvaemyDj1QniKk6HseAjH9RKP%2BURlWCVk6aSg2ARj34O56Y0CPYxSEoIIIF%2FynuGBc%3D&X-Amz-Signature=6b7bd84e80997572f86da4cfefa9bc1e72dbb231bb7eabbc11840830c0f1f974&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                            },
+                            "metaData": {
+                                "width": 1440,
+                                "height": 1920,
+                                "duration": 10.068333,
+                                "orientation": "portrait"
+                            },
+                            "mediatype": "video"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Finding a Forgotten Note",
+                "description": "Stumbling upon an old photo or note tucked away somewhere is like receiving a gift from the past. Suddenly, I’m transported to a memory I hadn’t thought of in years. It brings a wave of warmth, nostalgia, and proof that I’ve lived moments worth remembering.\n",
+                "date": "2025-10-23T11:44:22.773Z",
+                "location": "",
+                "media": {
+                    "items": [
+                        {
+                            "signedMedia": {
+                                "audioFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/05527e2b-6a57-4231-9ac5-a133f40714a8.jpg?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=RmD5vWw7BtOK6XI~e75w3NbaR9UR0ZRqBi-pQi9CWcHSHaYphjDvN5dcNyoWvGHXU1UpP25k~9nBnwrhPlPA4yig~-QMmQmmZ4KEVrv3HiiyGdqvvX8nLeHuHFj88lRkNmWREWp8~Ef5HJfscPuqRfaY1zggCb~qBjFd4CFT8TNHMZxf5Ara1jAfUfpQql~9EPpDbS9fB-YEVcgtNsJhnNqu2jpTCmQzDtjtvBNBe3fNfweTqKbBVLm2x7Xd5cpyYY8QeqCF0lXHd6F0Pf6AiJmpxc~aERxDlOklR3RY1PuJBv~hKBUwU06v7YBE0EnmqJOeKPIA7mQXp5n8e44-Ng__",
+                                "videoFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/05527e2b-6a57-4231-9ac5-a133f40714a8.jpg?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=RmD5vWw7BtOK6XI~e75w3NbaR9UR0ZRqBi-pQi9CWcHSHaYphjDvN5dcNyoWvGHXU1UpP25k~9nBnwrhPlPA4yig~-QMmQmmZ4KEVrv3HiiyGdqvvX8nLeHuHFj88lRkNmWREWp8~Ef5HJfscPuqRfaY1zggCb~qBjFd4CFT8TNHMZxf5Ara1jAfUfpQql~9EPpDbS9fB-YEVcgtNsJhnNqu2jpTCmQzDtjtvBNBe3fNfweTqKbBVLm2x7Xd5cpyYY8QeqCF0lXHd6F0Pf6AiJmpxc~aERxDlOklR3RY1PuJBv~hKBUwU06v7YBE0EnmqJOeKPIA7mQXp5n8e44-Ng__",
+                                "largeImage": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/05527e2b-6a57-4231-9ac5-a133f40714a8.jpg?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=RmD5vWw7BtOK6XI~e75w3NbaR9UR0ZRqBi-pQi9CWcHSHaYphjDvN5dcNyoWvGHXU1UpP25k~9nBnwrhPlPA4yig~-QMmQmmZ4KEVrv3HiiyGdqvvX8nLeHuHFj88lRkNmWREWp8~Ef5HJfscPuqRfaY1zggCb~qBjFd4CFT8TNHMZxf5Ara1jAfUfpQql~9EPpDbS9fB-YEVcgtNsJhnNqu2jpTCmQzDtjtvBNBe3fNfweTqKbBVLm2x7Xd5cpyYY8QeqCF0lXHd6F0Pf6AiJmpxc~aERxDlOklR3RY1PuJBv~hKBUwU06v7YBE0EnmqJOeKPIA7mQXp5n8e44-Ng__"
+                            },
+                            "metaData": {
+                                "width": 6000,
+                                "height": 4000
+                            },
+                            "mediatype": "image"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "A Kind Message from a Friend",
+                "description": "When someone sends a message just to check in, my heart softens. It’s a small gesture with big meaning—a reminder that I’m not alone, not forgotten. Those few words can light up even the darkest day.\n",
+                "date": "2025-10-23T11:43:04.338Z",
+                "location": "",
+                "media": {
+                    "items": []
+                }
+            },
+            {
+                "title": "Rain Tapping on the Window",
+                "description": "Rain tapping gently against the glass creates a rhythm that soothes my restless mind. Watching droplets slide down the pane, I feel a kind of cozy detachment from the chaos of the world. It’s a moment of calm where I can just be, without needing to do.\n",
+                "date": "2025-10-23T11:42:18.568Z",
+                "location": "",
+                "media": {
+                    "items": [
+                        {
+                            "signedMedia": {
+                                "audioFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/0df9eb9a-b350-4462-a935-c84cbbb77343.jpg?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=prYPLnH049iXjnx5XU35-qVfG5GAY~IXQoOiYVDu48BWBe3V6TDZDHfyXLd5worakQlb8gwC6ftNDZfIRmxIxarl~iEfpZL1nS6YYggpvvupPIAKRRSjkslcZ-MiGuwSCqkw9cp8sT~RVSZwprcxzg4P~q-MiceXkofuIwZ0mlJJrCh-a7bNpC~hHXBNSvLJBR0a3oCfDIncpsi0WTpEWC6qH3-TGyEKEhEcPd7MggoCWjJ3GD-dB~~Uns4EELrq~SkzevRg4TvmJCJUnqrjgiBnPbzRp~PzwisRYve5HkDElVde7y5CLyrTGXWuRvdDbBpgt7mbXe6bRov4n0NDmA__",
+                                "videoFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/0df9eb9a-b350-4462-a935-c84cbbb77343.jpg?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=prYPLnH049iXjnx5XU35-qVfG5GAY~IXQoOiYVDu48BWBe3V6TDZDHfyXLd5worakQlb8gwC6ftNDZfIRmxIxarl~iEfpZL1nS6YYggpvvupPIAKRRSjkslcZ-MiGuwSCqkw9cp8sT~RVSZwprcxzg4P~q-MiceXkofuIwZ0mlJJrCh-a7bNpC~hHXBNSvLJBR0a3oCfDIncpsi0WTpEWC6qH3-TGyEKEhEcPd7MggoCWjJ3GD-dB~~Uns4EELrq~SkzevRg4TvmJCJUnqrjgiBnPbzRp~PzwisRYve5HkDElVde7y5CLyrTGXWuRvdDbBpgt7mbXe6bRov4n0NDmA__",
+                                "largeImage": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/0df9eb9a-b350-4462-a935-c84cbbb77343.jpg?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=prYPLnH049iXjnx5XU35-qVfG5GAY~IXQoOiYVDu48BWBe3V6TDZDHfyXLd5worakQlb8gwC6ftNDZfIRmxIxarl~iEfpZL1nS6YYggpvvupPIAKRRSjkslcZ-MiGuwSCqkw9cp8sT~RVSZwprcxzg4P~q-MiceXkofuIwZ0mlJJrCh-a7bNpC~hHXBNSvLJBR0a3oCfDIncpsi0WTpEWC6qH3-TGyEKEhEcPd7MggoCWjJ3GD-dB~~Uns4EELrq~SkzevRg4TvmJCJUnqrjgiBnPbzRp~PzwisRYve5HkDElVde7y5CLyrTGXWuRvdDbBpgt7mbXe6bRov4n0NDmA__"
+                            },
+                            "metaData": {
+                                "width": 3264,
+                                "height": 4896
+                            },
+                            "mediatype": "image"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Getting Lost in a Good Book",
+                "description": "The moment I fall into the world of a book, everything else fades. Time pauses, worries disappear, and I live inside the story. It’s not just about escape—it’s about discovery, transformation, and feeling deeply connected to something bigger.\n",
+                "date": "2025-10-23T11:41:27.785Z",
+                "location": "",
+                "media": {
+                    "items": [
+                        {
+                            "signedMedia": {
+                                "audioFile": "https://d1hdaqk4elbxbd.cloudfront.net/public/video/49154477-55e1-4caa-857e-077dfd8eae78.mp4?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=nmEO7DK3ssk-KXMl~yh3Y9OhO-dLta-djNma5laTavNUZ3rZfces4KAqSBsmxo4VHl5m1kDpxVc1rd5Wm6HM6t9IJEj~CA4lM25pvxmOYXq~50gq7VesskJIR35MW1e~LglnGnKU-7lqL5xJxt2X60unl8gAI6-TSwZpkvyv9Mr4fdTR9NhR~wNVxM8wZRJNWoeqhsUs1zJUqMugtQb19VVVWDVpJWUPTsIgsYveBWTgDYuD-GHg8M3Z9zgeY3XzhQdssrvDrKMuGXbDzHTjb2-~5PEgMXu-SOufDGFLgTvIN4np4qJ2FGPJildubxy8cj89XL4IYCd1DLwnCOnY4Q__",
+                                "videoFile": "https://d1hdaqk4elbxbd.cloudfront.net/public/video/49154477-55e1-4caa-857e-077dfd8eae78.mp4?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=nmEO7DK3ssk-KXMl~yh3Y9OhO-dLta-djNma5laTavNUZ3rZfces4KAqSBsmxo4VHl5m1kDpxVc1rd5Wm6HM6t9IJEj~CA4lM25pvxmOYXq~50gq7VesskJIR35MW1e~LglnGnKU-7lqL5xJxt2X60unl8gAI6-TSwZpkvyv9Mr4fdTR9NhR~wNVxM8wZRJNWoeqhsUs1zJUqMugtQb19VVVWDVpJWUPTsIgsYveBWTgDYuD-GHg8M3Z9zgeY3XzhQdssrvDrKMuGXbDzHTjb2-~5PEgMXu-SOufDGFLgTvIN4np4qJ2FGPJildubxy8cj89XL4IYCd1DLwnCOnY4Q__",
+                                "largeImage": "https://d1hdaqk4elbxbd.cloudfront.net/public/video/49154477-55e1-4caa-857e-077dfd8eae78.mp4?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=nmEO7DK3ssk-KXMl~yh3Y9OhO-dLta-djNma5laTavNUZ3rZfces4KAqSBsmxo4VHl5m1kDpxVc1rd5Wm6HM6t9IJEj~CA4lM25pvxmOYXq~50gq7VesskJIR35MW1e~LglnGnKU-7lqL5xJxt2X60unl8gAI6-TSwZpkvyv9Mr4fdTR9NhR~wNVxM8wZRJNWoeqhsUs1zJUqMugtQb19VVVWDVpJWUPTsIgsYveBWTgDYuD-GHg8M3Z9zgeY3XzhQdssrvDrKMuGXbDzHTjb2-~5PEgMXu-SOufDGFLgTvIN4np4qJ2FGPJildubxy8cj89XL4IYCd1DLwnCOnY4Q__",
+                                "thumbnailImage": "https://s3.us-east-1.amazonaws.com/lugelo.dev.media/public/video-thumbs/49154477-55e1-4caa-857e-077dfd8eae78_1.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIASV4WTLOVWL5GL5FW%2F20251117%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251117T055146Z&X-Amz-Expires=604800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIEtDEb2%2FV6GikL2lvikTuHnDdhQWALIcf75ae2anvzh5AiEAzIo7WBD1p%2B3P6xSqMueCxs%2FoKmVvShaehR5PS8xmr9sqjQMIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAEGgwxODQ0NjI1NjQyNjciDKaTVg274B%2B1WC4o1SrhAorrIbsBeRT6Ky82%2FBNC0w%2Fw6%2FFKQ1s9td832BjpG7fpTTphzYUTRM8SHgqF0X%2BXrEAJeKbUIATNuHd6j3NpPLiooZenMWqn%2BJwvn9cksdMRggmITD0oU1CLI4HWvKs5904qX4KkPczjgzswezYDJ4tik4HNfpcrPHo3W5R%2BvExK3iT8J71nPlQ7xOmB0%2BQ7dVpyk9frnthXMJ2om9%2FEamCVzzbwfpJnfrgasZcWqfLf4QVj8P2Ld3%2BYeFmI0UGvduxfOxUW7b4GW1UnibDkCe2ZXcFf9HAyR5WssC4Xo2OXwaHDxdJa5ZURfirfCPVlplBPokLzFERq%2FpqCATAD%2FqpR%2BgAopyWwdVcY%2Fasv06o6NzIjYp3jWUny0VXrW7w8kTM%2BAisrcLOLo78z6No7yLD%2FpQ4w%2Fi7FCrQY9lMlLGitTIeW3oWrQENZCfI9U9BXxXhfpxgANCC4%2FzbUkMt7KtnkMMTd6sgGOp4BNpkZpy49iso%2FtsBXLLyNIs5db3wADAWHMaOSDHU8jCi14oCBxKB%2BlTMEzgfc2wRzvtpJE0uaYj%2BRKNi9gj%2BF1D1eBkjQKK9fyFdvdPAV6IiDq%2BR4CVRPonJusBn9hqFJiDnXPkFQFw6zPhSc5CvaemyDj1QniKk6HseAjH9RKP%2BURlWCVk6aSg2ARj34O56Y0CPYxSEoIIIF%2FynuGBc%3D&X-Amz-Signature=3f61d2f5e642f65ff53187e0f40f2e1ba0ceb35f33351a3ce879dcb945f2b08e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                            },
+                            "metaData": {
+                                "width": 3840,
+                                "height": 2160,
+                                "duration": 14.25,
+                                "orientation": "landscape"
+                            },
+                            "mediatype": "video"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Unplanned Laughter",
+                "description": "In the quest for happiness, we often find ourselves searching in all the conventional places—success, relationships, or material possessions—believing these elements will bring lasting joy. However, \"Where My Happiness Hides\" invites us to take a step back and explore the more elusive or unexpected realms where happiness quietly resides. It suggests that happiness is not always a grand, overt emotion; sometimes, it sneaks up on us in the quiet moments of life. Picture the warmth of sunlight filtering through the leaves on a crisp autumn day, the sound of laughter echoing from a distant playground, or the simple act of sharing a meal with loved ones. These pockets of joy often occur when we are disengaged from our pursuits of achievement, allowing us to embrace the present moment. This exploration encourages us to cultivate mindfulness, reminding us that happiness can thrive in the mundane, in acts of kindness, and in connections with others. It teaches us that by letting go of our incessant striving and tuning into our surroundings, we can discover the subtle and often overlooked sources of joy that enrich our lives in profound ways. Happiness often hides in plain sight, waiting for us to notice its gentle presence.\n\n\nUncontrollable, belly-deep laughter that erupts without warning is pure medicine. It arrives in moments I least expect—silly jokes, shared glances, memories resurfaced. In that flash of joy, I forget everything heavy and feel wildly, wonderfully free.\n\n\nUncontrollable, belly-deep laughter that erupts without warning is pure medicine. It arrives in moments I least expect—silly jokes, shared glances, memories resurfaced. In that flash of joy, I forget everything heavy and feel wildly, wonderfully free.\n",
+                "date": "2025-10-23T11:40:15.496Z",
+                "location": "",
+                "media": {
+                    "items": [
+                        {
+                            "signedMedia": {
+                                "audioFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/e899a96a-f3dd-461d-bc52-4ae5c9017db1.jpg?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=kc816awp42-JsTv~zu-fh0e1NG6hfY7Zrz-KUaP8SlbqVVaDtFTYlgvikAezpE0GAflZksB-PnUkaPTMotDWOsnc8EhVrEKeL360eSDRx18WUaYAK3~rluhoSfYOY0HsHVGU7P65gntliG3DcnLDEkBkQWBKyHIThLkPNT5s7lAP-twDcGI0iw83W7sbT09eqSA~J4W2AxBP3dAuPupzkeLwVC1MVvwWDSKY8-2qIyYePQa4ri1yq6kP8LRvTmwmTmr2l9dP0ac71F6KMlAWBBEhryq0VEDbPNGE8RLq3HxDVQAa1tz7Oua7QggfEfCE5U4IFcbCjdvfJSZXsK2xeA__",
+                                "videoFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/e899a96a-f3dd-461d-bc52-4ae5c9017db1.jpg?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=kc816awp42-JsTv~zu-fh0e1NG6hfY7Zrz-KUaP8SlbqVVaDtFTYlgvikAezpE0GAflZksB-PnUkaPTMotDWOsnc8EhVrEKeL360eSDRx18WUaYAK3~rluhoSfYOY0HsHVGU7P65gntliG3DcnLDEkBkQWBKyHIThLkPNT5s7lAP-twDcGI0iw83W7sbT09eqSA~J4W2AxBP3dAuPupzkeLwVC1MVvwWDSKY8-2qIyYePQa4ri1yq6kP8LRvTmwmTmr2l9dP0ac71F6KMlAWBBEhryq0VEDbPNGE8RLq3HxDVQAa1tz7Oua7QggfEfCE5U4IFcbCjdvfJSZXsK2xeA__",
+                                "largeImage": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/e899a96a-f3dd-461d-bc52-4ae5c9017db1.jpg?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=kc816awp42-JsTv~zu-fh0e1NG6hfY7Zrz-KUaP8SlbqVVaDtFTYlgvikAezpE0GAflZksB-PnUkaPTMotDWOsnc8EhVrEKeL360eSDRx18WUaYAK3~rluhoSfYOY0HsHVGU7P65gntliG3DcnLDEkBkQWBKyHIThLkPNT5s7lAP-twDcGI0iw83W7sbT09eqSA~J4W2AxBP3dAuPupzkeLwVC1MVvwWDSKY8-2qIyYePQa4ri1yq6kP8LRvTmwmTmr2l9dP0ac71F6KMlAWBBEhryq0VEDbPNGE8RLq3HxDVQAa1tz7Oua7QggfEfCE5U4IFcbCjdvfJSZXsK2xeA__"
+                            },
+                            "metaData": {
+                                "width": 1920,
+                                "height": 1280
+                            },
+                            "mediatype": "image"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Dogs Wagging Their Tails at Me",
+                "description": "A dog’s joyful tail wag, offered without reason or condition, lights me up inside. They don’t need to know me to love me; their affection is pure and immediate. In their happy greeting, I’m reminded that sometimes, love is just that simple.\n",
+                "date": "2025-10-16T08:20:12.000Z",
+                "location": "",
+                "media": {
+                    "items": [
+                        {
+                            "signedMedia": {
+                                "audioFile": "https://d1hdaqk4elbxbd.cloudfront.net/public/video/db5ac0ca-aeca-43a9-aa0d-148c611feca1.mp4?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=NjOAanIM0-MQmEaD9AAjLjf4Nrh5MyguuYvVBV-ZseIJz0LNUZBLLD5PJNVRUXwgs9HhU80UVCY59O3l6mOyTXu-oQEWCqUkIVPCNfiTmsoDWFsPN0LTSqeMs~f5T2PXfNCDkjwnjX7Km81VvneCok5E0bzSDLU~~QIXwQDWnNRQOHNAusMN8A0UPufZa9c3o86g-QstUfY6quIT7U9DO7HMf9bIb94HCOmwczYc7QK4sIqn~qLpE1VLTK0Y2uGrdWDopQhUm13dq9bkj~niuA9EoSb3~NUD945XXT3qXDRVdP8e8j6G1PDUrUyg7VmNSPCUN1nHSEWvdUgDPD4L7Q__",
+                                "videoFile": "https://d1hdaqk4elbxbd.cloudfront.net/public/video/db5ac0ca-aeca-43a9-aa0d-148c611feca1.mp4?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=NjOAanIM0-MQmEaD9AAjLjf4Nrh5MyguuYvVBV-ZseIJz0LNUZBLLD5PJNVRUXwgs9HhU80UVCY59O3l6mOyTXu-oQEWCqUkIVPCNfiTmsoDWFsPN0LTSqeMs~f5T2PXfNCDkjwnjX7Km81VvneCok5E0bzSDLU~~QIXwQDWnNRQOHNAusMN8A0UPufZa9c3o86g-QstUfY6quIT7U9DO7HMf9bIb94HCOmwczYc7QK4sIqn~qLpE1VLTK0Y2uGrdWDopQhUm13dq9bkj~niuA9EoSb3~NUD945XXT3qXDRVdP8e8j6G1PDUrUyg7VmNSPCUN1nHSEWvdUgDPD4L7Q__",
+                                "largeImage": "https://d1hdaqk4elbxbd.cloudfront.net/public/video/db5ac0ca-aeca-43a9-aa0d-148c611feca1.mp4?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=NjOAanIM0-MQmEaD9AAjLjf4Nrh5MyguuYvVBV-ZseIJz0LNUZBLLD5PJNVRUXwgs9HhU80UVCY59O3l6mOyTXu-oQEWCqUkIVPCNfiTmsoDWFsPN0LTSqeMs~f5T2PXfNCDkjwnjX7Km81VvneCok5E0bzSDLU~~QIXwQDWnNRQOHNAusMN8A0UPufZa9c3o86g-QstUfY6quIT7U9DO7HMf9bIb94HCOmwczYc7QK4sIqn~qLpE1VLTK0Y2uGrdWDopQhUm13dq9bkj~niuA9EoSb3~NUD945XXT3qXDRVdP8e8j6G1PDUrUyg7VmNSPCUN1nHSEWvdUgDPD4L7Q__",
+                                "thumbnailImage": "https://s3.us-east-1.amazonaws.com/lugelo.dev.media/public/video-thumbs/db5ac0ca-aeca-43a9-aa0d-148c611feca1_1.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIASV4WTLOVWL5GL5FW%2F20251117%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251117T055146Z&X-Amz-Expires=604800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIEtDEb2%2FV6GikL2lvikTuHnDdhQWALIcf75ae2anvzh5AiEAzIo7WBD1p%2B3P6xSqMueCxs%2FoKmVvShaehR5PS8xmr9sqjQMIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAEGgwxODQ0NjI1NjQyNjciDKaTVg274B%2B1WC4o1SrhAorrIbsBeRT6Ky82%2FBNC0w%2Fw6%2FFKQ1s9td832BjpG7fpTTphzYUTRM8SHgqF0X%2BXrEAJeKbUIATNuHd6j3NpPLiooZenMWqn%2BJwvn9cksdMRggmITD0oU1CLI4HWvKs5904qX4KkPczjgzswezYDJ4tik4HNfpcrPHo3W5R%2BvExK3iT8J71nPlQ7xOmB0%2BQ7dVpyk9frnthXMJ2om9%2FEamCVzzbwfpJnfrgasZcWqfLf4QVj8P2Ld3%2BYeFmI0UGvduxfOxUW7b4GW1UnibDkCe2ZXcFf9HAyR5WssC4Xo2OXwaHDxdJa5ZURfirfCPVlplBPokLzFERq%2FpqCATAD%2FqpR%2BgAopyWwdVcY%2Fasv06o6NzIjYp3jWUny0VXrW7w8kTM%2BAisrcLOLo78z6No7yLD%2FpQ4w%2Fi7FCrQY9lMlLGitTIeW3oWrQENZCfI9U9BXxXhfpxgANCC4%2FzbUkMt7KtnkMMTd6sgGOp4BNpkZpy49iso%2FtsBXLLyNIs5db3wADAWHMaOSDHU8jCi14oCBxKB%2BlTMEzgfc2wRzvtpJE0uaYj%2BRKNi9gj%2BF1D1eBkjQKK9fyFdvdPAV6IiDq%2BR4CVRPonJusBn9hqFJiDnXPkFQFw6zPhSc5CvaemyDj1QniKk6HseAjH9RKP%2BURlWCVk6aSg2ARj34O56Y0CPYxSEoIIIF%2FynuGBc%3D&X-Amz-Signature=438cd2b3819ed7fb0a5f2972ef71fac19a046d01d43062a65c4ed7d1d2ece19b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                            },
+                            "metaData": {
+                                "width": 2160,
+                                "height": 3840,
+                                "duration": 5.375,
+                                "orientation": "portrait"
+                            },
+                            "mediatype": "video"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Clean Sheets and Quiet Nights",
+                "description": "There’s a unique kind of peace in slipping into a bed made with fresh, cool sheets after a long day. The quiet of the night wraps around me like a lullaby, and for a little while, the world outside doesn’t exist. It’s a sanctuary of stillness that restores me.\n",
+                "date": "2025-10-16T08:19:00.883Z",
+                "location": "",
+                "media": {
+                    "items": [
+                        {
+                            "signedMedia": {
+                                "audioFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/b324bfb9-3f88-4f34-a16c-e8678c3bac9e.jpg?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=g5Xwi7X-7lKF-OM3fp9cNERk9wmUB5UIjNzmEqJBhM4ZM9kzqPvAKsucu-JwkRxTHlQ-0fWSEsMODdx3Mq4-yLmNZNV0nInalPdlrTFQxjJ63lkVd~pZVSVzL0pvQQBpBcq2-AibDlq8MyY3HCWwNGi6Cg7BcwL2RTLggdN71SqMh5XdWTle9BIAaDiq745j9rnR-kcp8dUpesP6nQTJhkQUBRhCq9niux4FI3SG5f03s5zkVgxaxa-4HHlSVYZgaBZILXZOm~iNjpCnnz-6jbU05Y0Qi6m8epS9MY~DST9mG8uZX4y8z56GWOkdhza76sJrh0~fNw0Metl7KzD8EQ__",
+                                "videoFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/b324bfb9-3f88-4f34-a16c-e8678c3bac9e.jpg?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=g5Xwi7X-7lKF-OM3fp9cNERk9wmUB5UIjNzmEqJBhM4ZM9kzqPvAKsucu-JwkRxTHlQ-0fWSEsMODdx3Mq4-yLmNZNV0nInalPdlrTFQxjJ63lkVd~pZVSVzL0pvQQBpBcq2-AibDlq8MyY3HCWwNGi6Cg7BcwL2RTLggdN71SqMh5XdWTle9BIAaDiq745j9rnR-kcp8dUpesP6nQTJhkQUBRhCq9niux4FI3SG5f03s5zkVgxaxa-4HHlSVYZgaBZILXZOm~iNjpCnnz-6jbU05Y0Qi6m8epS9MY~DST9mG8uZX4y8z56GWOkdhza76sJrh0~fNw0Metl7KzD8EQ__",
+                                "largeImage": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/b324bfb9-3f88-4f34-a16c-e8678c3bac9e.jpg?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=g5Xwi7X-7lKF-OM3fp9cNERk9wmUB5UIjNzmEqJBhM4ZM9kzqPvAKsucu-JwkRxTHlQ-0fWSEsMODdx3Mq4-yLmNZNV0nInalPdlrTFQxjJ63lkVd~pZVSVzL0pvQQBpBcq2-AibDlq8MyY3HCWwNGi6Cg7BcwL2RTLggdN71SqMh5XdWTle9BIAaDiq745j9rnR-kcp8dUpesP6nQTJhkQUBRhCq9niux4FI3SG5f03s5zkVgxaxa-4HHlSVYZgaBZILXZOm~iNjpCnnz-6jbU05Y0Qi6m8epS9MY~DST9mG8uZX4y8z56GWOkdhza76sJrh0~fNw0Metl7KzD8EQ__"
+                            },
+                            "metaData": {
+                                "width": 1919,
+                                "height": 1281
+                            },
+                            "mediatype": "image"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "A Song That Knows Me",
+                "description": "Sometimes a song plays, and it feels like it was written from the depths of my own heart. The lyrics speak the words I haven’t found, and the melody carries emotions I thought only I felt. Music becomes a mirror, and suddenly, I don’t feel so alone.\n",
+                "date": "2025-10-16T08:17:55.700Z",
+                "location": "",
+                "media": {
+                    "items": [
+                        {
+                            "signedMedia": {
+                                "audioFile": "https://d1hdaqk4elbxbd.cloudfront.net/public/sound/815134ec-2fa9-452b-b750-4255a81bccdb.mp3?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=oFREUrO605GxR5CHvgPVzGXOJWTnXQKiBsZCsNONTwjAr4BNgjMpx1tlr~pkic4nHo~FN0P-6fgJuMYCnUkwVXjbpv5hjQgP3-RV2dOH5uHlFDddpFLiY4c8QSNQWwnZTDenqvscVDj~2zjdaQ7EikCL55E-T-xCHOzFwao-eFwTosim2huNeYDEu6XSzCIVMSnxMCIoFoiFxmkhILK8d6DeHrYmqzKrGXiq5SVIdahDCbyEMl-0iBP7HdpmS-EzHRW6n9D5q6iX08BEhoirJqEQBYM~nGcLP-D-zCND5SJhEbNyOZpW6CitvOWAxh6GT0~kRIfH10zZRy3liqaD1w__",
+                                "videoFile": "https://d1hdaqk4elbxbd.cloudfront.net/public/sound/815134ec-2fa9-452b-b750-4255a81bccdb.mp3?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=oFREUrO605GxR5CHvgPVzGXOJWTnXQKiBsZCsNONTwjAr4BNgjMpx1tlr~pkic4nHo~FN0P-6fgJuMYCnUkwVXjbpv5hjQgP3-RV2dOH5uHlFDddpFLiY4c8QSNQWwnZTDenqvscVDj~2zjdaQ7EikCL55E-T-xCHOzFwao-eFwTosim2huNeYDEu6XSzCIVMSnxMCIoFoiFxmkhILK8d6DeHrYmqzKrGXiq5SVIdahDCbyEMl-0iBP7HdpmS-EzHRW6n9D5q6iX08BEhoirJqEQBYM~nGcLP-D-zCND5SJhEbNyOZpW6CitvOWAxh6GT0~kRIfH10zZRy3liqaD1w__",
+                                "largeImage": "https://d1hdaqk4elbxbd.cloudfront.net/public/sound/815134ec-2fa9-452b-b750-4255a81bccdb.mp3?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=oFREUrO605GxR5CHvgPVzGXOJWTnXQKiBsZCsNONTwjAr4BNgjMpx1tlr~pkic4nHo~FN0P-6fgJuMYCnUkwVXjbpv5hjQgP3-RV2dOH5uHlFDddpFLiY4c8QSNQWwnZTDenqvscVDj~2zjdaQ7EikCL55E-T-xCHOzFwao-eFwTosim2huNeYDEu6XSzCIVMSnxMCIoFoiFxmkhILK8d6DeHrYmqzKrGXiq5SVIdahDCbyEMl-0iBP7HdpmS-EzHRW6n9D5q6iX08BEhoirJqEQBYM~nGcLP-D-zCND5SJhEbNyOZpW6CitvOWAxh6GT0~kRIfH10zZRy3liqaD1w__"
+                            },
+                            "metaData": {
+                                "amplitude": "[0.119,0.784,0.794,0.696,0.196,0.036,0.634,0.789,0.794,0.371,0.067,0.335,0.794,0.799,0.593,0.129,0.046,0.794,0.799,0.753,0.247,0.052,0.521,0.799,0.794,0.464,0.088,0.232,0.809,0.804,0.67,0.165,0.036,0.696,0.799,0.784,0.32,0.057,0.407,0.789,0.799,0.552,0.113,0.036,0.031,0.015,0.005,0.005,0.005,0.577,0.789,0.789,0.412,0.077,0.278,0.804,0.799,0.624,0.144,0.026,0.763,0.799,0.768,0.278,0.057,0.469,0.794,0.799,0.495,0.098,0.031,0.021,0.021,0.021,0.026,0.021,0.01,0.01,0.01,0.005,0.005,0,0,0,0,0,0.031,0.804,0.799,0.742,0.242,0.041,0.531,0.794,0.789,0.454,0.082,0.232,0.794,0.794,0.665,0.16,0.026,0.711,0.799,0.778,0.309,0.062,0.423,0.799,0.794,0.541,0.108,0.134,0.804,0.804,0.727,0.206,0.041,0.593,0.794,0.799,0.397,0.072,0.309,0.789,0.794,0.624,0.144,0.041,0.031,0.021,0.005,0.005,0,0.474,0.794,0.789,0.495,0.093,0.18,0.799,0.804,0.686,0.18,0.031,0.66,0.799,0.789,0.345,0.067,0.371,0.799,0.799,0.572,0.124,0.031,0.026,0.021,0.021,0.026,0.026,0.01,0.01,0.01,0.005,0.005,0,0,0,0,0,0,0.722,0.804,0.773,0.309,0.052,0.423,0.794,0.804,0.526,0.103,0.129,0.799,0.799,0.716,0.206,0.036,0.608,0.799,0.794,0.387,0.067,0.314,0.794,0.799,0.608,0.134,0.026,0.794,0.799,0.763,0.268,0.046,0.49,0.799,0.799,0.479,0.088,0.196,0.804,0.789,0.686,0.18,0.031,0.021,0.015,0.005,0.01,0.015,0.371,0.794,0.804,0.562,0.113,0.082,0.794,0.794,0.737,0.227,0.041,0.557,0.799,0.799,0.428,0.077,0.263,0.794,0.794,0.644,0.149,0.026,0.01,0.015,0.01,0.015,0.005,0.01,0.015,0.01,0.005,0,0,0,0,0,0,0,0.619,0.789,0.804,0.371,0.067,0.32,0.794,0.804,0.598,0.134,0.026,0.794,0.799,0.758,0.258,0.046,0.505,0.799,0.799,0.469,0.088,0.211,0.799,0.794,0.675,0.17,0.031,0.691,0.799,0.789,0.33,0.062,0.387,0.799,0.799,0.557,0.113,0.093,0.804,0.789,0.732,0.222,0.041,0.021,0.015,0.005,0.01,0.015,0.268,0.794,0.804,0.634,0.144,0.026,0.753,0.794,0.773,0.284,0.052,0.448,0.799,0.799,0.51,0.098,0.16,0.794,0.799,0.696,0.191,0.031,0.01,0.015,0.015,0.015,0.005,0.01,0.015,0.01,0.005,0,0,0,0,0,0,0,0.515,0.789,0.784,0.443,0.072,0.242,0.804,0.794,0.67,0.165,0.067,0.706,0.804,0.789,0.33,0.129,0.438,0.804,0.794,0.562,0.201,0.227,0.809,0.809,0.737,0.263,0.227,0.649,0.825,0.814,0.459,0.263,0.402,0.814,0.804,0.665,0.232,0.247,0.799,0.799,0.814,0.33,0.263,0.268,0.247,0.227,0.273,0.268,0.33,0.835,0.814,0.737,0.309,0.237,0.742,0.82,0.825,0.428,0.284,0.546,0.825,0.82,0.624,0.314,0.263,0.83,0.814,0.773,0.32,0.278,0.222,0.273,0.206,0.284,0.222,0.247,0.206,0.289,0.211,0.253,0.216,0.263,0.232,0.237,0.242,0.258,0.479,0.83,0.83,0.588,0.227,0.284,0.784,0.83,0.722,0.294,0.201,0.639,0.82,0.809,0.423,0.18,0.376,0.814,0.814,0.644,0.232,0.165,0.799,0.799,0.773,0.314,0.17,0.552,0.82,0.814,0.51,0.165,0.273,0.789,0.804,0.696,0.222,0.191,0.701,0.809,0.799,0.397,0.216,0.196,0.16,0.258,0.222,0.268,0.227,0.814,0.835,0.763,0.309,0.278,0.639,0.84,0.804,0.495,0.335,0.428,0.809,0.814,0.691,0.33,0.253,0.794,0.83,0.804,0.387,0.278,0.253,0.216,0.232,0.211,0.227,0.18,0.258,0.196,0.191,0.165,0.191,0.134,0.149,0.144,0.149,0.119,0.381,0.789,0.825,0.588,0.155,0.108,0.794,0.804,0.763,0.273,0.108,0.536,0.804,0.809,0.49,0.155,0.284,0.799,0.809,0.706,0.289,0.186,0.727,0.809,0.799,0.376,0.196,0.454,0.814,0.83,0.603,0.289,0.376,0.82,0.809,0.747,0.314,0.18,0.644,0.794,0.83,0.474,0.242,0.216,0.191,0.242,0.222,0.247,0.222,0.773,0.804,0.773,0.387,0.299,0.536,0.825,0.83,0.588,0.263,0.407,0.84,0.825,0.747,0.371,0.32,0.711,0.825,0.84,0.464,0.294,0.273,0.294,0.289,0.237,0.289,0.201,0.253,0.258,0.206,0.268,0.216,0.222,0.216,0.237,0.211,0.196,0.428,0.866,0.912,0.716,0.299,0.149,0.716,0.804,0.799,0.371,0.186,0.474,0.799,0.809,0.582,0.175,0.222,0.814,0.814,0.753,0.273,0.18,0.603,0.809,0.804,0.459,0.155,0.397,0.799,0.809,0.66,0.206,0.175,0.773,0.804,0.773,0.309,0.155,0.51,0.814,0.784,0.531,0.18,0.17,0.175,0.155,0.18,0.18,0.149,0.675,0.825,0.794,0.392,0.247,0.433,0.814,0.82,0.629,0.304,0.216,0.83,0.825,0.768,0.33,0.314,0.624,0.814,0.825,0.521,0.242,0.237,0.258,0.247,0.191,0.232,0.216,0.206,0.211,0.206,0.191,0.155,0.165,0.139,0.139,0.129,0.119,0.16,0.82,0.814,0.711,0.222,0.098,0.608,0.809,0.804,0.428,0.124,0.371,0.799,0.809,0.639,0.196,0.186,0.784,0.814,0.784,0.335,0.134,0.562,0.809,0.814,0.552,0.227,0.392,0.83,0.82,0.706,0.335,0.242,0.696,0.82,0.799,0.387,0.294,0.407,0.83,0.83,0.593,0.258,0.242,0.144,0.18,0.191,0.191,0.227,0.546,0.845,0.809,0.526,0.232,0.418,0.804,0.804,0.675,0.33,0.278,0.758,0.84,0.809,0.387,0.34,0.546,0.825,0.83,0.603,0.273,0.278,0.253,0.247,0.253,0.268,0.242,0.227,0.247,0.227,0.237,0.242,0.253,0.232,0.237,0.247,0.201,0.247,0.773,0.747,0.706,0.345,0.191,0.603,0.835,0.799,0.526,0.227,0.314,0.804,0.809,0.696,0.232,0.17,0.696,0.804,0.799,0.392,0.155,0.479,0.814,0.799,0.598,0.216,0.17,0.814,0.809,0.758,0.304,0.206,0.588,0.809,0.82,0.459,0.186,0.371,0.799,0.82,0.665,0.201,0.17,0.17,0.124,0.16,0.16,0.129,0.515,0.825,0.809,0.552,0.191,0.284,0.804,0.799,0.727,0.32,0.155,0.68,0.809,0.804,0.448,0.278,0.428,0.84,0.83,0.629,0.294,0.273,0.201,0.258,0.273,0.222,0.242,0.242,0.196,0.211,0.196,0.16,0.17,0.155,0.144,0.144,0.119,0.124,0.701,0.809,0.83,0.33,0.129,0.428,0.809,0.778,0.582,0.149,0.17,0.799,0.794,0.747,0.273,0.139,0.588,0.799,0.804,0.438,0.222,0.387,0.825,0.809,0.67,0.237,0.299,0.789,0.835,0.809,0.392,0.294,0.526,0.845,0.814,0.588,0.361,0.366,0.784,0.799,0.763,0.402,0.278,0.273,0.294,0.196,0.273,0.211,0.51,0.804,0.84,0.613,0.268,0.237,0.82,0.82,0.768,0.356,0.201,0.608,0.82,0.82,0.541,0.247,0.381,0.809,0.84,0.732,0.299,0.314,0.268,0.366,0.32,0.253,0.351,0.268,0.366,0.294,0.237,0.309,0.273,0.304,0.278,0.242,0.258,0.258,0.67,0.851,0.82,0.5,0.273,0.438,0.809,0.809,0.655,0.299,0.232,0.778,0.814,0.804,0.366,0.232,0.526,0.804,0.809,0.572,0.227,0.366,0.809,0.809,0.727,0.263,0.191,0.675,0.82,0.814,0.402,0.211,0.423,0.804,0.82,0.613,0.268,0.206,0.804,0.84,0.753,0.32,0.149,0.186,0.227,0.175,0.237,0.165,0.397,0.814,0.809,0.701,0.263,0.211,0.722,0.82,0.809,0.351,0.201,0.49,0.799,0.809,0.552,0.206,0.216,0.804,0.804,0.732,0.268,0.17,0.191,0.139,0.17,0.144,0.18,0.17,0.108,0.186,0.124,0.18,0.16,0.113,0.175,0.119,0.155,0.129,0.521,0.804,0.799,0.505,0.16,0.242,0.809,0.799,0.706,0.232,0.119,0.701,0.804,0.804,0.418,0.253,0.546,0.856,0.851,0.732,0.582,0.706,0.974,1,0.923,0.562,0.562,0.742,0.892,0.861,0.644,0.459,0.485,0.881,0.845,0.711,0.376,0.381,0.799,0.871,0.933,0.67,0.753,0.546,0.454,0.479,0.51,0.582,0.747,0.923,0.918,0.861,0.552,0.536,0.763,0.923,0.943,0.701,0.701,0.804,0.995,0.985,0.923,0.66,0.66,0.912,0.923,0.861,0.536,0.464,0.479,0.412,0.454,0.412,0.536,0.448,0.552,0.536,0.582,0.572,0.567,0.572,0.649,0.619,0.691,0.696,0.737,0.799,0.887,0.711,0.51,0.665,0.892,0.938,0.871,0.577,0.66,0.747,0.99,0.928,0.711,0.639,0.67,0.897,0.876,0.814,0.407,0.479,0.789,0.887,0.82,0.464,0.314,0.634,0.856,0.83,0.655,0.371,0.567,0.825,0.943,0.861,0.624,0.66,0.794,0.851,0.851,0.706,0.577,0.593,0.232,0.515,0.407,0.557,0.526,0.881,0.943,0.835,0.619,0.515,0.711,0.969,0.866,0.784,0.521,0.68,0.887,0.871,0.758,0.515,0.433,0.784,0.845,0.887,0.577,0.572,0.515,0.51,0.402,0.531,0.531,0.407,0.562,0.526,0.521,0.66,0.613,0.619,0.629,0.531,0.624,0.722,0.763,0.799,0.851,0.711,0.51,0.557,0.845,0.835,0.768,0.593,0.5,0.655,0.804,0.866,0.82,0.541,0.443,0.835,0.773,0.624,0.381,0.505,0.665,0.68,0.634,0.407,0.33,0.474,0.557,0.577,0.474,0.284,0.268,0.505,0.49,0.469,0.253,0.253,0.392,0.474,0.51,0.361,0.314,0.247,0.216,0.196,0.139,0.17,0.196,0.371,0.361,0.309,0.232,0.258,0.247,0.314,0.309,0.273,0.191,0.16,0.247,0.232,0.222,0.129,0.113,0.165,0.186,0.18,0.103,0.093,0.088,0.077,0.067,0.052,0.036,0.046,0.062,0.052,0.041,0.046,0.036,0.031,0.026,0.01,0.005,0]"
+                            },
+                            "mediatype": "sound"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "First Sip of Coffee",
+                "description": "The first sip of coffee is like a calming ritual that anchors my day. Its warmth seeps into me, slowly waking my senses and softening my edges. In that brief, quiet moment, I feel comforted, focused, and ready to face whatever comes.\n",
+                "date": "2025-10-16T08:17:10.488Z",
+                "location": "",
+                "media": {
+                    "items": [
+                        {
+                            "signedMedia": {
+                                "audioFile": "https://d1hdaqk4elbxbd.cloudfront.net/public/video/7b02a4f4-325d-46b0-bbc9-35513770aa10.mp4?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=x2HBNPTp~t9LPUrwpQkXolNuhJlDRq81BFnwm1PcWPT0xA5TNMUFw1fOS0UX~gCxe6m~Hm1H1r0am6UDf4AIWKR05P-k6oitslut-sFj04YUoaejtIaz13KV9oP0DXyBN2l8ogWMZUIT~ryT18sT0uiwAR8tbbQml3ou2yDpVqRyrNAJi1Xz8GTfsfiIHC~1VkqYLTzTjhqnhVOhkKQwswRFIL4REoOz10BDObTHIQEu1lDF0cIp9Kw0l4ilZYufzgqO3N199gAMC-5nfSrih-EZCiz1Jsiv0bA1MS2bQiLwirt-AVE1Up8a14YMtOsuZvQFtrAVh0BrMPFwaE4Ccw__",
+                                "videoFile": "https://d1hdaqk4elbxbd.cloudfront.net/public/video/7b02a4f4-325d-46b0-bbc9-35513770aa10.mp4?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=x2HBNPTp~t9LPUrwpQkXolNuhJlDRq81BFnwm1PcWPT0xA5TNMUFw1fOS0UX~gCxe6m~Hm1H1r0am6UDf4AIWKR05P-k6oitslut-sFj04YUoaejtIaz13KV9oP0DXyBN2l8ogWMZUIT~ryT18sT0uiwAR8tbbQml3ou2yDpVqRyrNAJi1Xz8GTfsfiIHC~1VkqYLTzTjhqnhVOhkKQwswRFIL4REoOz10BDObTHIQEu1lDF0cIp9Kw0l4ilZYufzgqO3N199gAMC-5nfSrih-EZCiz1Jsiv0bA1MS2bQiLwirt-AVE1Up8a14YMtOsuZvQFtrAVh0BrMPFwaE4Ccw__",
+                                "largeImage": "https://d1hdaqk4elbxbd.cloudfront.net/public/video/7b02a4f4-325d-46b0-bbc9-35513770aa10.mp4?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=x2HBNPTp~t9LPUrwpQkXolNuhJlDRq81BFnwm1PcWPT0xA5TNMUFw1fOS0UX~gCxe6m~Hm1H1r0am6UDf4AIWKR05P-k6oitslut-sFj04YUoaejtIaz13KV9oP0DXyBN2l8ogWMZUIT~ryT18sT0uiwAR8tbbQml3ou2yDpVqRyrNAJi1Xz8GTfsfiIHC~1VkqYLTzTjhqnhVOhkKQwswRFIL4REoOz10BDObTHIQEu1lDF0cIp9Kw0l4ilZYufzgqO3N199gAMC-5nfSrih-EZCiz1Jsiv0bA1MS2bQiLwirt-AVE1Up8a14YMtOsuZvQFtrAVh0BrMPFwaE4Ccw__",
+                                "thumbnailImage": "https://s3.us-east-1.amazonaws.com/lugelo.dev.media/public/video-thumbs/7b02a4f4-325d-46b0-bbc9-35513770aa10_1.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIASV4WTLOVWL5GL5FW%2F20251117%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251117T055146Z&X-Amz-Expires=604800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIEtDEb2%2FV6GikL2lvikTuHnDdhQWALIcf75ae2anvzh5AiEAzIo7WBD1p%2B3P6xSqMueCxs%2FoKmVvShaehR5PS8xmr9sqjQMIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAEGgwxODQ0NjI1NjQyNjciDKaTVg274B%2B1WC4o1SrhAorrIbsBeRT6Ky82%2FBNC0w%2Fw6%2FFKQ1s9td832BjpG7fpTTphzYUTRM8SHgqF0X%2BXrEAJeKbUIATNuHd6j3NpPLiooZenMWqn%2BJwvn9cksdMRggmITD0oU1CLI4HWvKs5904qX4KkPczjgzswezYDJ4tik4HNfpcrPHo3W5R%2BvExK3iT8J71nPlQ7xOmB0%2BQ7dVpyk9frnthXMJ2om9%2FEamCVzzbwfpJnfrgasZcWqfLf4QVj8P2Ld3%2BYeFmI0UGvduxfOxUW7b4GW1UnibDkCe2ZXcFf9HAyR5WssC4Xo2OXwaHDxdJa5ZURfirfCPVlplBPokLzFERq%2FpqCATAD%2FqpR%2BgAopyWwdVcY%2Fasv06o6NzIjYp3jWUny0VXrW7w8kTM%2BAisrcLOLo78z6No7yLD%2FpQ4w%2Fi7FCrQY9lMlLGitTIeW3oWrQENZCfI9U9BXxXhfpxgANCC4%2FzbUkMt7KtnkMMTd6sgGOp4BNpkZpy49iso%2FtsBXLLyNIs5db3wADAWHMaOSDHU8jCi14oCBxKB%2BlTMEzgfc2wRzvtpJE0uaYj%2BRKNi9gj%2BF1D1eBkjQKK9fyFdvdPAV6IiDq%2BR4CVRPonJusBn9hqFJiDnXPkFQFw6zPhSc5CvaemyDj1QniKk6HseAjH9RKP%2BURlWCVk6aSg2ARj34O56Y0CPYxSEoIIIF%2FynuGBc%3D&X-Amz-Signature=1279a749a3fca038438be4f4da92ad0750970a92f495e50d909e9673688afc90&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+                            },
+                            "metaData": {
+                                "width": 720,
+                                "height": 1280,
+                                "duration": 24.49,
+                                "orientation": "portrait"
+                            },
+                            "mediatype": "video"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Morning Sun on My Face",
+                "description": "There’s something quietly powerful about the way sunlight pours in through the window first thing in the morning. As it touches my skin, I feel warm and present, like the universe is offering a fresh start. It’s a soft, golden moment that holds the promise of new beginnings.\n",
+                "date": "2025-10-16T08:14:47.499Z",
+                "location": "",
+                "media": {
+                    "items": [
+                        {
+                            "signedMedia": {
+                                "audioFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/0a3c9a8c-287a-4a12-92fb-74ba3ba4f383.jpg?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=UFhVS-yWlkmaTYVF8UWIsJ0L4vNqfiZQ-HgomEZYnlbl0NuTjDJEmVTKRFp3hMUZxpbAXDtqvEeLYBDNEYS3nfRS0j4J1Cp2Mc53wZDR7bETCJo-P~JWBISU61WXiTiJytPWrhP35Ax7-Stf3W1Xn6rjwEpq7uMd1uctOXX21clyI7bx7aEaA4daQ~F10T3tLZlCKVbj-0utEn-V6-Mm9PVveHuaulBJV7T7TT~fYBOjfNwvHPXVSj2wLGY4lCSp2cSwc0HNjg-c2HWRgtD0NXnoFKjE6~lTRIi06aA9~Q2-dUyGjqRD2aCT3bLW~YC-xYiD9tZ8DNmhApEFBFQH7A__",
+                                "videoFile": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/0a3c9a8c-287a-4a12-92fb-74ba3ba4f383.jpg?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=UFhVS-yWlkmaTYVF8UWIsJ0L4vNqfiZQ-HgomEZYnlbl0NuTjDJEmVTKRFp3hMUZxpbAXDtqvEeLYBDNEYS3nfRS0j4J1Cp2Mc53wZDR7bETCJo-P~JWBISU61WXiTiJytPWrhP35Ax7-Stf3W1Xn6rjwEpq7uMd1uctOXX21clyI7bx7aEaA4daQ~F10T3tLZlCKVbj-0utEn-V6-Mm9PVveHuaulBJV7T7TT~fYBOjfNwvHPXVSj2wLGY4lCSp2cSwc0HNjg-c2HWRgtD0NXnoFKjE6~lTRIi06aA9~Q2-dUyGjqRD2aCT3bLW~YC-xYiD9tZ8DNmhApEFBFQH7A__",
+                                "largeImage": "https://d1hdaqk4elbxbd.cloudfront.net/resizedImages/large/0a3c9a8c-287a-4a12-92fb-74ba3ba4f383.jpg?Expires=1763963507&Key-Pair-Id=K2HQZ9L3CK02BG&Signature=UFhVS-yWlkmaTYVF8UWIsJ0L4vNqfiZQ-HgomEZYnlbl0NuTjDJEmVTKRFp3hMUZxpbAXDtqvEeLYBDNEYS3nfRS0j4J1Cp2Mc53wZDR7bETCJo-P~JWBISU61WXiTiJytPWrhP35Ax7-Stf3W1Xn6rjwEpq7uMd1uctOXX21clyI7bx7aEaA4daQ~F10T3tLZlCKVbj-0utEn-V6-Mm9PVveHuaulBJV7T7TT~fYBOjfNwvHPXVSj2wLGY4lCSp2cSwc0HNjg-c2HWRgtD0NXnoFKjE6~lTRIi06aA9~Q2-dUyGjqRD2aCT3bLW~YC-xYiD9tZ8DNmhApEFBFQH7A__"
+                            },
+                            "metaData": {
+                                "width": 2942,
+                                "height": 3677
+                            },
+                            "mediatype": "image"
+                        }
+                    ]
+                }
             }
-          ]
-        }
-      }
-    ],
-    "isPrimeUser": true,
+        ],
+        "isPrimeUser": true,
     "momentArColor": [
       "#F1D4DB",
       "#F0E9A8",
